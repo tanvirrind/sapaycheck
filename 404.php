@@ -1,1 +1,17 @@
-PD9waHAKaHR0cF9yZXNwb25zZV9jb2RlKDQwNCk7CiRwYWdlVGl0bGUgPSAiUGFnZSBub3QgZm91bmQgfCBTQSBQYXljaGVjayI7CiRwYWdlRGVzYyA9ICJUaGUgcGFnZSB5b3UncmUgbG9va2luZyBmb3IgZG9lc24ndCBleGlzdC4gVHJ5IHRoZSB0YWtlLWhvbWUgcGF5IGNhbGN1bGF0b3IgaW5zdGVhZC4iOwokY2Fub25pY2FsID0gIi80MDQucGhwIjsKcmVxdWlyZSBfX0RJUl9fIC4gJy9pbmNsdWRlcy9oZWFkZXIucGhwJzsKPz4KPHNlY3Rpb24gY2xhc3M9InNlY3Rpb24gY2VudGVyIj4KICA8ZGl2IGNsYXNzPSJ3cmFwIj4KICAgIDxkaXYgY2xhc3M9ImtpY2tlciI+NDA0PC9kaXY+CiAgICA8aDE+VGhhdCBwYWdlIGRvZXNuJ3QgZXhpc3Q8L2gxPgogICAgPHAgY2xhc3M9InN1YiIgc3R5bGU9Im1hcmdpbjowIGF1dG8gMjRweCI+VGhlIGxpbmsgbWF5IGJlIGJyb2tlbiwgb3IgdGhlIHBhZ2UgbW92ZWQuIFRoZSBjYWxjdWxhdG9yIGlzIHRoaXMgd2F5OjwvcD4KICAgIDxhIGhyZWY9Ii9jYWxjdWxhdG9yLyIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSI+VGFrZS1ob21lIHBheSBjYWxjdWxhdG9yPC9hPgogICAgPHAgc3R5bGU9Im1hcmdpbi10b3A6MTZweCI+PGEgaHJlZj0iLyI+QmFjayB0byBob21lPC9hPjwvcD4KICA8L2Rpdj4KPC9zZWN0aW9uPgo8P3BocCByZXF1aXJlIF9fRElSX18gLiAnL2luY2x1ZGVzL2Zvb3Rlci5waHAnOyA/Pgo=
+<?php
+http_response_code(404);
+$pageTitle = "Page not found | SA Paycheck";
+$pageDesc = "The page you're looking for doesn't exist. Try the take-home pay calculator instead.";
+$canonical = "/404.php";
+require __DIR__ . '/includes/header.php';
+?>
+<section class="section center">
+  <div class="wrap">
+    <div class="kicker">404</div>
+    <h1>That page doesn't exist</h1>
+    <p class="sub" style="margin:0 auto 24px">The link may be broken, or the page moved. The calculator is this way:</p>
+    <a href="/calculator/" class="btn btn-primary">Take-home pay calculator</a>
+    <p style="margin-top:16px"><a href="/">Back to home</a></p>
+  </div>
+</section>
+<?php require __DIR__ . '/includes/footer.php'; ?>
