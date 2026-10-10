@@ -1,1 +1,47 @@
-PD9waHAKJHBhZ2VUaXRsZSA9ICJVSUYgQ2FsY3VsYXRvciBTb3V0aCBBZnJpY2EgKDIwMjYvMjAyNykg4oCUIDElIENvbnRyaWJ1dGlvbiB8IFNBIFBheWNoZWNrIjsKJHBhZ2VEZXNjID0gIkZyZWUgVUlGIGNhbGN1bGF0b3I6IHdvcmsgb3V0IHlvdXIgbW9udGhseSBVbmVtcGxveW1lbnQgSW5zdXJhbmNlIEZ1bmQgZGVkdWN0aW9uLiAxJSBvZiBzYWxhcnksIGNhcHBlZCBhdCBSMTc3LjEyL21vbnRoIGZvciAyMDI2LzIwMjcuIjsKJHBhZ2VLZXl3b3JkcyA9ICJVSUYgY2FsY3VsYXRvciBzb3V0aCBhZnJpY2EsIFVJRiBkZWR1Y3Rpb24sIHVuZW1wbG95bWVudCBpbnN1cmFuY2UgZnVuZCBjb250cmlidXRpb24iOwokY2Fub25pY2FsID0gIi91aWYtY2FsY3VsYXRvci8iOwokZXh0cmFIZWFkID0gJzxzY3JpcHQgdHlwZT0iYXBwbGljYXRpb24vbGQranNvbiI+JyAuIGpzb25fZW5jb2RlKFsKICAgICJAY29udGV4dCIgPT4gImh0dHBzOi8vc2NoZW1hLm9yZyIsCiAgICAiQHR5cGUiID0+ICJXZWJBcHBsaWNhdGlvbiIsCiAgICAibmFtZSIgPT4gIlNBIFBheWNoZWNrIOKAlCBVSUYgQ2FsY3VsYXRvciIsCiAgICAidXJsIiA9PiAiaHR0cHM6Ly9zYXBheWNoZWNrLmNvLnphL3VpZi1jYWxjdWxhdG9yLyIsCiAgICAiYXBwbGljYXRpb25DYXRlZ29yeSIgPT4gIkZpbmFuY2VBcHBsaWNhdGlvbiIsCiAgICAib3BlcmF0aW5nU3lzdGVtIiA9PiAiQW55IiwKICAgICJvZmZlcnMiID0+IFsiQHR5cGUiID0+ICJPZmZlciIsICJwcmljZSIgPT4gIjAiLCAicHJpY2VDdXJyZW5jeSIgPT4gIlpBUiJdLApdKSAuICc8L3NjcmlwdD4nOwpyZXF1aXJlIF9fRElSX18gLiAnLy4uL2luY2x1ZGVzL2hlYWRlci5waHAnOwo/Pgo8c2VjdGlvbiBjbGFzcz0ic2VjdGlvbiI+CiAgPGRpdiBjbGFzcz0id3JhcCIgc3R5bGU9Im1heC13aWR0aDo3NjBweCI+CiAgICA8ZGl2IGNsYXNzPSJraWNrZXIiPkZyZWUgdG9vbDwvZGl2PgogICAgPGgxIGNsYXNzPSJoMiI+VUlGIGNhbGN1bGF0b3Ig4oCUIFNvdXRoIEFmcmljYSA8P3BocCBlY2hvICRUQVhfWUVBUl9MQUJFTDsgPz48L2gxPgogICAgPHAgY2xhc3M9InN1YiI+VUlGIChVbmVtcGxveW1lbnQgSW5zdXJhbmNlIEZ1bmQpIGlzIDxzdHJvbmc+MSUgb2YgeW91ciBncm9zcyBtb250aGx5IHNhbGFyeTwvc3Ryb25nPiwgY2FwcGVkIGF0IDxzdHJvbmc+PD9waHAgZWNobyBzYXBjX3IoJFVJRl9DQVBfTU9OVEgpOyA/PiBwZXIgbW9udGg8L3N0cm9uZz4uIFlvdXIgZW1wbG95ZXIgcGF5cyBhIG1hdGNoaW5nIDElIOKAlCBpdCBuZXZlciBjb21lcyBvdXQgb2YgeW91ciBwYXkgdHdpY2UuPC9wPgogICAgPGRpdiBjbGFzcz0iY2FyZCI+CiAgICAgIDxmb3JtIGlkPSJ1aWZDYWxjIiBvbnN1Ym1pdD0icmV0dXJuIGZhbHNlOyI+CiAgICAgICAgPGRpdiBjbGFzcz0iZmllbGQiPgogICAgICAgICAgPGxhYmVsIGZvcj0idWlmLXNhbGFyeSI+R3Jvc3MgbW9udGhseSBzYWxhcnk8L2xhYmVsPgogICAgICAgICAgPGlucHV0IHR5cGU9Im51bWJlciIgaWQ9InVpZi1zYWxhcnkiIHZhbHVlPSIzNTAwMCIgbWluPSIwIiBzdGVwPSIxMDAiIGlucHV0bW9kZT0iZGVjaW1hbCIgYXJpYS1sYWJlbD0iR3Jvc3MgbW9udGhseSBzYWxhcnkgaW4gUmFuZCI+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZm9ybT4KICAgICAgPGRpdiBjbGFzcz0iYW5zd2VyLWJveCI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTouOXJlbTtjb2xvcjp2YXIoLS1tdXRlZCkiPllvdXIgVUlGIGRlZHVjdGlvbjo8L3NwYW4+PGRpdiBpZD0idWlmLW91dCIgY2xhc3M9Im1vbm8iIHN0eWxlPSJmb250LXNpemU6MS40cmVtO2ZvbnQtd2VpZ2h0OjgwMCIgYXJpYS1saXZlPSJwb2xpdGUiPjwvZGl2PjwvZGl2PgogICAgPC9kaXY+CiAgICA8c2NyaXB0PnZhciBTQVBDX1RBWCA9IDw/cGhwIGVjaG8ganNvbl9lbmNvZGUoWyd1aWZfcmF0ZScgPT4gJFVJRl9SQVRFLCAndWlmX2NhcCcgPT4gJFVJRl9DQVBfTU9OVEhdKTsgPz47PC9zY3JpcHQ+CiAgICA8aDI+SG93IFVJRiB3b3JrczwvaDI+CiAgICA8dWw+CiAgICAgIDxsaT48c3Ryb25nPlJhdGU6PC9zdHJvbmc+IDElIGVtcGxveWVlICsgMSUgZW1wbG95ZXIsIG9uIHJlbXVuZXJhdGlvbiB1cCB0byBSMTcsNzEyL21vbnRoLjwvbGk+CiAgICAgIDxsaT48c3Ryb25nPkNhcDo8L3N0cm9uZz4gb25jZSB5b3VyIHNhbGFyeSBwYXNzZXMgUjE3LDcxMi9tb250aCwgeW91ciBkZWR1Y3Rpb24gc3RheXMgYXQgPD9waHAgZWNobyBzYXBjX3IoJFVJRl9DQVBfTU9OVEgpOyA/PiDigJQgZWFybmluZyBtb3JlIGRvZXNuJ3QgcmFpc2UgaXQuPC9saT4KICAgICAgPGxpPjxzdHJvbmc+V2hhdCBpdCdzIGZvcjo8L3N0cm9uZz4gc2hvcnQtdGVybSByZWxpZWYgaWYgeW91IGxvc2UgeW91ciBqb2IsIGdvIG9uIG1hdGVybml0eSBsZWF2ZSwgb3IgY2FuJ3Qgd29yayBkdWUgdG8gaWxsbmVzcy48L2xpPgogICAgICA8bGk+PHN0cm9uZz5XaG8ncyBleGNsdWRlZDo8L3N0cm9uZz4gd29ya2VycyB1bmRlciAyNCBob3Vycy9tb250aCwgc29tZSBnb3Zlcm5tZW50IGVtcGxveWVlcywgYW5kIGluZGVwZW5kZW50IGNvbnRyYWN0b3JzIChhbW9uZyBvdGhlcnMpLjwvbGk+CiAgICA8L3VsPgogICAgPGRpdiBjbGFzcz0iZmFxIj4KICAgICAgPGRldGFpbHM+PHN1bW1hcnk+SXMgVUlGIGNvbXB1bHNvcnkgaW4gU291dGggQWZyaWNhPzwvc3VtbWFyeT48cD5ZZXMsIGZvciBtb3N0IGVtcGxveWVlcyB3b3JraW5nIG1vcmUgdGhhbiAyNCBob3VycyBhIG1vbnRoLiBZb3VyIGVtcGxveWVyIG11c3QgcmVnaXN0ZXIgd2l0aCB0aGUgVUlGIGFuZCBkZWR1Y3QgeW91ciAxJSBtb250aGx5LjwvcD48L2RldGFpbHM+CiAgICAgIDxkZXRhaWxzPjxzdW1tYXJ5PldoYXQgaXMgdGhlIG1heGltdW0gVUlGIGRlZHVjdGlvbj88L3N1bW1hcnk+PHA+PD9waHAgZWNobyBzYXBjX3IoJFVJRl9DQVBfTU9OVEgpOyA/PiBwZXIgbW9udGggKDw/cGhwIGVjaG8gc2FwY19yKCRVSUZfQ0FQX01PTlRIICogMTIpOyA/PiBwZXIgeWVhcikgZm9yIDw/cGhwIGVjaG8gJFRBWF9ZRUFSX0xBQkVMOyA/PiDigJQgMSUgb2YgdGhlIFIxNyw3MTIgcmVtdW5lcmF0aW9uIGNlaWxpbmcuPC9wPjwvZGV0YWlscz4KICAgICAgPGRldGFpbHM+PHN1bW1hcnk+RG9lcyBteSBlbXBsb3llciBhbHNvIHBheSBVSUY/PC9zdW1tYXJ5PjxwPlllcyDigJQgYSBtYXRjaGluZyAxJSwgcGFpZCBieSB0aGUgZW1wbG95ZXIgb24gdG9wIG9mIHlvdXIgc2FsYXJ5LiBJdCBpcyBub3QgZGVkdWN0ZWQgZnJvbSB5b3VyIHBheS48L3A+PC9kZXRhaWxzPgogICAgPC9kaXY+CiAgICA8cCBzdHlsZT0ibWFyZ2luLXRvcDoyNHB4Ij48YSBocmVmPSIvY2FsY3VsYXRvci8iIGNsYXNzPSJidG4gYnRuLXByaW1hcnkiPlNlZSB5b3VyIGZ1bGwgdGFrZS1ob21lIGJyZWFrZG93bjwvYT48L3A+CiAgPC9kaXY+Cjwvc2VjdGlvbj4KPD9waHAgcmVxdWlyZSBfX0RJUl9fIC4gJy8uLi9pbmNsdWRlcy9mb290ZXIucGhwJzsgPz4K
+<?php
+$pageTitle = "UIF Calculator South Africa (2026/2027) — 1% Contribution | SA Paycheck";
+$pageDesc = "Free UIF calculator: work out your monthly Unemployment Insurance Fund deduction. 1% of salary, capped at R177.12/month for 2026/2027.";
+$pageKeywords = "UIF calculator south africa, UIF deduction, unemployment insurance fund contribution";
+$canonical = "/uif-calculator/";
+$extraHead = '<script type="application/ld+json">' . json_encode([
+    "@context" => "https://schema.org",
+    "@type" => "WebApplication",
+    "name" => "SA Paycheck — UIF Calculator",
+    "url" => "https://sapaycheck.co.za/uif-calculator/",
+    "applicationCategory" => "FinanceApplication",
+    "operatingSystem" => "Any",
+    "offers" => ["@type" => "Offer", "price" => "0", "priceCurrency" => "ZAR"],
+]) . '</script>';
+require __DIR__ . '/../includes/header.php';
+?>
+<section class="section">
+  <div class="wrap" style="max-width:760px">
+    <div class="kicker">Free tool</div>
+    <h1 class="h2">UIF calculator — South Africa <?php echo $TAX_YEAR_LABEL; ?></h1>
+    <p class="sub">UIF (Unemployment Insurance Fund) is <strong>1% of your gross monthly salary</strong>, capped at <strong><?php echo sapc_r($UIF_CAP_MONTH); ?> per month</strong>. Your employer pays a matching 1% — it never comes out of your pay twice.</p>
+    <div class="card">
+      <form id="uifCalc" onsubmit="return false;">
+        <div class="field">
+          <label for="uif-salary">Gross monthly salary</label>
+          <input type="number" id="uif-salary" value="35000" min="0" step="100" inputmode="decimal" aria-label="Gross monthly salary in Rand">
+        </div>
+      </form>
+      <div class="answer-box"><span style="font-size:.9rem;color:var(--muted)">Your UIF deduction:</span><div id="uif-out" class="mono" style="font-size:1.4rem;font-weight:800" aria-live="polite"></div></div>
+    </div>
+    <script>var SAPC_TAX = <?php echo json_encode(['uif_rate' => $UIF_RATE, 'uif_cap' => $UIF_CAP_MONTH]); ?>;</script>
+    <h2>How UIF works</h2>
+    <ul>
+      <li><strong>Rate:</strong> 1% employee + 1% employer, on remuneration up to R17,712/month.</li>
+      <li><strong>Cap:</strong> once your salary passes R17,712/month, your deduction stays at <?php echo sapc_r($UIF_CAP_MONTH); ?> — earning more doesn't raise it.</li>
+      <li><strong>What it's for:</strong> short-term relief if you lose your job, go on maternity leave, or can't work due to illness.</li>
+      <li><strong>Who's excluded:</strong> workers under 24 hours/month, some government employees, and independent contractors (among others).</li>
+    </ul>
+    <div class="faq">
+      <details><summary>Is UIF compulsory in South Africa?</summary><p>Yes, for most employees working more than 24 hours a month. Your employer must register with the UIF and deduct your 1% monthly.</p></details>
+      <details><summary>What is the maximum UIF deduction?</summary><p><?php echo sapc_r($UIF_CAP_MONTH); ?> per month (<?php echo sapc_r($UIF_CAP_MONTH * 12); ?> per year) for <?php echo $TAX_YEAR_LABEL; ?> — 1% of the R17,712 remuneration ceiling.</p></details>
+      <details><summary>Does my employer also pay UIF?</summary><p>Yes — a matching 1%, paid by the employer on top of your salary. It is not deducted from your pay.</p></details>
+    </div>
+    <p style="margin-top:24px"><a href="/calculator/" class="btn btn-primary">See your full take-home breakdown</a></p>
+  </div>
+</section>
+<?php require __DIR__ . '/../includes/footer.php'; ?>
