@@ -1,1 +1,4 @@
-VXNlci1hZ2VudDogKgpBbGxvdzogLwoKU2l0ZW1hcDogaHR0cHM6Ly9zYXBheWNoZWNrLmNvLnphL3NpdGVtYXAueG1sCg==
+User-agent: *
+Allow: /
+
+Sitemap: https://sapaycheck.co.za/sitemap.xml
