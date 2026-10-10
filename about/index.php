@@ -1,1 +1,28 @@
-PD9waHAKJHBhZ2VUaXRsZSA9ICJBYm91dCBTQSBQYXljaGVjayDigJQgRnJlZSBTb3V0aCBBZnJpY2FuIFNhbGFyeSBDYWxjdWxhdG9yIjsKJHBhZ2VEZXNjID0gIlNBIFBheWNoZWNrIGlzIGEgZnJlZSBTb3V0aCBBZnJpY2FuIHRha2UtaG9tZSBwYXkgY2FsY3VsYXRvciBidWlsdCBvbiB0aGUgb2ZmaWNpYWwgU0FSUyAyMDI2LzIwMjcgdGF4IHRhYmxlcy4gTm8gc2lnbnVwLCBubyB0cmFja2luZyBnaW1taWNrcy4iOwokY2Fub25pY2FsID0gIi9hYm91dC8iOwpyZXF1aXJlIF9fRElSX18gLiAnLy4uL2luY2x1ZGVzL2hlYWRlci5waHAnOwo/Pgo8c2VjdGlvbiBjbGFzcz0ic2VjdGlvbiI+CiAgPGRpdiBjbGFzcz0id3JhcCIgc3R5bGU9Im1heC13aWR0aDo3NjBweCI+CiAgICA8ZGl2IGNsYXNzPSJraWNrZXIiPkFib3V0PC9kaXY+CiAgICA8aDEgY2xhc3M9ImgyIj5BYm91dCBTQSBQYXljaGVjazwvaDE+CiAgICA8cD5TQSBQYXljaGVjayBhbnN3ZXJzIG9uZSBxdWVzdGlvbiBTb3V0aCBBZnJpY2FucyBhc2sgZXZlcnkgcGF5ZGF5OiA8c3Ryb25nPndoYXQgZG8gSSBhY3R1YWxseSB0YWtlIGhvbWU/PC9zdHJvbmc+PC9wPgogICAgPHA+VGhlIGNhbGN1bGF0b3IgYXBwbGllcyB0aGUgb2ZmaWNpYWwgU0FSUyA8P3BocCBlY2hvICRUQVhfWUVBUl9MQUJFTDsgPz4gdGFibGVzICgxIE1hcmNoIDIwMjYg4oCTIDI4IEZlYnJ1YXJ5IDIwMjcpIOKAlCBhbGwgc2V2ZW4gUEFZRSBicmFja2V0cywgdGhlIHByaW1hcnkvc2Vjb25kYXJ5L3RlcnRpYXJ5IHJlYmF0ZXMsIHRoZSBVSUYgY2FwLCBwZW5zaW9uIGRlZHVjdGlvbiBsaW1pdHMgYW5kIG1lZGljYWwgdGF4IGNyZWRpdHMg4oCUIGFuZCBzaG93cyB5b3VyIG1vbnRobHksIGFubnVhbCwgd2Vla2x5IGFuZCBkYWlseSB0YWtlLWhvbWUgaW5zdGFudGx5LjwvcD4KICAgIDxoMj5PdXIgYWNjdXJhY3kgc3RhbmRhcmQ8L2gyPgogICAgPHVsPgogICAgICA8bGk+VGF4IHRhYmxlcyBhcmUgdmVyaWZpZWQgYWdhaW5zdCBTQVJTIHB1YmxpY2F0aW9ucyBldmVyeSB0YXggeWVhcjsgdGhlIHZlcmlmaWNhdGlvbiBkYXRlIGlzIHNob3duIG9uIHRoZSA8YSBocmVmPSIvdGF4LWJyYWNrZXRzLyI+dGF4IGJyYWNrZXRzIHBhZ2U8L2E+LjwvbGk+CiAgICAgIDxsaT5DYWxjdWxhdG9yIG1hdGggaXMgY3Jvc3MtY2hlY2tlZCBhZ2FpbnN0IHdvcmtlZCBleGFtcGxlcyBmcm9tIFNBUlMgYW5kIG1ham9yIFNBIGFjY291bnRpbmcgZmlybXMgYmVmb3JlIGV2ZXJ5IHRheC15ZWFyIHVwZGF0ZS48L2xpPgogICAgICA8bGk+V2hlbiBTQVJTIGFubm91bmNlcyB0aGUgYW5udWFsIEJ1ZGdldCBjaGFuZ2VzICh1c3VhbGx5IEZlYnJ1YXJ5KSwgdGFibGVzIGFyZSB1cGRhdGVkIHdpdGhpbiBkYXlzLjwvbGk+CiAgICA8L3VsPgogICAgPGgyPldoYXQgd2UgZG9uJ3QgZG88L2gyPgogICAgPHVsPgogICAgICA8bGk+Tm8gYWNjb3VudHMsIG5vIHNpZ251cCwgbm8gcGF5d2FsbC48L2xpPgogICAgICA8bGk+WW91ciBzYWxhcnkgaW5wdXRzIG5ldmVyIGxlYXZlIHlvdXIgYnJvd3NlciDigJQgY2FsY3VsYXRpb25zIHJ1biBsb2NhbGx5IGluIEphdmFTY3JpcHQuPC9saT4KICAgICAgPGxpPldlIGRvbid0IGdpdmUgdGF4IGFkdmljZS4gRmlndXJlcyBhcmUgZXN0aW1hdGVzOyBjb25zdWx0IGEgcmVnaXN0ZXJlZCB0YXggcHJhY3RpdGlvbmVyIGZvciBwZXJzb25hbCBhZHZpY2UuPC9saT4KICAgIDwvdWw+CiAgICA8cD48YSBocmVmPSIvY2FsY3VsYXRvci8iIGNsYXNzPSJidG4gYnRuLXByaW1hcnkiPlRyeSB0aGUgY2FsY3VsYXRvcjwvYT48L3A+CiAgPC9kaXY+Cjwvc2VjdGlvbj4KPD9waHAgcmVxdWlyZSBfX0RJUl9fIC4gJy8uLi9pbmNsdWRlcy9mb290ZXIucGhwJzsgPz4K
+<?php
+$pageTitle = "About SA Paycheck — Free South African Salary Calculator";
+$pageDesc = "SA Paycheck is a free South African take-home pay calculator built on the official SARS 2026/2027 tax tables. No signup, no tracking gimmicks.";
+$canonical = "/about/";
+require __DIR__ . '/../includes/header.php';
+?>
+<section class="section">
+  <div class="wrap" style="max-width:760px">
+    <div class="kicker">About</div>
+    <h1 class="h2">About SA Paycheck</h1>
+    <p>SA Paycheck answers one question South Africans ask every payday: <strong>what do I actually take home?</strong></p>
+    <p>The calculator applies the official SARS <?php echo $TAX_YEAR_LABEL; ?> tables (1 March 2026 – 28 February 2027) — all seven PAYE brackets, the primary/secondary/tertiary rebates, the UIF cap, pension deduction limits and medical tax credits — and shows your monthly, annual, weekly and daily take-home instantly.</p>
+    <h2>Our accuracy standard</h2>
+    <ul>
+      <li>Tax tables are verified against SARS publications every tax year; the verification date is shown on the <a href="/tax-brackets/">tax brackets page</a>.</li>
+      <li>Calculator math is cross-checked against worked examples from SARS and major SA accounting firms before every tax-year update.</li>
+      <li>When SARS announces the annual Budget changes (usually February), tables are updated within days.</li>
+    </ul>
+    <h2>What we don't do</h2>
+    <ul>
+      <li>No accounts, no signup, no paywall.</li>
+      <li>Your salary inputs never leave your browser — calculations run locally in JavaScript.</li>
+      <li>We don't give tax advice. Figures are estimates; consult a registered tax practitioner for personal advice.</li>
+    </ul>
+    <p><a href="/calculator/" class="btn btn-primary">Try the calculator</a></p>
+  </div>
+</section>
+<?php require __DIR__ . '/../includes/footer.php'; ?>
