@@ -1,1 +1,41 @@
-IyBTQSBQYXljaGVjayDigJQgRGVwbG95IEd1aWRlCgpTdGF0aWMgUEhQIHNpdGUsIHplcm8gZGVwZW5kZW5jaWVzLCBubyBidWlsZCBzdGVwLiBSZXF1aXJlcyAqKlBIUCA4LngqKiArIEFwYWNoZS4KCiMjIERlcGxveSB0byBIb3N0aW5nZXIgKHRlbXAgZG9tYWluIGZpcnN0KQoKMS4gSW4gSG9zdGluZ2VyIGhQYW5lbCwgY3JlYXRlIHRoZSB0ZW1wIHN1YmRvbWFpbi93ZWJzaXRlIChlLmcuIGBzYXBheWNoZWNrLjx0ZW1wLWRvbWFpbj5gKS4KMi4gVXBsb2FkIHRoZSAqKmNvbnRlbnRzKiogb2YgdGhpcyBmb2xkZXIgaW50byB0aGF0IHNpdGUncyBgcHVibGljX2h0bWwvYCAoRmlsZSBNYW5hZ2VyIG9yIEZUUCk6CiAgIGBpbmNsdWRlcy9gLCBgYXNzZXRzL2AsIGBjYWxjdWxhdG9yL2AsIGBzYWxhcnkvYCwgYHRheC1icmFja2V0cy9gLCBgdWlmLWNhbGN1bGF0b3IvYCwKICAgYGZhcS9gLCBgYWJvdXQvYCwgYGNvbnRhY3QvYCwgYHByaXZhY3kvYCwgYHRvb2xzL2AsIHBsdXMgYGluZGV4LnBocGAsIGA0MDQucGhwYCwKICAgYC5odGFjY2Vzc2AsIGByb2JvdHMudHh0YCwgYHNpdGVtYXAueG1sYCwgYGZhdmljb24uc3ZnYC4KICAgKEtlZXAgYFRBWF9TT1VSQ0VTLm1kYCBhbmQgYERFUExPWS5tZGAgb3V0IG9mIGBwdWJsaWNfaHRtbGAg4oCUIHRoZXkncmUgZG9jdW1lbnRhdGlvbi4pCjMuIFRoYXQncyBpdCDigJQgbm8gY29tcG9zZXIsIG5vIG5wbSwgbm8gYnVpbGQuIGAuaHRhY2Nlc3NgIGhhbmRsZXMgY2xlYW4gVVJMcywgc2VjdXJpdHkKICAgaGVhZGVycywgZ3ppcCBhbmQgdGhlIDQwNCBwYWdlIChyZXF1aXJlcyBtb2RfcmV3cml0ZS9tb2RfaGVhZGVycy9tb2RfZGVmbGF0ZTsKICAgZWFjaCBpcyB3cmFwcGVkIGluIGA8SWZNb2R1bGU+YCBzbyB0aGUgc2l0ZSBzdGlsbCB3b3JrcyBpZiBhIG1vZHVsZSBpcyBtaXNzaW5nKS4KNC4gQ29udGFjdCBmb3JtIHVzZXMgUEhQIGBtYWlsKClgIOKAlCB3b3JrcyBvbiBIb3N0aW5nZXIgb3V0IG9mIHRoZSBib3guIFRlc3QgaXQgb25jZQogICBhZnRlciBkZXBsb3k7IG1haWwgbGFuZHMgYXQgYGNvbnRhY3RAc2FwYXljaGVjay5jby56YWAgKHNldCBpbiBgaW5jbHVkZXMvY29uZmlnLnBocGApLgoKIyMgVGVtcC1kb21haW4gcGhhc2UgKGltcG9ydGFudCkKCkNhbm9uaWNhbCB0YWdzIHBvaW50IGF0IGBodHRwczovL3NhcGF5Y2hlY2suY28uemFgLiBXaGlsZSBvbiB0aGUgdGVtcCBkb21haW4sIGVpdGhlcjoKLSBhZGQgYDxtZXRhIG5hbWU9InJvYm90cyIgY29udGVudD0ibm9pbmRleCI+YCB0ZW1wb3JhcmlseSwgb3IKLSBwYXNzd29yZC1wcm90ZWN0IHRoZSB0ZW1wIHNpdGUgaW4gaFBhbmVsLAoKdG8gYXZvaWQgR29vZ2xlIGluZGV4aW5nIHRoZSB0ZW1wIFVSTHMgYmVmb3JlIHRoZSByZWFsIGRvbWFpbiBjdXRvdmVyLiBSZW1vdmUgdGhlCmJsb2NrIHdoZW4gYHNhcGF5Y2hlY2suY28uemFgIGdvZXMgbGl2ZSwgdGhlbiBzdWJtaXQgYHNpdGVtYXAueG1sYCBpbiBTZWFyY2ggQ29uc29sZS4KCiMjIFBvc3QtZGVwbG95IHNtb2tlIHRlc3QKCi0gYC9gIGFuZCBgL2NhbGN1bGF0b3IvYCBsb2FkOyBtb3ZlIHRoZSBzYWxhcnkgc2xpZGVyIOKGkiBudW1iZXJzIHVwZGF0ZSBpbnN0YW50bHkuCi0gYC9zYWxhcnkvcjUwMDAwLWFmdGVyLXRheC9gIHNob3dzIG5ldCBSMzggNzQ3LjMwL21vLgotIGAvdGF4LWJyYWNrZXRzL2Agc2hvd3MgdGhlIDIwMjYvMjAyNyB0YWJsZXMgd2l0aCB0aGUgdmVyaWZpY2F0aW9uIGRhdGUuCi0gYC9jb250YWN0L2Agc2VuZHMgKGNoZWNrIGluYm94KSBhbmQgdGhlIGhvbmV5cG90IGRvZXNuJ3QgYnJlYWsgcmVhbCBzdWJtaXNzaW9ucy4KLSBgY3VybCAtSSBodHRwczovLzxkb21haW4+L25vcGVgIHJldHVybnMgNDA0IHdpdGggdGhlIGN1c3RvbSBwYWdlLgoKIyMgWWVhcmx5IG1haW50ZW5hbmNlCgpFdmVyeSBGZWJydWFyeSBhZnRlciB0aGUgU0FSUyBCdWRnZXQ6IHVwZGF0ZSBmaWd1cmVzIGluIGBpbmNsdWRlcy9jb25maWcucGhwYCwKYnVtcCBgJFRBWF9ZRUFSX0xBQkVMYCBhbmQgYCRUQVhfTEFTVF9WRVJJRklFRGAsIHJ1bgpgcGhwIHRvb2xzL2dlbmVyYXRlLXNhbGFyeS1wYWdlcy5waHBgIHRvIHJlYnVpbGQgdGhlIDE1IHNhbGFyeSBwYWdlcyArIHNpdGVtYXAsCmFuZCByZS12ZXJpZnkgYWdhaW5zdCBmcmVzaCB3b3JrZWQgZXhhbXBsZXMgKHNlZSBUQVhfU09VUkNFUy5tZCkuCg==
+# SA Paycheck — Deploy Guide
+
+Static PHP site, zero dependencies, no build step. Requires **PHP 8.x** + Apache.
+
+## Deploy to Hostinger (temp domain first)
+
+1. In Hostinger hPanel, create the temp subdomain/website (e.g. `sapaycheck.<temp-domain>`).
+2. Upload the **contents** of this folder into that site's `public_html/` (File Manager or FTP):
+   `includes/`, `assets/`, `calculator/`, `salary/`, `tax-brackets/`, `uif-calculator/`,
+   `faq/`, `about/`, `contact/`, `privacy/`, `tools/`, plus `index.php`, `404.php`,
+   `.htaccess`, `robots.txt`, `sitemap.xml`, `favicon.svg`.
+   (Keep `TAX_SOURCES.md` and `DEPLOY.md` out of `public_html` — they're documentation.)
+3. That's it — no composer, no npm, no build. `.htaccess` handles clean URLs, security
+   headers, gzip and the 404 page (requires mod_rewrite/mod_headers/mod_deflate;
+   each is wrapped in `<IfModule>` so the site still works if a module is missing).
+4. Contact form uses PHP `mail()` — works on Hostinger out of the box. Test it once
+   after deploy; mail lands at `contact@sapaycheck.co.za` (set in `includes/config.php`).
+
+## Temp-domain phase (important)
+
+Canonical tags point at `https://sapaycheck.co.za`. While on the temp domain, either:
+- add `<meta name="robots" content="noindex">` temporarily, or
+- password-protect the temp site in hPanel,
+
+to avoid Google indexing the temp URLs before the real domain cutover. Remove the
+block when `sapaycheck.co.za` goes live, then submit `sitemap.xml` in Search Console.
+
+## Post-deploy smoke test
+
+- `/` and `/calculator/` load; move the salary slider → numbers update instantly.
+- `/salary/r50000-after-tax/` shows net R38 747.30/mo.
+- `/tax-brackets/` shows the 2026/2027 tables with the verification date.
+- `/contact/` sends (check inbox) and the honeypot doesn't break real submissions.
+- `curl -I https://<domain>/nope` returns 404 with the custom page.
+
+## Yearly maintenance
+
+Every February after the SARS Budget: update figures in `includes/config.php`,
+bump `$TAX_YEAR_LABEL` and `$TAX_LAST_VERIFIED`, run
+`php tools/generate-salary-pages.php` to rebuild the 15 salary pages + sitemap,
+and re-verify against fresh worked examples (see TAX_SOURCES.md).
