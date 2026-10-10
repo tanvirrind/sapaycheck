@@ -1,1 +1,74 @@
-PD9waHAKLy8gUEFZRSBjYWxjdWxhdG9yIHdpZGdldCDigJQgaW5jbHVkZSBvbmNlIHBlciBwYWdlLCBhZnRlciBjb25maWcucGhwLgovLyBSZW5kZXJzIHRoZSBpbnB1dCBmb3JtICsgbGl2ZSByZXN1bHRzIGNhcmQuIE1hdGggcnVucyBpbiBhc3NldHMvanMvYXBwLmpzCi8vIHVzaW5nIHRoZSBTQVBDX1RBWCBjb25zdGFudHMgYmVsb3csIHdoaWNoIG1pcnJvciBpbmNsdWRlcy9jb25maWcucGhwLgokX19zYXBjVGF4SnNvbiA9IGpzb25fZW5jb2RlKFsKICAgICdicmFja2V0cycgICAgICAgICA9PiAkVEFYX0JSQUNLRVRTLAogICAgJ3JlYmF0ZV9wcmltYXJ5JyAgID0+ICRSRUJBVEVfUFJJTUFSWSwKICAgICdyZWJhdGVfc2Vjb25kYXJ5JyA9PiAkUkVCQVRFX1NFQ09OREFSWSwKICAgICdyZWJhdGVfdGVydGlhcnknICA9PiAkUkVCQVRFX1RFUlRJQVJZLAogICAgJ3BlbnNpb25fcGN0X2NhcCcgID0+ICRQRU5TSU9OX1BDVF9DQVAsCiAgICAncGVuc2lvbl9yYW5kX2NhcCcgPT4gJFBFTlNJT05fUkFORF9DQVAsCiAgICAnbXRjX21haW4nICAgICAgICAgPT4gJE1UQ19NQUlOX01FTUJFUiwKICAgICdtdGNfZmlyc3RfZGVwJyAgICA9PiAkTVRDX0ZJUlNUX0RFUEVOREFOVCwKICAgICdtdGNfYWRkbF9kZXAnICAgICA9PiAkTVRDX0FERExfREVQRU5EQU5ULAogICAgJ3VpZl9yYXRlJyAgICAgICAgID0+ICRVSUZfUkFURSwKICAgICd1aWZfY2FwJyAgICAgICAgICA9PiAkVUlGX0NBUF9NT05USCwKICAgICd0YXhfeWVhcicgICAgICAgICA9PiAkVEFYX1lFQVJfTEFCRUwsCl0pOwo/Pgo8c2NyaXB0PnZhciBTQVBDX1RBWCA9IDw/cGhwIGVjaG8gJF9fc2FwY1RheEpzb247ID8+Ozwvc2NyaXB0Pgo8ZGl2IGNsYXNzPSJjYWxjLWxheW91dCI+CiAgPGZvcm0gY2xhc3M9ImNhcmQiIGlkPSJwYXllQ2FsYyIgb25zdWJtaXQ9InJldHVybiBmYWxzZTsiIGFyaWEtbGFiZWw9IlRha2UtaG9tZSBwYXkgY2FsY3VsYXRvciI+CiAgICA8ZGl2IGNsYXNzPSJmaWVsZCI+CiAgICAgIDxsYWJlbCBpZD0iZ3Jvc3MtbGFiZWwiPkdyb3NzIHNhbGFyeTwvbGFiZWw+CiAgICAgIDxkaXYgY2xhc3M9InNlZyIgcm9sZT0iZ3JvdXAiIGFyaWEtbGFiZWxsZWRieT0iZ3Jvc3MtbGFiZWwiIHN0eWxlPSJtYXJnaW4tYm90dG9tOjhweCI+CiAgICAgICAgPGJ1dHRvbiB0eXBlPSJidXR0b24iIGRhdGEtcGVyaW9kPSJtb250aGx5IiBjbGFzcz0iYWN0aXZlIiBhcmlhLXByZXNzZWQ9InRydWUiPk1vbnRobHk8L2J1dHRvbj4KICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgZGF0YS1wZXJpb2Q9ImFubnVhbCIgYXJpYS1wcmVzc2VkPSJmYWxzZSI+QW5udWFsPC9idXR0b24+CiAgICAgIDwvZGl2PgogICAgICA8aW5wdXQgdHlwZT0ibnVtYmVyIiBpZD0iZ3Jvc3MiIHZhbHVlPSIzNTAwMCIgbWluPSIwIiBzdGVwPSIxMDAiIGlucHV0bW9kZT0iZGVjaW1hbCIgYXJpYS1sYWJlbD0iR3Jvc3Mgc2FsYXJ5IGluIFJhbmQiPgogICAgPC9kaXY+CiAgICA8ZGl2IGNsYXNzPSJmaWVsZCI+CiAgICAgIDxsYWJlbCBmb3I9ImFnZSI+QWdlIGdyb3VwPC9sYWJlbD4KICAgICAgPHNlbGVjdCBpZD0iYWdlIj4KICAgICAgICA8b3B0aW9uIHZhbHVlPSJ1NjUiIHNlbGVjdGVkPlVuZGVyIDY1PC9vcHRpb24+CiAgICAgICAgPG9wdGlvbiB2YWx1ZT0iNjUtNzQiPjY1IHRvIDc0PC9vcHRpb24+CiAgICAgICAgPG9wdGlvbiB2YWx1ZT0iNzUrIj43NSBhbmQgb3Zlcjwvb3B0aW9uPgogICAgICA8L3NlbGVjdD4KICAgICAgPGRpdiBjbGFzcz0iaGludCI+T3Zlci02NXMgZ2V0IGV4dHJhIFNBUlMgcmViYXRlcywgc28gUEFZRSBkcm9wcy48L2Rpdj4KICAgIDwvZGl2PgogICAgPGRpdiBjbGFzcz0iZmllbGQtcm93Ij4KICAgICAgPGRpdiBjbGFzcz0iZmllbGQiPgogICAgICAgIDxsYWJlbCBmb3I9InBlbnNpb24iPlBlbnNpb24gLyBSQSAoJSk8L2xhYmVsPgogICAgICAgIDxpbnB1dCB0eXBlPSJudW1iZXIiIGlkPSJwZW5zaW9uIiB2YWx1ZT0iMCIgbWluPSIwIiBtYXg9IjI3LjUiIHN0ZXA9IjAuNSIgaW5wdXRtb2RlPSJkZWNpbWFsIj4KICAgICAgICA8ZGl2IGNsYXNzPSJoaW50Ij4lIG9mIHNhbGFyeSwgcmVkdWNlcyB0YXhhYmxlIGluY29tZS48L2Rpdj4KICAgICAgPC9kaXY+CiAgICAgIDxkaXYgY2xhc3M9ImZpZWxkIj4KICAgICAgICA8bGFiZWwgZm9yPSJtZWRpY2FsIj5NZWRpY2FsIGFpZCBtZW1iZXJzPC9sYWJlbD4KICAgICAgICA8aW5wdXQgdHlwZT0ibnVtYmVyIiBpZD0ibWVkaWNhbCIgdmFsdWU9IjAiIG1pbj0iMCIgbWF4PSIxMiIgc3RlcD0iMSIgaW5wdXRtb2RlPSJudW1lcmljIj4KICAgICAgICA8ZGl2IGNsYXNzPSJoaW50Ij5QZW9wbGUgY292ZXJlZCwgaW5jbC4geW91cnNlbGYuPC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgICA8cCBjbGFzcz0iZGlzY2xhaW1lciI+VXNlcyBTQVJTIDw/cGhwIGVjaG8gaHRtbHNwZWNpYWxjaGFycygkVEFYX1lFQVJfTEFCRUwpOyA/PiB0YWJsZXMgKDEgTWFyIDIwMjYg4oCTIDI4IEZlYiAyMDI3KS4gRXN0aW1hdGUgb25seS48L3A+CiAgPC9mb3JtPgogIDxkaXYgY2xhc3M9InJlc3VsdC1jYXJkIiBhcmlhLWxpdmU9InBvbGl0ZSI+CiAgICA8ZGl2IGNsYXNzPSJsYmwiPllvdXIgdGFrZS1ob21lIHBheTwvZGl2PgogICAgPGRpdiBjbGFzcz0iYmlnIG1vbm8iIGlkPSJyLW5ldC1tb250aGx5Ij5SMC4wMDwvZGl2PgogICAgPGRpdiBjbGFzcz0ibGJsIj5wZXIgbW9udGg8L2Rpdj4KICAgIDxkaXYgY2xhc3M9ImJhci13cmFwIj4KICAgICAgPGRpdiBjbGFzcz0iYmFyIiBhcmlhLWhpZGRlbj0idHJ1ZSI+PHNwYW4gY2xhc3M9ImJhci1wYXllIiBpZD0iYmFyLXBheWUiPjwvc3Bhbj48c3BhbiBjbGFzcz0iYmFyLXVpZiIgaWQ9ImJhci11aWYiPjwvc3Bhbj48c3BhbiBjbGFzcz0iYmFyLW5ldCIgaWQ9ImJhci1uZXQiPjwvc3Bhbj48L2Rpdj4KICAgICAgPGRpdiBjbGFzcz0iYmFyLWxlZ2VuZCIgaWQ9ImJhci1sZWdlbmQiPjwvZGl2PgogICAgPC9kaXY+CiAgICA8ZGl2IGNsYXNzPSJyZXN1bHQtcm93cyI+CiAgICAgIDxkaXYgY2xhc3M9InJvdyI+PHNwYW4+UEFZRSAoaW5jb21lIHRheCk8L3NwYW4+PHN0cm9uZyBjbGFzcz0ibW9ubyIgaWQ9InItcGF5ZSI+4oCTPC9zdHJvbmc+PC9kaXY+CiAgICAgIDxkaXYgY2xhc3M9InJvdyI+PHNwYW4+VUlGPC9zcGFuPjxzdHJvbmcgY2xhc3M9Im1vbm8iIGlkPSJyLXVpZiI+4oCTPC9zdHJvbmc+PC9kaXY+CiAgICAgIDxkaXYgY2xhc3M9InJvdyI+PHNwYW4+VGFrZS1ob21lIHBlciB5ZWFyPC9zcGFuPjxzdHJvbmcgY2xhc3M9Im1vbm8iIGlkPSJyLW5ldC1hbm51YWwiPuKAkzwvc3Ryb25nPjwvZGl2PgogICAgICA8ZGl2IGNsYXNzPSJyb3ciPjxzcGFuPlRha2UtaG9tZSBwZXIgd2Vlazwvc3Bhbj48c3Ryb25nIGNsYXNzPSJtb25vIiBpZD0ici1uZXQtd2Vla2x5Ij7igJM8L3N0cm9uZz48L2Rpdj4KICAgICAgPGRpdiBjbGFzcz0icm93Ij48c3Bhbj5UYWtlLWhvbWUgcGVyIGRheTwvc3Bhbj48c3Ryb25nIGNsYXNzPSJtb25vIiBpZD0ici1uZXQtZGFpbHkiPuKAkzwvc3Ryb25nPjwvZGl2PgogICAgICA8ZGl2IGNsYXNzPSJyb3ciPjxzcGFuPkVmZmVjdGl2ZSBkZWR1Y3Rpb24gcmF0ZTwvc3Bhbj48c3Ryb25nIGNsYXNzPSJtb25vIiBpZD0ici1lZmZlY3RpdmUiPuKAkzwvc3Ryb25nPjwvZGl2PgogICAgICA8ZGl2IGNsYXNzPSJyb3ciPjxzcGFuPk1hcmdpbmFsIHRheCBicmFja2V0PC9zcGFuPjxzdHJvbmcgY2xhc3M9Im1vbm8iIGlkPSJyLW1hcmdpbmFsIj7igJM8L3N0cm9uZz48L2Rpdj4KICAgIDwvZGl2PgogICAgPHAgY2xhc3M9ImhpbnQiIGlkPSJyLXBlbnNpb24tbm90ZSIgc3R5bGU9ImNvbG9yOiNiZmUwYzk7bWFyZ2luLWJvdHRvbToycHgiPjwvcD4KICAgIDxwIGNsYXNzPSJoaW50IiBpZD0ici1tZWRpY2FsLW5vdGUiIHN0eWxlPSJjb2xvcjojYmZlMGM5O21hcmdpbi10b3A6MCI+PC9wPgogIDwvZGl2Pgo8L2Rpdj4K
+<?php
+// PAYE calculator widget — include once per page, after config.php.
+// Renders the input form + live results card. Math runs in assets/js/app.js
+// using the SAPC_TAX constants below, which mirror includes/config.php.
+$__sapcTaxJson = json_encode([
+    'brackets'         => $TAX_BRACKETS,
+    'rebate_primary'   => $REBATE_PRIMARY,
+    'rebate_secondary' => $REBATE_SECONDARY,
+    'rebate_tertiary'  => $REBATE_TERTIARY,
+    'pension_pct_cap'  => $PENSION_PCT_CAP,
+    'pension_rand_cap' => $PENSION_RAND_CAP,
+    'mtc_main'         => $MTC_MAIN_MEMBER,
+    'mtc_first_dep'    => $MTC_FIRST_DEPENDANT,
+    'mtc_addl_dep'     => $MTC_ADDL_DEPENDANT,
+    'uif_rate'         => $UIF_RATE,
+    'uif_cap'          => $UIF_CAP_MONTH,
+    'tax_year'         => $TAX_YEAR_LABEL,
+]);
+?>
+<script>var SAPC_TAX = <?php echo $__sapcTaxJson; ?>;</script>
+<div class="calc-layout">
+  <form class="card" id="payeCalc" onsubmit="return false;" aria-label="Take-home pay calculator">
+    <div class="field">
+      <label id="gross-label">Gross salary</label>
+      <div class="seg" role="group" aria-labelledby="gross-label" style="margin-bottom:8px">
+        <button type="button" data-period="monthly" class="active" aria-pressed="true">Monthly</button>
+        <button type="button" data-period="annual" aria-pressed="false">Annual</button>
+      </div>
+      <input type="number" id="gross" value="35000" min="0" step="100" inputmode="decimal" aria-label="Gross salary in Rand">
+    </div>
+    <div class="field">
+      <label for="age">Age group</label>
+      <select id="age">
+        <option value="u65" selected>Under 65</option>
+        <option value="65-74">65 to 74</option>
+        <option value="75+">75 and over</option>
+      </select>
+      <div class="hint">Over-65s get extra SARS rebates, so PAYE drops.</div>
+    </div>
+    <div class="field-row">
+      <div class="field">
+        <label for="pension">Pension / RA (%)</label>
+        <input type="number" id="pension" value="0" min="0" max="27.5" step="0.5" inputmode="decimal">
+        <div class="hint">% of salary, reduces taxable income.</div>
+      </div>
+      <div class="field">
+        <label for="medical">Medical aid members</label>
+        <input type="number" id="medical" value="0" min="0" max="12" step="1" inputmode="numeric">
+        <div class="hint">People covered, incl. yourself.</div>
+      </div>
+    </div>
+    <p class="disclaimer">Uses SARS <?php echo htmlspecialchars($TAX_YEAR_LABEL); ?> tables (1 Mar 2026 – 28 Feb 2027). Estimate only.</p>
+  </form>
+  <div class="result-card" aria-live="polite">
+    <div class="lbl">Your take-home pay</div>
+    <div class="big mono" id="r-net-monthly">R0.00</div>
+    <div class="lbl">per month</div>
+    <div class="bar-wrap">
+      <div class="bar" aria-hidden="true"><span class="bar-paye" id="bar-paye"></span><span class="bar-uif" id="bar-uif"></span><span class="bar-net" id="bar-net"></span></div>
+      <div class="bar-legend" id="bar-legend"></div>
+    </div>
+    <div class="result-rows">
+      <div class="row"><span>PAYE (income tax)</span><strong class="mono" id="r-paye">–</strong></div>
+      <div class="row"><span>UIF</span><strong class="mono" id="r-uif">–</strong></div>
+      <div class="row"><span>Take-home per year</span><strong class="mono" id="r-net-annual">–</strong></div>
+      <div class="row"><span>Take-home per week</span><strong class="mono" id="r-net-weekly">–</strong></div>
+      <div class="row"><span>Take-home per day</span><strong class="mono" id="r-net-daily">–</strong></div>
+      <div class="row"><span>Effective deduction rate</span><strong class="mono" id="r-effective">–</strong></div>
+      <div class="row"><span>Marginal tax bracket</span><strong class="mono" id="r-marginal">–</strong></div>
+    </div>
+    <p class="hint" id="r-pension-note" style="color:#bfe0c9;margin-bottom:2px"></p>
+    <p class="hint" id="r-medical-note" style="color:#bfe0c9;margin-top:0"></p>
+  </div>
+</div>
