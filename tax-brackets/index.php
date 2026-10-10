@@ -1,1 +1,65 @@
-PD9waHAKJHBhZ2VUaXRsZSA9ICJTQVJTIFRheCBCcmFja2V0cyAyMDI2LzIwMjcg4oCUIFBBWUUgVGFibGVzLCBSZWJhdGVzLCBVSUYgfCBTQSBQYXljaGVjayI7CiRwYWdlRGVzYyA9ICJGdWxsIFNBUlMgMjAyNi8yMDI3IHRheCB0YWJsZXM6IDcgUEFZRSBicmFja2V0cywgcHJpbWFyeS9zZWNvbmRhcnkvdGVydGlhcnkgcmViYXRlcywgdGF4IHRocmVzaG9sZHMsIFVJRiBjYXAgYW5kIG1lZGljYWwgdGF4IGNyZWRpdHMuIExhc3QgdmVyaWZpZWQgMjAyNi0xMC0xMC4iOwokcGFnZUtleXdvcmRzID0gIlNBUlMgdGF4IGJyYWNrZXRzIDIwMjYsIFBBWUUgdGF4IHRhYmxlcyBzb3V0aCBhZnJpY2EsIHRheCB0aHJlc2hvbGRzIDIwMjYvMjAyNyI7CiRjYW5vbmljYWwgPSAiL3RheC1icmFja2V0cy8iOwpyZXF1aXJlIF9fRElSX18gLiAnLy4uL2luY2x1ZGVzL2hlYWRlci5waHAnOwo/Pgo8c2VjdGlvbiBjbGFzcz0ic2VjdGlvbiI+CiAgPGRpdiBjbGFzcz0id3JhcCIgc3R5bGU9Im1heC13aWR0aDo4NjBweCI+CiAgICA8ZGl2IGNsYXNzPSJraWNrZXIiPlJlZmVyZW5jZTwvZGl2PgogICAgPGgxIGNsYXNzPSJoMiI+U0FSUyB0YXggdGFibGVzIOKAlCA8P3BocCBlY2hvICRUQVhfWUVBUl9MQUJFTDsgPz48L2gxPgogICAgPHAgY2xhc3M9InN1YiI+VGF4IHllYXIgPD9waHAgZWNobyAkVEFYX1lFQVJfUkFOR0U7ID8+LiBMYXN0IHZlcmlmaWVkIGFnYWluc3QgU0FSUyBwdWJsaWNhdGlvbnM6IDxzdHJvbmc+PD9waHAgZWNobyAkVEFYX0xBU1RfVkVSSUZJRUQ7ID8+PC9zdHJvbmc+LjwvcD4KCiAgICA8aDI+UEFZRSBicmFja2V0cyAoYW5udWFsIHRheGFibGUgaW5jb21lKTwvaDI+CiAgICA8dGFibGUgY2xhc3M9InJlZi10YWJsZSI+CiAgICAgIDx0aGVhZD48dHI+PHRoPlRheGFibGUgaW5jb21lPC90aD48dGggY2xhc3M9Im51bSI+UmF0ZTwvdGg+PC90cj48L3RoZWFkPgogICAgICA8dGJvZHk+CiAgICAgICAgPHRyPjx0ZD5SMCDigJMgUjI0NSwxMDA8L3RkPjx0ZCBjbGFzcz0ibnVtIj4xOCU8L3RkPjwvdHI+CiAgICAgICAgPHRyPjx0ZD5SMjQ1LDEwMSDigJMgUjM4MywxMDA8L3RkPjx0ZCBjbGFzcz0ibnVtIj4yNiU8L3RkPjwvdHI+CiAgICAgICAgPHRyPjx0ZD5SMzgzLDEwMSDigJMgUjUzMCwyMDA8L3RkPjx0ZCBjbGFzcz0ibnVtIj4zMSU8L3RkPjwvdHI+CiAgICAgICAgPHRyPjx0ZD5SNTMwLDIwMSDigJMgUjY5NSw4MDA8L3RkPjx0ZCBjbGFzcz0ibnVtIj4zNiU8L3RkPjwvdHI+CiAgICAgICAgPHRyPjx0ZD5SNjk1LDgwMSDigJMgUjg4NywwMDA8L3RkPjx0ZCBjbGFzcz0ibnVtIj4zOSU8L3RkPjwvdHI+CiAgICAgICAgPHRyPjx0ZD5SODg3LDAwMSDigJMgUjEsODc4LDYwMDwvdGQ+PHRkIGNsYXNzPSJudW0iPjQxJTwvdGQ+PC90cj4KICAgICAgICA8dHI+PHRkPlIxLDg3OCw2MDEgYW5kIGFib3ZlPC90ZD48dGQgY2xhc3M9Im51bSI+NDUlPC90ZD48L3RyPgogICAgICA8L3Rib2R5PgogICAgPC90YWJsZT4KCiAgICA8aDI+UmViYXRlcyAmYW1wOyB0YXggdGhyZXNob2xkczwvaDI+CiAgICA8dGFibGUgY2xhc3M9InJlZi10YWJsZSI+CiAgICAgIDx0aGVhZD48dHI+PHRoPkFnZSBncm91cDwvdGg+PHRoIGNsYXNzPSJudW0iPlJlYmF0ZTwvdGg+PHRoIGNsYXNzPSJudW0iPlRheCB0aHJlc2hvbGQ8L3RoPjwvdHI+PC90aGVhZD4KICAgICAgPHRib2R5PgogICAgICAgIDx0cj48dGQ+VW5kZXIgNjUgKHByaW1hcnkpPC90ZD48dGQgY2xhc3M9Im51bSI+UjE3LDgyMDwvdGQ+PHRkIGNsYXNzPSJudW0iPlI5OSwwMDA8L3RkPjwvdHI+CiAgICAgICAgPHRyPjx0ZD42NSB0byA3NCAocHJpbWFyeSArIHNlY29uZGFyeSk8L3RkPjx0ZCBjbGFzcz0ibnVtIj5SMjcsNTg1PC90ZD48dGQgY2xhc3M9Im51bSI+UjE1MywyNTA8L3RkPjwvdHI+CiAgICAgICAgPHRyPjx0ZD43NSBhbmQgb3ZlciAocHJpbWFyeSArIHNlY29uZGFyeSArIHRlcnRpYXJ5KTwvdGQ+PHRkIGNsYXNzPSJudW0iPlIzMCw4MzQ8L3RkPjx0ZCBjbGFzcz0ibnVtIj5SMTcxLDMwMDwvdGQ+PC90cj4KICAgICAgPC90Ym9keT4KICAgIDwvdGFibGU+CiAgICA8cCBjbGFzcz0iZGlzY2xhaW1lciI+VGhlIHRocmVzaG9sZCBpcyB0aGUgaW5jb21lIGJlbG93IHdoaWNoIG5vIFBBWUUgaXMgcGF5YWJsZSAocmViYXRlIMO3IDE4JSkuIFJlYmF0ZXMgYXJlIHN1YnRyYWN0ZWQgZnJvbSB0aGUgdGF4IGNvbXB1dGVkIG9uIHRoZSBicmFja2V0cyDigJQgdGhleSBhcmUgbm90IGRlZHVjdGlvbnMgZnJvbSBpbmNvbWUuPC9wPgoKICAgIDxoMj5VSUYg4oCUIFVuZW1wbG95bWVudCBJbnN1cmFuY2UgRnVuZDwvaDI+CiAgICA8dGFibGUgY2xhc3M9InJlZi10YWJsZSI+CiAgICAgIDx0Ym9keT4KICAgICAgICA8dHI+PHRkPkVtcGxveWVlIGNvbnRyaWJ1dGlvbjwvdGQ+PHRkIGNsYXNzPSJudW0iPjElIG9mIGdyb3NzIHNhbGFyeTwvdGQ+PC90cj4KICAgICAgICA8dHI+PHRkPk1vbnRobHkgY2FwPC90ZD48dGQgY2xhc3M9Im51bSI+UjE3Ny4xMjwvdGQ+PC90cj4KICAgICAgICA8dHI+PHRkPlJlbXVuZXJhdGlvbiBjZWlsaW5nPC90ZD48dGQgY2xhc3M9Im51bSI+UjE3LDcxMiAvIG1vbnRoPC90ZD48L3RyPgogICAgICAgIDx0cj48dGQ+RW1wbG95ZXIgY29udHJpYnV0aW9uPC90ZD48dGQgY2xhc3M9Im51bSI+MSUgKG1hdGNoZWQsIG5vdCBkZWR1Y3RlZCBmcm9tIHlvdSk8L3RkPjwvdHI+CiAgICAgIDwvdGJvZHk+CiAgICA8L3RhYmxlPgogICAgPHA+PGEgaHJlZj0iL3VpZi1jYWxjdWxhdG9yLyI+VHJ5IHRoZSBVSUYgY2FsY3VsYXRvciDihpI8L2E+PC9wPgoKICAgIDxoMj5NZWRpY2FsIHNjaGVtZSBmZWVzIHRheCBjcmVkaXRzIChtb250aGx5KTwvaDI+CiAgICA8dGFibGUgY2xhc3M9InJlZi10YWJsZSI+CiAgICAgIDx0aGVhZD48dHI+PHRoPk1lbWJlcjwvdGg+PHRoIGNsYXNzPSJudW0iPkNyZWRpdCAvIG1vbnRoPC90aD48L3RyPjwvdGhlYWQ+CiAgICAgIDx0Ym9keT4KICAgICAgICA8dHI+PHRkPk1haW4gbWVtYmVyPC90ZD48dGQgY2xhc3M9Im51bSI+UjM3NjwvdGQ+PC90cj4KICAgICAgICA8dHI+PHRkPkZpcnN0IGRlcGVuZGFudDwvdGQ+PHRkIGNsYXNzPSJudW0iPlIzNzY8L3RkPjwvdHI+CiAgICAgICAgPHRyPjx0ZD5FYWNoIGFkZGl0aW9uYWwgZGVwZW5kYW50PC90ZD48dGQgY2xhc3M9Im51bSI+UjI1NDwvdGQ+PC90cj4KICAgICAgPC90Ym9keT4KICAgIDwvdGFibGU+CiAgICA8cCBjbGFzcz0iZGlzY2xhaW1lciI+Q3JlZGl0cyByZWR1Y2UgdGhlIHRheCBwYXlhYmxlIChub3QgdGF4YWJsZSBpbmNvbWUpLiBTb3VyY2U6IFNBUlMgbWVkaWNhbCBjcmVkaXQgdGFibGVzIGZvciA8P3BocCBlY2hvICRUQVhfWUVBUl9MQUJFTDsgPz4uPC9wPgoKICAgIDxkaXYgY2xhc3M9Im5vdGljZSI+PHN0cm9uZz5Ob3RlOjwvc3Ryb25nPiBTREwgKFNraWxscyBEZXZlbG9wbWVudCBMZXZ5LCAxJSkgaXMgcGFpZCBieSB5b3VyIGVtcGxveWVyIGFuZCBpcyBuZXZlciBkZWR1Y3RlZCBmcm9tIHlvdXIgc2FsYXJ5LiBUaGVzZSB0YWJsZXMgY292ZXIgZW1wbG95ZWUgUEFZRSBvbmx5LjwvZGl2PgogICAgPHA+PGEgaHJlZj0iL2NhbGN1bGF0b3IvIiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5Ij5DYWxjdWxhdGUgbXkgdGFrZS1ob21lIHBheTwvYT48L3A+CiAgPC9kaXY+Cjwvc2VjdGlvbj4KPD9waHAgcmVxdWlyZSBfX0RJUl9fIC4gJy8uLi9pbmNsdWRlcy9mb290ZXIucGhwJzsgPz4K
+<?php
+$pageTitle = "SARS Tax Brackets 2026/2027 — PAYE Tables, Rebates, UIF | SA Paycheck";
+$pageDesc = "Full SARS 2026/2027 tax tables: 7 PAYE brackets, primary/secondary/tertiary rebates, tax thresholds, UIF cap and medical tax credits. Last verified 2026-10-10.";
+$pageKeywords = "SARS tax brackets 2026, PAYE tax tables south africa, tax thresholds 2026/2027";
+$canonical = "/tax-brackets/";
+require __DIR__ . '/../includes/header.php';
+?>
+<section class="section">
+  <div class="wrap" style="max-width:860px">
+    <div class="kicker">Reference</div>
+    <h1 class="h2">SARS tax tables — <?php echo $TAX_YEAR_LABEL; ?></h1>
+    <p class="sub">Tax year <?php echo $TAX_YEAR_RANGE; ?>. Last verified against SARS publications: <strong><?php echo $TAX_LAST_VERIFIED; ?></strong>.</p>
+
+    <h2>PAYE brackets (annual taxable income)</h2>
+    <table class="ref-table">
+      <thead><tr><th>Taxable income</th><th class="num">Rate</th></tr></thead>
+      <tbody>
+        <tr><td>R0 – R245,100</td><td class="num">18%</td></tr>
+        <tr><td>R245,101 – R383,100</td><td class="num">26%</td></tr>
+        <tr><td>R383,101 – R530,200</td><td class="num">31%</td></tr>
+        <tr><td>R530,201 – R695,800</td><td class="num">36%</td></tr>
+        <tr><td>R695,801 – R887,000</td><td class="num">39%</td></tr>
+        <tr><td>R887,001 – R1,878,600</td><td class="num">41%</td></tr>
+        <tr><td>R1,878,601 and above</td><td class="num">45%</td></tr>
+      </tbody>
+    </table>
+
+    <h2>Rebates &amp; tax thresholds</h2>
+    <table class="ref-table">
+      <thead><tr><th>Age group</th><th class="num">Rebate</th><th class="num">Tax threshold</th></tr></thead>
+      <tbody>
+        <tr><td>Under 65 (primary)</td><td class="num">R17,820</td><td class="num">R99,000</td></tr>
+        <tr><td>65 to 74 (primary + secondary)</td><td class="num">R27,585</td><td class="num">R153,250</td></tr>
+        <tr><td>75 and over (primary + secondary + tertiary)</td><td class="num">R30,834</td><td class="num">R171,300</td></tr>
+      </tbody>
+    </table>
+    <p class="disclaimer">The threshold is the income below which no PAYE is payable (rebate ÷ 18%). Rebates are subtracted from the tax computed on the brackets — they are not deductions from income.</p>
+
+    <h2>UIF — Unemployment Insurance Fund</h2>
+    <table class="ref-table">
+      <tbody>
+        <tr><td>Employee contribution</td><td class="num">1% of gross salary</td></tr>
+        <tr><td>Monthly cap</td><td class="num">R177.12</td></tr>
+        <tr><td>Remuneration ceiling</td><td class="num">R17,712 / month</td></tr>
+        <tr><td>Employer contribution</td><td class="num">1% (matched, not deducted from you)</td></tr>
+      </tbody>
+    </table>
+    <p><a href="/uif-calculator/">Try the UIF calculator →</a></p>
+
+    <h2>Medical scheme fees tax credits (monthly)</h2>
+    <table class="ref-table">
+      <thead><tr><th>Member</th><th class="num">Credit / month</th></tr></thead>
+      <tbody>
+        <tr><td>Main member</td><td class="num">R376</td></tr>
+        <tr><td>First dependant</td><td class="num">R376</td></tr>
+        <tr><td>Each additional dependant</td><td class="num">R254</td></tr>
+      </tbody>
+    </table>
+    <p class="disclaimer">Credits reduce the tax payable (not taxable income). Source: SARS medical credit tables for <?php echo $TAX_YEAR_LABEL; ?>.</p>
+
+    <div class="notice"><strong>Note:</strong> SDL (Skills Development Levy, 1%) is paid by your employer and is never deducted from your salary. These tables cover employee PAYE only.</div>
+    <p><a href="/calculator/" class="btn btn-primary">Calculate my take-home pay</a></p>
+  </div>
+</section>
+<?php require __DIR__ . '/../includes/footer.php'; ?>
