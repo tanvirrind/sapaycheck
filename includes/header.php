@@ -1,1 +1,65 @@
-PD9waHAKLy8gU2hhcmVkIHBhZ2UgaGVhZCArIG5hdmlnYXRpb24uCi8vIFBhZ2VzIHNldCBCRUZPUkUgaW5jbHVkaW5nIHRoaXMgZmlsZToKLy8gICAkcGFnZVRpdGxlLCAkcGFnZURlc2MsICRjYW5vbmljYWwgKHBhdGgsIGUuZy4gIi9jYWxjdWxhdG9yLyIpCi8vIE9wdGlvbmFsOiAkcGFnZUtleXdvcmRzLCAkZXh0cmFIZWFkIChleHRyYSA8aGVhZD4gSFRNTCwgZS5nLiBKU09OLUxEKQpyZXF1aXJlX29uY2UgX19ESVJfXyAuICcvY29uZmlnLnBocCc7CiRjYW5vbmljYWxVcmwgPSAkU0lURV9VUkwgLiAkY2Fub25pY2FsOwo/Pgo8IURPQ1RZUEUgaHRtbD4KPGh0bWwgbGFuZz0iZW4tWkEiPgo8aGVhZD4KPG1ldGEgY2hhcnNldD0idXRmLTgiPgo8bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLCBpbml0aWFsLXNjYWxlPTEiPgo8dGl0bGU+PD9waHAgZWNobyBodG1sc3BlY2lhbGNoYXJzKCRwYWdlVGl0bGUsIEVOVF9RVU9URVMsICdVVEYtOCcpOyA/PjwvdGl0bGU+CjxtZXRhIG5hbWU9ImRlc2NyaXB0aW9uIiBjb250ZW50PSI8P3BocCBlY2hvIGh0bWxzcGVjaWFsY2hhcnMoJHBhZ2VEZXNjLCBFTlRfUVVPVEVTLCAnVVRGLTgnKTsgPz4iPgo8P3BocCBpZiAoIWVtcHR5KCRwYWdlS2V5d29yZHMpKTogPz4KPG1ldGEgbmFtZT0ia2V5d29yZHMiIGNvbnRlbnQ9Ijw/cGhwIGVjaG8gaHRtbHNwZWNpYWxjaGFycygkcGFnZUtleXdvcmRzLCBFTlRfUVVPVEVTLCAnVVRGLTgnKTsgPz4iPgo8P3BocCBlbmRpZjsgPz4KPGxpbmsgcmVsPSJjYW5vbmljYWwiIGhyZWY9Ijw/cGhwIGVjaG8gaHRtbHNwZWNpYWxjaGFycygkY2Fub25pY2FsVXJsLCBFTlRfUVVPVEVTLCAnVVRGLTgnKTsgPz4iPgo8bWV0YSBuYW1lPSJhdXRob3IiIGNvbnRlbnQ9Ijw/cGhwIGVjaG8gaHRtbHNwZWNpYWxjaGFycygkU0lURV9OQU1FLCBFTlRfUVVPVEVTLCAnVVRGLTgnKTsgPz4iPgo8bWV0YSBwcm9wZXJ0eT0ib2c6dHlwZSIgY29udGVudD0id2Vic2l0ZSI+CjxtZXRhIHByb3BlcnR5PSJvZzpsb2NhbGUiIGNvbnRlbnQ9ImVuX1pBIj4KPG1ldGEgcHJvcGVydHk9Im9nOnNpdGVfbmFtZSIgY29udGVudD0iPD9waHAgZWNobyBodG1sc3BlY2lhbGNoYXJzKCRTSVRFX05BTUUsIEVOVF9RVU9URVMsICdVVEYtOCcpOyA/PiI+CjxtZXRhIHByb3BlcnR5PSJvZzp1cmwiIGNvbnRlbnQ9Ijw/cGhwIGVjaG8gaHRtbHNwZWNpYWxjaGFycygkY2Fub25pY2FsVXJsLCBFTlRfUVVPVEVTLCAnVVRGLTgnKTsgPz4iPgo8bWV0YSBwcm9wZXJ0eT0ib2c6dGl0bGUiIGNvbnRlbnQ9Ijw/cGhwIGVjaG8gaHRtbHNwZWNpYWxjaGFycygkcGFnZVRpdGxlLCBFTlRfUVVPVEVTLCAnVVRGLTgnKTsgPz4iPgo8bWV0YSBwcm9wZXJ0eT0ib2c6ZGVzY3JpcHRpb24iIGNvbnRlbnQ9Ijw/cGhwIGVjaG8gaHRtbHNwZWNpYWxjaGFycygkcGFnZURlc2MsIEVOVF9RVU9URVMsICdVVEYtOCcpOyA/PiI+CjxtZXRhIG5hbWU9InR3aXR0ZXI6Y2FyZCIgY29udGVudD0ic3VtbWFyeSI+CjxtZXRhIG5hbWU9InR3aXR0ZXI6dGl0bGUiIGNvbnRlbnQ9Ijw/cGhwIGVjaG8gaHRtbHNwZWNpYWxjaGFycygkcGFnZVRpdGxlLCBFTlRfUVVPVEVTLCAnVVRGLTgnKTsgPz4iPgo8bWV0YSBuYW1lPSJ0d2l0dGVyOmRlc2NyaXB0aW9uIiBjb250ZW50PSI8P3BocCBlY2hvIGh0bWxzcGVjaWFsY2hhcnMoJHBhZ2VEZXNjLCBFTlRfUVVPVEVTLCAnVVRGLTgnKTsgPz4iPgo8bWV0YSBuYW1lPSJyb2JvdHMiIGNvbnRlbnQ9ImluZGV4LCBmb2xsb3ciPgo8bGluayByZWw9Imljb24iIHR5cGU9ImltYWdlL3N2Zyt4bWwiIGhyZWY9Ii9mYXZpY29uLnN2ZyI+CjxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iL2Fzc2V0cy9jc3Mvc3R5bGUuY3NzIj4KPHNjcmlwdCB0eXBlPSJhcHBsaWNhdGlvbi9sZCtqc29uIj4KeyJAY29udGV4dCI6Imh0dHBzOi8vc2NoZW1hLm9yZyIsIkB0eXBlIjoiV2ViU2l0ZSIsIm5hbWUiOiJTQSBQYXljaGVjayIsInVybCI6Imh0dHBzOi8vc2FwYXljaGVjay5jby56YS8iLCJkZXNjcmlwdGlvbiI6IkZyZWUgU291dGggQWZyaWNhbiB0YWtlLWhvbWUgcGF5IGNhbGN1bGF0b3IuIFdvcmsgb3V0IHlvdXIgc2FsYXJ5IGFmdGVyIFBBWUUgdGF4IGFuZCBVSUYgZm9yIHRoZSAyMDI2LzIwMjcgU0FSUyB0YXggeWVhci4ifQo8L3NjcmlwdD4KPD9waHAgaWYgKCFlbXB0eSgkZXh0cmFIZWFkKSkgZWNobyAkZXh0cmFIZWFkIC4gIlxuIjsgPz4KPC9oZWFkPgo8Ym9keT4KPG5hdiBjbGFzcz0ibmF2Ij4KICA8ZGl2IGNsYXNzPSJ3cmFwIG5hdi1pbm5lciI+CiAgICA8YSBocmVmPSIvIiBjbGFzcz0iYnJhbmQiPjxzcGFuIGNsYXNzPSJicmFuZC1tYXJrIiBhcmlhLWhpZGRlbj0idHJ1ZSI+Ujwvc3Bhbj4gU0EgUGF5Y2hlY2s8L2E+CiAgICA8ZGl2IGNsYXNzPSJuYXYtbGlua3MiPgogICAgICA8YSBocmVmPSIvY2FsY3VsYXRvci8iPkNhbGN1bGF0b3I8L2E+CiAgICAgIDxhIGhyZWY9Ii9zYWxhcnkvIj5TYWxhcmllczwvYT4KICAgICAgPGEgaHJlZj0iL3RheC1icmFja2V0cy8iPlRheCBCcmFja2V0czwvYT4KICAgICAgPGEgaHJlZj0iL3VpZi1jYWxjdWxhdG9yLyI+VUlGPC9hPgogICAgICA8YSBocmVmPSIvZmFxLyI+RkFRPC9hPgogICAgICA8YSBocmVmPSIvYWJvdXQvIj5BYm91dDwvYT4KICAgICAgPGEgaHJlZj0iL2NhbGN1bGF0b3IvIiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IGJ0bi1zbSI+Q2FsY3VsYXRlIG15IHBheTwvYT4KICAgIDwvZGl2PgogICAgPGJ1dHRvbiBjbGFzcz0ibmF2LXRvZ2dsZSIgYXJpYS1sYWJlbD0iT3BlbiBtZW51IiBhcmlhLWV4cGFuZGVkPSJmYWxzZSIgaWQ9Im5hdlRvZ2dsZSI+PHNwYW4+PC9zcGFuPjxzcGFuPjwvc3Bhbj48c3Bhbj48L3NwYW4+PC9idXR0b24+CiAgPC9kaXY+CiAgPGRpdiBjbGFzcz0ibmF2LW1lbnUiIGlkPSJuYXZNZW51Ij4KICAgIDxhIGhyZWY9Ii9jYWxjdWxhdG9yLyI+Q2FsY3VsYXRvcjwvYT4KICAgIDxhIGhyZWY9Ii9zYWxhcnkvIj5TYWxhcmllczwvYT4KICAgIDxhIGhyZWY9Ii90YXgtYnJhY2tldHMvIj5UYXggQnJhY2tldHM8L2E+CiAgICA8YSBocmVmPSIvdWlmLWNhbGN1bGF0b3IvIj5VSUYgQ2FsY3VsYXRvcjwvYT4KICAgIDxhIGhyZWY9Ii9mYXEvIj5GQVE8L2E+CiAgICA8YSBocmVmPSIvYWJvdXQvIj5BYm91dDwvYT4KICAgIDxhIGhyZWY9Ii9jb250YWN0LyI+Q29udGFjdDwvYT4KICAgIDxhIGhyZWY9Ii9jYWxjdWxhdG9yLyIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSIgc3R5bGU9Im1hcmdpbi10b3A6MTJweDt0ZXh0LWFsaWduOmNlbnRlciI+Q2FsY3VsYXRlIG15IHBheTwvYT4KICA8L2Rpdj4KPC9uYXY+CjwhLS0gQURTRU5TRTogcGFzdGUgcmVzcG9uc2l2ZSBsZWFkZXJib2FyZCBhZCB1bml0IGJlbG93IHRoZSBuYXYgKGFsbCBwYWdlcykgLS0+CjxtYWluPgo=
+<?php
+// Shared page head + navigation.
+// Pages set BEFORE including this file:
+//   $pageTitle, $pageDesc, $canonical (path, e.g. "/calculator/")
+// Optional: $pageKeywords, $extraHead (extra <head> HTML, e.g. JSON-LD)
+require_once __DIR__ . '/config.php';
+$canonicalUrl = $SITE_URL . $canonical;
+?>
+<!DOCTYPE html>
+<html lang="en-ZA">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title><?php echo htmlspecialchars($pageTitle, ENT_QUOTES, 'UTF-8'); ?></title>
+<meta name="description" content="<?php echo htmlspecialchars($pageDesc, ENT_QUOTES, 'UTF-8'); ?>">
+<?php if (!empty($pageKeywords)): ?>
+<meta name="keywords" content="<?php echo htmlspecialchars($pageKeywords, ENT_QUOTES, 'UTF-8'); ?>">
+<?php endif; ?>
+<link rel="canonical" href="<?php echo htmlspecialchars($canonicalUrl, ENT_QUOTES, 'UTF-8'); ?>">
+<meta name="author" content="<?php echo htmlspecialchars($SITE_NAME, ENT_QUOTES, 'UTF-8'); ?>">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_ZA">
+<meta property="og:site_name" content="<?php echo htmlspecialchars($SITE_NAME, ENT_QUOTES, 'UTF-8'); ?>">
+<meta property="og:url" content="<?php echo htmlspecialchars($canonicalUrl, ENT_QUOTES, 'UTF-8'); ?>">
+<meta property="og:title" content="<?php echo htmlspecialchars($pageTitle, ENT_QUOTES, 'UTF-8'); ?>">
+<meta property="og:description" content="<?php echo htmlspecialchars($pageDesc, ENT_QUOTES, 'UTF-8'); ?>">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="<?php echo htmlspecialchars($pageTitle, ENT_QUOTES, 'UTF-8'); ?>">
+<meta name="twitter:description" content="<?php echo htmlspecialchars($pageDesc, ENT_QUOTES, 'UTF-8'); ?>">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="stylesheet" href="/assets/css/style.css">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","name":"SA Paycheck","url":"https://sapaycheck.co.za/","description":"Free South African take-home pay calculator. Work out your salary after PAYE tax and UIF for the 2026/2027 SARS tax year."}
+</script>
+<?php if (!empty($extraHead)) echo $extraHead . "\n"; ?>
+</head>
+<body>
+<nav class="nav">
+  <div class="wrap nav-inner">
+    <a href="/" class="brand"><span class="brand-mark" aria-hidden="true">R</span> SA Paycheck</a>
+    <div class="nav-links">
+      <a href="/calculator/">Calculator</a>
+      <a href="/salary/">Salaries</a>
+      <a href="/tax-brackets/">Tax Brackets</a>
+      <a href="/uif-calculator/">UIF</a>
+      <a href="/faq/">FAQ</a>
+      <a href="/about/">About</a>
+      <a href="/calculator/" class="btn btn-primary btn-sm">Calculate my pay</a>
+    </div>
+    <button class="nav-toggle" aria-label="Open menu" aria-expanded="false" id="navToggle"><span></span><span></span><span></span></button>
+  </div>
+  <div class="nav-menu" id="navMenu">
+    <a href="/calculator/">Calculator</a>
+    <a href="/salary/">Salaries</a>
+    <a href="/tax-brackets/">Tax Brackets</a>
+    <a href="/uif-calculator/">UIF Calculator</a>
+    <a href="/faq/">FAQ</a>
+    <a href="/about/">About</a>
+    <a href="/contact/">Contact</a>
+    <a href="/calculator/" class="btn btn-primary" style="margin-top:12px;text-align:center">Calculate my pay</a>
+  </div>
+</nav>
+<!-- ADSENSE: paste responsive leaderboard ad unit below the nav (all pages) -->
+<main>
