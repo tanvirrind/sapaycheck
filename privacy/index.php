@@ -1,1 +1,26 @@
-PD9waHAKJHBhZ2VUaXRsZSA9ICJQcml2YWN5IFBvbGljeSB8IFNBIFBheWNoZWNrIjsKJHBhZ2VEZXNjID0gIlByaXZhY3kgcG9saWN5IGZvciBTQSBQYXljaGVjazogd2hhdCBkYXRhIHdlIGNvbGxlY3QgKGFsbW9zdCBub25lKSwgY29va2llcywgYW5kIGFkdmVydGlzaW5nLiI7CiRjYW5vbmljYWwgPSAiL3ByaXZhY3kvIjsKcmVxdWlyZSBfX0RJUl9fIC4gJy8uLi9pbmNsdWRlcy9oZWFkZXIucGhwJzsKPz4KPHNlY3Rpb24gY2xhc3M9InNlY3Rpb24iPgogIDxkaXYgY2xhc3M9IndyYXAiIHN0eWxlPSJtYXgtd2lkdGg6NzYwcHgiPgogICAgPGRpdiBjbGFzcz0ia2lja2VyIj5MZWdhbDwvZGl2PgogICAgPGgxIGNsYXNzPSJoMiI+UHJpdmFjeSBwb2xpY3k8L2gxPgogICAgPHAgY2xhc3M9ImRpc2NsYWltZXIiPkxhc3QgdXBkYXRlZDogMTAgT2N0b2JlciAyMDI2LjwvcD4KICAgIDxoMj5XaGF0IHdlIGNvbGxlY3Q8L2gyPgogICAgPHA+PHN0cm9uZz5BbG1vc3Qgbm90aGluZy48L3N0cm9uZz4gVGhlIHNhbGFyeSBjYWxjdWxhdG9yIHJ1bnMgZW50aXJlbHkgaW4geW91ciBicm93c2VyIOKAlCB0aGUgbnVtYmVycyB5b3UgdHlwZSBuZXZlciBsZWF2ZSB5b3VyIGRldmljZSBhbmQgYXJlIG5ldmVyIHNlbnQgdG8gb3VyIHNlcnZlcnMuPC9wPgogICAgPGgyPkNvbnRhY3QgZm9ybTwvaDI+CiAgICA8cD5JZiB5b3UgdXNlIHRoZSBjb250YWN0IGZvcm0sIHdlIHJlY2VpdmUgeW91ciBuYW1lLCBlbWFpbCBhZGRyZXNzIGFuZCBtZXNzYWdlIHNvIHdlIGNhbiByZXBseS4gV2UgZG9uJ3Qgc2VsbCBpdCwgc2hhcmUgaXQsIG9yIGFkZCB5b3UgdG8gYW55IGxpc3QuPC9wPgogICAgPGgyPkNvb2tpZXMgJmFtcDsgYWR2ZXJ0aXNpbmc8L2gyPgogICAgPHA+V2UgbWF5IGRpc3BsYXkgYWRzIChlLmcuIEdvb2dsZSBBZFNlbnNlKSB0byBrZWVwIHRoZSBzaXRlIGZyZWUuIEFkIHByb3ZpZGVycyBjYW4gdXNlIGNvb2tpZXMgdG8gc2VydmUgcmVsZXZhbnQgYWRzIGFuZCBtZWFzdXJlIHBlcmZvcm1hbmNlLiBZb3UgY2FuIG9wdCBvdXQgb2YgcGVyc29uYWxpc2VkIGFkdmVydGlzaW5nIGluIHlvdXIgR29vZ2xlIGFkIHNldHRpbmdzLjwvcD4KICAgIDxoMj5BbmFseXRpY3M8L2gyPgogICAgPHA+V2UgbWF5IHVzZSBwcml2YWN5LWZyaWVuZGx5LCBhZ2dyZWdhdGVkIGFuYWx5dGljcyB0byB1bmRlcnN0YW5kIHdoaWNoIHBhZ2VzIGFyZSB1c2VmdWwuIE5vIGNyb3NzLXNpdGUgdHJhY2tpbmcgcHJvZmlsZXMgYXJlIGJ1aWx0LjwvcD4KICAgIDxoMj5Zb3VyIHJpZ2h0czwvaDI+CiAgICA8cD5VbmRlciBTb3V0aCBBZnJpY2EncyBQT1BJQSB5b3UgbWF5IHJlcXVlc3QgYWNjZXNzIHRvLCBjb3JyZWN0aW9uLCBvciBkZWxldGlvbiBvZiBhbnkgcGVyc29uYWwgaW5mb3JtYXRpb24gd2UgaG9sZCBhYm91dCB5b3Ug4oCUIGNvbnRhY3QgdXMgYW5kIHdlJ2xsIGFjdCBwcm9tcHRseS48L3A+CiAgICA8aDI+Q2hhbmdlczwvaDI+CiAgICA8cD5JZiB0aGlzIHBvbGljeSBjaGFuZ2VzIG1hdGVyaWFsbHksIHRoZSAibGFzdCB1cGRhdGVkIiBkYXRlIGFib3ZlIHdpbGwgY2hhbmdlLiBDb250aW51ZWQgdXNlIG9mIHRoZSBzaXRlIG1lYW5zIHlvdSBhY2NlcHQgdGhlIGN1cnJlbnQgcG9saWN5LjwvcD4KICA8L2Rpdj4KPC9zZWN0aW9uPgo8P3BocCByZXF1aXJlIF9fRElSX18gLiAnLy4uL2luY2x1ZGVzL2Zvb3Rlci5waHAnOyA/Pgo=
+<?php
+$pageTitle = "Privacy Policy | SA Paycheck";
+$pageDesc = "Privacy policy for SA Paycheck: what data we collect (almost none), cookies, and advertising.";
+$canonical = "/privacy/";
+require __DIR__ . '/../includes/header.php';
+?>
+<section class="section">
+  <div class="wrap" style="max-width:760px">
+    <div class="kicker">Legal</div>
+    <h1 class="h2">Privacy policy</h1>
+    <p class="disclaimer">Last updated: 10 October 2026.</p>
+    <h2>What we collect</h2>
+    <p><strong>Almost nothing.</strong> The salary calculator runs entirely in your browser — the numbers you type never leave your device and are never sent to our servers.</p>
+    <h2>Contact form</h2>
+    <p>If you use the contact form, we receive your name, email address and message so we can reply. We don't sell it, share it, or add you to any list.</p>
+    <h2>Cookies &amp; advertising</h2>
+    <p>We may display ads (e.g. Google AdSense) to keep the site free. Ad providers can use cookies to serve relevant ads and measure performance. You can opt out of personalised advertising in your Google ad settings.</p>
+    <h2>Analytics</h2>
+    <p>We may use privacy-friendly, aggregated analytics to understand which pages are useful. No cross-site tracking profiles are built.</p>
+    <h2>Your rights</h2>
+    <p>Under South Africa's POPIA you may request access to, correction, or deletion of any personal information we hold about you — contact us and we'll act promptly.</p>
+    <h2>Changes</h2>
+    <p>If this policy changes materially, the "last updated" date above will change. Continued use of the site means you accept the current policy.</p>
+  </div>
+</section>
+<?php require __DIR__ . '/../includes/footer.php'; ?>
