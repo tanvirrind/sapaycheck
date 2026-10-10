@@ -1,1 +1,65 @@
-PD9waHAKJHBhZ2VUaXRsZSA9ICJSNDUgMDAwIFNhbGFyeSBBZnRlciBUYXggaW4gU291dGggQWZyaWNhICgyMDI2LzIwMjcpIHwgU0EgUGF5Y2hlY2siOwokcGFnZURlc2MgPSAiV2hhdCBpcyB0YWtlLWhvbWUgcGF5IG9uIGEgUjQ1IDAwMCBzYWxhcnkgaW4gU291dGggQWZyaWNhPyBSMzUgNTQ3IHBlciBtb250aCBhZnRlciBQQVlFIGFuZCBVSUYg4oCUIGZ1bGwgMjAyNi8yMDI3IGJyZWFrZG93bi4iOwokcGFnZUtleXdvcmRzID0gInI0NSAwMDAgc2FsYXJ5IGFmdGVyIHRheCwgdGFrZSBob21lIHBheSByNDUgMDAwIHNvdXRoIGFmcmljYSI7CiRjYW5vbmljYWwgPSAiL3NhbGFyeS9yNDUwMDAtYWZ0ZXItdGF4LyI7CiRleHRyYUhlYWQgPSAnPHNjcmlwdCB0eXBlPSJhcHBsaWNhdGlvbi9sZCtqc29uIj4nIC4ganNvbl9lbmNvZGUoWwogICAgIkBjb250ZXh0IiA9PiAiaHR0cHM6Ly9zY2hlbWEub3JnIiwgIkB0eXBlIiA9PiAiRkFRUGFnZSIsCiAgICAibWFpbkVudGl0eSIgPT4gWwogICAgICAgIFsiQHR5cGUiID0+ICJRdWVzdGlvbiIsICJuYW1lIiA9PiAiSG93IG11Y2ggaXMgdGFrZS1ob21lIHBheSBvbiBSNDUgMDAwIGluIFNvdXRoIEFmcmljYT8iLAogICAgICAgICAiYWNjZXB0ZWRBbnN3ZXIiID0+IFsiQHR5cGUiID0+ICJBbnN3ZXIiLCAidGV4dCIgPT4gIkZvciAyMDI2LzIwMjc6IFIzNSA1NDcgcGVyIG1vbnRoIChSNDI2IDU2OCBwZXIgeWVhcikgYWZ0ZXIgUEFZRSBhbmQgVUlGLiJdXSwKICAgICAgICBbIkB0eXBlIiA9PiAiUXVlc3Rpb24iLCAibmFtZSIgPT4gIkhvdyBtdWNoIHRheCBkbyBJIHBheSBvbiBhIFI0NSAwMDAgc2FsYXJ5PyIsCiAgICAgICAgICJhY2NlcHRlZEFuc3dlciIgPT4gWyJAdHlwZSIgPT4gIkFuc3dlciIsICJ0ZXh0IiA9PiAiUEFZRSBvZiBSOSAyNzUuNTggcGVyIG1vbnRoIChSMTExIDMwNy4wMC95ZWFyKSBwbHVzIFVJRiBvZiBSMTc3LjEyIHBlciBtb250aCDigJQgYW4gZWZmZWN0aXZlIHJhdGUgb2YgMjEuMCUuIl1dLAogICAgICAgIFsiQHR5cGUiID0+ICJRdWVzdGlvbiIsICJuYW1lIiA9PiAiV2hhdCB0YXggYnJhY2tldCBpcyBSNDUgMDAwIGEgbW9udGg/IiwKICAgICAgICAgImFjY2VwdGVkQW5zd2VyIiA9PiBbIkB0eXBlIiA9PiAiQW5zd2VyIiwgInRleHQiID0+ICJZb3VyIG1hcmdpbmFsIGJyYWNrZXQgaXMgMzYlIGZvciAyMDI2LzIwMjcsIGJ1dCB5b3VyIGVmZmVjdGl2ZSBkZWR1Y3Rpb24gcmF0ZSBpcyBvbmx5IDIxLjAlIHRoYW5rcyB0byB0aGUgcHJvZ3Jlc3NpdmUgYnJhY2tldHMgYW5kIHRoZSBSMTcsODIwIHByaW1hcnkgcmViYXRlLiJdXSwKICAgIF0sCl0pIC4gJzwvc2NyaXB0Pic7CnJlcXVpcmUgX19ESVJfXyAuICcvLi4vLi4vaW5jbHVkZXMvaGVhZGVyLnBocCc7Cj8+CjxzZWN0aW9uIGNsYXNzPSJzZWN0aW9uIj4KICA8ZGl2IGNsYXNzPSJ3cmFwIiBzdHlsZT0ibWF4LXdpZHRoOjg2MHB4Ij4KICAgIDxkaXYgY2xhc3M9ImtpY2tlciI+U2FsYXJ5IGd1aWRlIMK3IDIwMjYvMjAyNzwvZGl2PgogICAgPGgxIGNsYXNzPSJoMiI+UjQ1IDAwMCBzYWxhcnkgYWZ0ZXIgdGF4IOKAlCBTb3V0aCBBZnJpY2EgMjAyNi8yMDI3PC9oMT4KICAgIDxkaXYgY2xhc3M9ImFuc3dlci1ib3giPjxzdHJvbmc+U2hvcnQgYW5zd2VyOjwvc3Ryb25nPiBPbiBSNDUgMDAwIGEgbW9udGggeW91IHRha2UgaG9tZSBSMzUgNTQ3IGFmdGVyIFI5IDI3NiBQQVlFIGFuZCBSMTc3LjEyIFVJRi48L2Rpdj4KICAgIDxwPkF0IFI0NSAwMDAgYSBtb250aCB5b3UncmUgd2VsbCBpbnRvIHRoZSAzNiUgYnJhY2tldCBmb3IgMjAyNi8yMDI3LiBNb250aGx5IFBBWUUgb2YgUjkgMjc2IHBsdXMgY2FwcGVkIFVJRiBvZiBSMTc3LjEyIGxlYXZlcyBSMzUgNTQ3IHRha2UtaG9tZSDigJQgUjQyNiA1NjggYSB5ZWFyLCBhbiBlZmZlY3RpdmUgZGVkdWN0aW9uIHJhdGUgb2YgMjEuMCUuPC9wPgogICAgPHAgY2xhc3M9ImRpc2NsYWltZXIiPlBlbnNpb24gb3IgUkEgY29udHJpYnV0aW9ucyB1cCB0byAyNy41JSBvZiB5b3VyIHNhbGFyeSByZWR1Y2UgeW91ciB0YXhhYmxlIGluY29tZSDigJQgbW9kZWwgaXQgaW4gdGhlIGZ1bGwgY2FsY3VsYXRvci48L3A+CiAgICA8IS0tIEFEU0VOU0U6IHBhc3RlIGluLWFydGljbGUgYWQgdW5pdCBoZXJlIChzYWxhcnkgZ3VpZGUgcGFnZXMpIC0tPgogICAgPGgyPk1vbnRobHkgYnJlYWtkb3duPC9oMj4KICAgIDx0YWJsZSBjbGFzcz0icmVmLXRhYmxlIj4KICAgICAgPHRib2R5PgogICAgICAgIDx0cj48dGQ+R3Jvc3MgbW9udGhseSBzYWxhcnk8L3RkPjx0ZCBjbGFzcz0ibnVtIG1vbm8iPlI0NSAwMDA8L3RkPjwvdHI+CiAgICAgICAgPHRyPjx0ZD5QQVlFIChpbmNvbWUgdGF4KTwvdGQ+PHRkIGNsYXNzPSJudW0gbW9ubyI+4oiSIFI5IDI3NS41ODwvdGQ+PC90cj4KICAgICAgICA8dHI+PHRkPlVJRiAoMSUsIGNhcHBlZCk8L3RkPjx0ZCBjbGFzcz0ibnVtIG1vbm8iPuKIkiBSMTc3LjEyPC90ZD48L3RyPgogICAgICAgIDx0ciBjbGFzcz0idG90YWwiPjx0ZD5UYWtlLWhvbWUgcGF5IChtb250aGx5KTwvdGQ+PHRkIGNsYXNzPSJudW0gbW9ubyI+UjM1IDU0Ny4zMDwvdGQ+PC90cj4KICAgICAgPC90Ym9keT4KICAgIDwvdGFibGU+CiAgICA8aDI+QW5udWFsIGJyZWFrZG93bjwvaDI+CiAgICA8dGFibGUgY2xhc3M9InJlZi10YWJsZSI+CiAgICAgIDx0Ym9keT4KICAgICAgICA8dHI+PHRkPkdyb3NzIGFubnVhbCBzYWxhcnk8L3RkPjx0ZCBjbGFzcz0ibnVtIG1vbm8iPlI1NDAgMDAwPC90ZD48L3RyPgogICAgICAgIDx0cj48dGQ+UEFZRSAoaW5jb21lIHRheCk8L3RkPjx0ZCBjbGFzcz0ibnVtIG1vbm8iPuKIkiBSMTExIDMwNy4wMDwvdGQ+PC90cj4KICAgICAgICA8dHI+PHRkPlVJRjwvdGQ+PHRkIGNsYXNzPSJudW0gbW9ubyI+4oiSIFIyIDEyNS40NDwvdGQ+PC90cj4KICAgICAgICA8dHIgY2xhc3M9InRvdGFsIj48dGQ+VGFrZS1ob21lIHBheSAoYW5udWFsKTwvdGQ+PHRkIGNsYXNzPSJudW0gbW9ubyI+UjQyNiA1NjcuNTY8L3RkPjwvdHI+CiAgICAgICAgPHRyPjx0ZD5UYWtlLWhvbWUgcGVyIHdlZWs8L3RkPjx0ZCBjbGFzcz0ibnVtIG1vbm8iPlI4IDIwMy4yMjwvdGQ+PC90cj4KICAgICAgICA8dHI+PHRkPlRha2UtaG9tZSBwZXIgZGF5PC90ZD48dGQgY2xhc3M9Im51bSBtb25vIj5SMSAxNjguNjg8L3RkPjwvdHI+CiAgICAgIDwvdGJvZHk+CiAgICA8L3RhYmxlPgogICAgPGRpdiBjbGFzcz0iZ3JpZDIiIHN0eWxlPSJtYXJnaW4tdG9wOjIwcHgiPgogICAgICA8ZGl2IGNsYXNzPSJjYXJkIj48aDMgc3R5bGU9Im1hcmdpbi10b3A6MCI+RWZmZWN0aXZlIHJhdGU8L2gzPjxwIGNsYXNzPSJtb25vIiBzdHlsZT0iZm9udC1zaXplOjEuNnJlbTtmb250LXdlaWdodDo4MDA7bWFyZ2luOjAiPjIxLjAlPC9wPjxwIGNsYXNzPSJkaXNjbGFpbWVyIj5TaGFyZSBvZiBzYWxhcnkgbG9zdCB0byBQQVlFICsgVUlGLjwvcD48L2Rpdj4KICAgICAgPGRpdiBjbGFzcz0iY2FyZCI+PGgzIHN0eWxlPSJtYXJnaW4tdG9wOjAiPk1hcmdpbmFsIGJyYWNrZXQ8L2gzPjxwIGNsYXNzPSJtb25vIiBzdHlsZT0iZm9udC1zaXplOjEuNnJlbTtmb250LXdlaWdodDo4MDA7bWFyZ2luOjAiPjM2JTwvcD48cCBjbGFzcz0iZGlzY2xhaW1lciI+VGF4IHJhdGUgb24geW91ciBuZXh0IHJhbmQgZWFybmVkLjwvcD48L2Rpdj4KICAgIDwvZGl2PgogICAgPGRpdiBjbGFzcz0iZmFxIiBzdHlsZT0ibWFyZ2luLXRvcDozMnB4Ij4KICAgICAgPGgyIGNsYXNzPSJoMiI+UXVlc3Rpb25zIGFib3V0IGEgUjQ1IDAwMCBzYWxhcnk8L2gyPgogICAgICA8ZGV0YWlscz48c3VtbWFyeT5Ib3cgbXVjaCBpcyB0YWtlLWhvbWUgcGF5IG9uIFI0NSAwMDAgaW4gU291dGggQWZyaWNhPzwvc3VtbWFyeT48cD5Gb3IgMjAyNi8yMDI3OiBSMzUgNTQ3IHBlciBtb250aCAoUjQyNiA1NjggcGVyIHllYXIpIGFmdGVyIFBBWUUgYW5kIFVJRi48L3A+PC9kZXRhaWxzPgogICAgICA8ZGV0YWlscz48c3VtbWFyeT5Ib3cgbXVjaCB0YXggZG8gSSBwYXkgb24gYSBSNDUgMDAwIHNhbGFyeT88L3N1bW1hcnk+PHA+UEFZRSBvZiBSOSAyNzUuNTggcGVyIG1vbnRoIChSMTExIDMwNy4wMC95ZWFyKSBwbHVzIFVJRiBvZiBSMTc3LjEyIHBlciBtb250aCDigJQgYW4gZWZmZWN0aXZlIHJhdGUgb2YgMjEuMCUuPC9wPjwvZGV0YWlscz4KICAgICAgPGRldGFpbHM+PHN1bW1hcnk+V2hhdCB0YXggYnJhY2tldCBpcyBSNDUgMDAwIGEgbW9udGg/PC9zdW1tYXJ5PjxwPllvdXIgbWFyZ2luYWwgYnJhY2tldCBpcyAzNiUgZm9yIDIwMjYvMjAyNywgYnV0IHlvdXIgZWZmZWN0aXZlIGRlZHVjdGlvbiByYXRlIGlzIG9ubHkgMjEuMCUgdGhhbmtzIHRvIHRoZSBwcm9ncmVzc2l2ZSBicmFja2V0cyBhbmQgdGhlIFIxNyw4MjAgcHJpbWFyeSByZWJhdGUuPC9wPjwvZGV0YWlscz4KICAgIDwvZGl2PgogICAgPHAgY2xhc3M9ImRpc2NsYWltZXIiIHN0eWxlPSJtYXJnaW4tdG9wOjI0cHgiPkFzc3VtZXMgdW5kZXIgNjUsIG5vIHBlbnNpb24gZGVkdWN0aW9uIGFuZCBubyBtZWRpY2FsIGFpZC4gQWRkIHlvdXIgb3duIGRldGFpbHMgaW4gdGhlIDxhIGhyZWY9Ii9jYWxjdWxhdG9yLyI+ZnVsbCBjYWxjdWxhdG9yPC9hPi4gRmlndXJlcyB1c2UgU0FSUyAyMDI2LzIwMjcgdGFibGVzIOKAlCBlc3RpbWF0ZSBvbmx5LCBub3QgdGF4IGFkdmljZS48L3A+CiAgICA8ZGl2IGNsYXNzPSJwYWdlciI+CiAgICAgIDxkaXY+PGEgaHJlZj0iL3NhbGFyeS9yNDAwMDAtYWZ0ZXItdGF4LyI+4oaQIFI0MCAwMDAgc2FsYXJ5PC9hPjwvZGl2PgogICAgICA8ZGl2PjxhIGhyZWY9Ii9zYWxhcnkvcjUwMDAwLWFmdGVyLXRheC8iPlI1MCAwMDAgc2FsYXJ5IOKGkjwvYT48L2Rpdj4KICAgIDwvZGl2PgogICAgPHAgc3R5bGU9Im1hcmdpbi10b3A6MTZweCI+PGEgaHJlZj0iL3NhbGFyeS8iPkFsbCBzYWxhcnkgZ3VpZGVzIOKGkjwvYT4gwrcgPGEgaHJlZj0iL3RheC1icmFja2V0cy8iPlNBUlMgMjAyNi8yMDI3IHRheCB0YWJsZXMg4oaSPC9hPjwvcD4KICA8L2Rpdj4KPC9zZWN0aW9uPgo8P3BocCByZXF1aXJlIF9fRElSX18gLiAnLy4uLy4uL2luY2x1ZGVzL2Zvb3Rlci5waHAnOyA/Pg==
+<?php
+$pageTitle = "R45 000 Salary After Tax in South Africa (2026/2027) | SA Paycheck";
+$pageDesc = "What is take-home pay on a R45 000 salary in South Africa? R35 547 per month after PAYE and UIF — full 2026/2027 breakdown.";
+$pageKeywords = "r45 000 salary after tax, take home pay r45 000 south africa";
+$canonical = "/salary/r45000-after-tax/";
+$extraHead = '<script type="application/ld+json">' . json_encode([
+    "@context" => "https://schema.org", "@type" => "FAQPage",
+    "mainEntity" => [
+        ["@type" => "Question", "name" => "How much is take-home pay on R45 000 in South Africa?",
+         "acceptedAnswer" => ["@type" => "Answer", "text" => "For 2026/2027: R35 547 per month (R426 568 per year) after PAYE and UIF."]],
+        ["@type" => "Question", "name" => "How much tax do I pay on a R45 000 salary?",
+         "acceptedAnswer" => ["@type" => "Answer", "text" => "PAYE of R9 275.58 per month (R111 307.00/year) plus UIF of R177.12 per month — an effective rate of 21.0%."]],
+        ["@type" => "Question", "name" => "What tax bracket is R45 000 a month?",
+         "acceptedAnswer" => ["@type" => "Answer", "text" => "Your marginal bracket is 36% for 2026/2027, but your effective deduction rate is only 21.0% thanks to the progressive brackets and the R17,820 primary rebate."]],
+    ],
+]) . '</script>';
+require __DIR__ . '/../../includes/header.php';
+?>
+<section class="section">
+  <div class="wrap" style="max-width:860px">
+    <div class="kicker">Salary guide · 2026/2027</div>
+    <h1 class="h2">R45 000 salary after tax — South Africa 2026/2027</h1>
+    <div class="answer-box"><strong>Short answer:</strong> On R45 000 a month you take home R35 547 after R9 276 PAYE and R177.12 UIF.</div>
+    <p>At R45 000 a month you're well into the 36% bracket for 2026/2027. Monthly PAYE of R9 276 plus capped UIF of R177.12 leaves R35 547 take-home — R426 568 a year, an effective deduction rate of 21.0%.</p>
+    <p class="disclaimer">Pension or RA contributions up to 27.5% of your salary reduce your taxable income — model it in the full calculator.</p>
+    <!-- ADSENSE: paste in-article ad unit here (salary guide pages) -->
+    <h2>Monthly breakdown</h2>
+    <table class="ref-table">
+      <tbody>
+        <tr><td>Gross monthly salary</td><td class="num mono">R45 000</td></tr>
+        <tr><td>PAYE (income tax)</td><td class="num mono">− R9 275.58</td></tr>
+        <tr><td>UIF (1%, capped)</td><td class="num mono">− R177.12</td></tr>
+        <tr class="total"><td>Take-home pay (monthly)</td><td class="num mono">R35 547.30</td></tr>
+      </tbody>
+    </table>
+    <h2>Annual breakdown</h2>
+    <table class="ref-table">
+      <tbody>
+        <tr><td>Gross annual salary</td><td class="num mono">R540 000</td></tr>
+        <tr><td>PAYE (income tax)</td><td class="num mono">− R111 307.00</td></tr>
+        <tr><td>UIF</td><td class="num mono">− R2 125.44</td></tr>
+        <tr class="total"><td>Take-home pay (annual)</td><td class="num mono">R426 567.56</td></tr>
+        <tr><td>Take-home per week</td><td class="num mono">R8 203.22</td></tr>
+        <tr><td>Take-home per day</td><td class="num mono">R1 168.68</td></tr>
+      </tbody>
+    </table>
+    <div class="grid2" style="margin-top:20px">
+      <div class="card"><h3 style="margin-top:0">Effective rate</h3><p class="mono" style="font-size:1.6rem;font-weight:800;margin:0">21.0%</p><p class="disclaimer">Share of salary lost to PAYE + UIF.</p></div>
+      <div class="card"><h3 style="margin-top:0">Marginal bracket</h3><p class="mono" style="font-size:1.6rem;font-weight:800;margin:0">36%</p><p class="disclaimer">Tax rate on your next rand earned.</p></div>
+    </div>
+    <div class="faq" style="margin-top:32px">
+      <h2 class="h2">Questions about a R45 000 salary</h2>
+      <details><summary>How much is take-home pay on R45 000 in South Africa?</summary><p>For 2026/2027: R35 547 per month (R426 568 per year) after PAYE and UIF.</p></details>
+      <details><summary>How much tax do I pay on a R45 000 salary?</summary><p>PAYE of R9 275.58 per month (R111 307.00/year) plus UIF of R177.12 per month — an effective rate of 21.0%.</p></details>
+      <details><summary>What tax bracket is R45 000 a month?</summary><p>Your marginal bracket is 36% for 2026/2027, but your effective deduction rate is only 21.0% thanks to the progressive brackets and the R17,820 primary rebate.</p></details>
+    </div>
+    <p class="disclaimer" style="margin-top:24px">Assumes under 65, no pension deduction and no medical aid. Add your own details in the <a href="/calculator/">full calculator</a>. Figures use SARS 2026/2027 tables — estimate only, not tax advice.</p>
+    <div class="pager">
+      <div><a href="/salary/r40000-after-tax/">← R40 000 salary</a></div>
+      <div><a href="/salary/r50000-after-tax/">R50 000 salary →</a></div>
+    </div>
+    <p style="margin-top:16px"><a href="/salary/">All salary guides →</a> · <a href="/tax-brackets/">SARS 2026/2027 tax tables →</a></p>
+  </div>
+</section>
+<?php require __DIR__ . '/../../includes/footer.php'; ?>
