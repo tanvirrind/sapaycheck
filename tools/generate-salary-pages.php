@@ -1,1 +1,187 @@
-PD9waHAKLy8gQ0xJIGdlbmVyYXRvcjogYnVpbGRzIC9zYWxhcnkve3NsdWd9L2luZGV4LnBocCBwYWdlcyArIHNpdGVtYXAueG1sIGZyb20gY29uZmlnLnBocC4KLy8gTnVtYmVycyBhcmUgQ09NUFVURUQgdmlhIHNhcGNfYnJlYWtkb3duKCkg4oCUIG5ldmVyIGhhbmQtdHlwZWQuCi8vIFVzYWdlOiBwaHAgdG9vbHMvZ2VuZXJhdGUtc2FsYXJ5LXBhZ2VzLnBocApyZXF1aXJlIF9fRElSX18gLiAnLy4uL2luY2x1ZGVzL2NvbmZpZy5waHAnOwoKJGJhc2UgPSBkaXJuYW1lKF9fRElSX18pOwokZGF0ZSA9ICcyMDI2LTEwLTEwJzsKCiRpbnRyb3MgPSBbCiAgICAnZW50cnknID0+IFsKICAgICAgICAiQSB7Z3Jvc3N9IG1vbnRobHkgc2FsYXJ5IHB1dHMgeW91IGluIFNvdXRoIEFmcmljYSdzIHttYXJnaW5hbH0gbWFyZ2luYWwgdGF4IGJyYWNrZXQgZm9yIHRoZSB7eWVhcn0gdGF4IHllYXIuIEFmdGVyIFBBWUUgb2Yge3BheWVfbX0gYSBtb250aCBhbmQgVUlGIG9mIHt1aWZfbX0sIHlvdXIgdGFrZS1ob21lIHBheSBpcyB7bmV0X219IOKAlCB7bmV0X2F9IGEgeWVhci4gWW91ciBlZmZlY3RpdmUgZGVkdWN0aW9uIHJhdGUgaXMge2VmZn0sIG1lYW5pbmcgeW91IGtlZXAgYWJvdXQge2tlZXB9IG9mIGV2ZXJ5IHJhbmQgeW91IGVhcm4uIiwKICAgICAgICAiRWFybmluZyB7Z3Jvc3N9IGEgbW9udGggaW4gU291dGggQWZyaWNhPyBIZXJlJ3MgdGhlIHt5ZWFyfSBicmVha2Rvd246IFBBWUUgdGFrZXMge3BheWVfbX0gbW9udGhseSwgVUlGIHRha2VzIHt1aWZfbX0sIGFuZCB5b3Uga2VlcCB7bmV0X219IOKAlCBhbiBlZmZlY3RpdmUgcmF0ZSBvZiB7ZWZmfS4gWW91ciBtYXJnaW5hbCBicmFja2V0IGlzIHttYXJnaW5hbH0sIHNvIGVhY2ggZXh0cmEgcmFuZCB5b3UgZWFybiBpcyB0YXhlZCBhdCB7bWFyZ2luYWx9LiIKICAgIF0sCiAgICAnbWlkJyA9PiBbCiAgICAgICAgIk9uIHtncm9zc30gYSBtb250aCwgdGhlIHt5ZWFyfSBTQVJTIHRhYmxlcyBwdXQgeW91ciBtYXJnaW5hbCB0YXggcmF0ZSBhdCB7bWFyZ2luYWx9LiBQQVlFIGNvbWVzIHRvIHtwYXllX219IG1vbnRobHkgYW5kIFVJRiBpcyBjYXBwZWQgYXQge3VpZl9tfSwgbGVhdmluZyB0YWtlLWhvbWUgcGF5IG9mIHtuZXRfbX0gKHtuZXRfYX0gYSB5ZWFyKSDigJQgYW4gZWZmZWN0aXZlIGRlZHVjdGlvbiByYXRlIG9mIHtlZmZ9LiIsCiAgICAgICAgIkEge2dyb3NzfSBtb250aGx5IHNhbGFyeSBpbiBTb3V0aCBBZnJpY2EgbWVhbnMge3BheWVfbX0gaW4gUEFZRSBhbmQge3VpZl9tfSBpbiBVSUYgZXZlcnkgbW9udGggZm9yIHt5ZWFyfSwgZm9yIHRha2UtaG9tZSBwYXkgb2Yge25ldF9tfS4gVGhhdCdzIHtuZXRfYX0gYW5udWFsbHkgYXQgYW4gZWZmZWN0aXZlIHJhdGUgb2Yge2VmZn07IHlvdXIgdG9wIHNsaWNlIG9mIGluY29tZSBpcyB0YXhlZCBhdCB7bWFyZ2luYWx9LiIKICAgIF0sCiAgICAnc2VuaW9yJyA9PiBbCiAgICAgICAgIkF0IHtncm9zc30gYSBtb250aCB5b3UncmUgd2VsbCBpbnRvIHRoZSB7bWFyZ2luYWx9IGJyYWNrZXQgZm9yIHt5ZWFyfS4gTW9udGhseSBQQVlFIG9mIHtwYXllX219IHBsdXMgY2FwcGVkIFVJRiBvZiB7dWlmX219IGxlYXZlcyB7bmV0X219IHRha2UtaG9tZSDigJQge25ldF9hfSBhIHllYXIsIGFuIGVmZmVjdGl2ZSBkZWR1Y3Rpb24gcmF0ZSBvZiB7ZWZmfS4iLAogICAgICAgICJ7Z3Jvc3N9IGEgbW9udGggaW4gU291dGggQWZyaWNhIGZvciB7eWVhcn06IFNBUlMgdGFrZXMge3BheWVfbX0gaW4gUEFZRSwgVUlGIHRha2VzIGl0cyBtYXhpbXVtIG9mIHt1aWZfbX0sIGFuZCB5b3VyIHRha2UtaG9tZSBwYXkgaXMge25ldF9tfSBtb250aGx5ICh7bmV0X2F9IHllYXJseSkuIEVmZmVjdGl2ZSByYXRlOiB7ZWZmfTsgbWFyZ2luYWwgYnJhY2tldDoge21hcmdpbmFsfS4iCiAgICBdLAogICAgJ2V4ZWMnID0+IFsKICAgICAgICAiQSB7Z3Jvc3N9IG1vbnRobHkgc2FsYXJ5IGxhbmRzIHlvdSBpbiBTb3V0aCBBZnJpY2EncyB7bWFyZ2luYWx9IHRvcCBicmFja2V0IGZvciB7eWVhcn0uIEFmdGVyIHtwYXllX219IGluIG1vbnRobHkgUEFZRSBhbmQgdGhlIGNhcHBlZCB7dWlmX219IFVJRiwgdGFrZS1ob21lIHBheSBpcyB7bmV0X219IOKAlCB7bmV0X2F9IGEgeWVhciDigJQgYXQgYW4gZWZmZWN0aXZlIGRlZHVjdGlvbiByYXRlIG9mIHtlZmZ9LiIsCiAgICAgICAgIkVhcm5pbmcge2dyb3NzfSBhIG1vbnRoPyBGb3Ige3llYXJ9LCBQQVlFIG9mIHtwYXllX219IGFuZCBVSUYgb2Yge3VpZl9tfSBjb21lIG9mZiBmaXJzdCwgbGVhdmluZyB7bmV0X219IHRha2UtaG9tZSBwYXkgKHtuZXRfYX0gYW5udWFsbHkpLiBZb3VyIGVmZmVjdGl2ZSByYXRlIGlzIHtlZmZ9LCBidXQgZXZlcnkgYWRkaXRpb25hbCByYW5kIGlzIHRheGVkIGF0IHttYXJnaW5hbH0uIgogICAgXSwKXTsKCiRmYWN0cyA9IFsKICAgICJUaGUgUjE3LDgyMCBwcmltYXJ5IHJlYmF0ZSB3aXBlcyBvdXQgdGhlIHRheCBvbiB5b3VyIGZpcnN0IFI5OSwwMDAgb2YgYW5udWFsIGluY29tZSDigJQgZXZlcnlvbmUgdW5kZXIgNjUgZ2V0cyBpdC4iLAogICAgIlVJRiBzdG9wcyBncm93aW5nIG9uY2UgeW91ciBzYWxhcnkgcGFzc2VzIFIxNyw3MTIgYSBtb250aDsgYWJvdmUgdGhhdCBpdCdzIGFsd2F5cyBSMTc3LjEyLiIsCiAgICAiU291dGggQWZyaWNhJ3MgdGF4IHllYXIgcnVucyAxIE1hcmNoIHRvIHRoZSBlbmQgb2YgRmVicnVhcnkg4oCUIHRoZXNlIGZpZ3VyZXMgY292ZXIgMjAyNi8yMDI3LiIsCiAgICAiUGVuc2lvbiBvciBSQSBjb250cmlidXRpb25zIHVwIHRvIDI3LjUlIG9mIHlvdXIgc2FsYXJ5IHJlZHVjZSB5b3VyIHRheGFibGUgaW5jb21lIOKAlCBtb2RlbCBpdCBpbiB0aGUgZnVsbCBjYWxjdWxhdG9yLiIsCiAgICAiT24gbWVkaWNhbCBhaWQ/IFlvdSBnZXQgUjM3NiBhIG1vbnRoIG9mZiB5b3VyIHRheCBiaWxsLCBwbHVzIFIzNzYgZm9yIHlvdXIgZmlyc3QgZGVwZW5kYW50LiIsCl07CgpmdW5jdGlvbiB0aWVyX29mKGludCAkbHZsKTogc3RyaW5nIHsKICAgIGlmICgkbHZsIDw9IDE1MDAwKSByZXR1cm4gJ2VudHJ5JzsKICAgIGlmICgkbHZsIDw9IDQwMDAwKSByZXR1cm4gJ21pZCc7CiAgICBpZiAoJGx2bCA8PSA3NTAwMCkgcmV0dXJuICdzZW5pb3InOwogICAgcmV0dXJuICdleGVjJzsKfQoKJHRwbCA9IDw8PCdUUEwnCjw/cGhwCiRwYWdlVGl0bGUgPSAie3tUSVRMRX19IjsKJHBhZ2VEZXNjID0gInt7REVTQ319IjsKJHBhZ2VLZXl3b3JkcyA9ICJ7e0tFWVdPUkRTfX0iOwokY2Fub25pY2FsID0gInt7Q0FOT05JQ0FMfX0iOwokZXh0cmFIZWFkID0gJzxzY3JpcHQgdHlwZT0iYXBwbGljYXRpb24vbGQranNvbiI+JyAuIGpzb25fZW5jb2RlKFsKICAgICJAY29udGV4dCIgPT4gImh0dHBzOi8vc2NoZW1hLm9yZyIsICJAdHlwZSIgPT4gIkZBUVBhZ2UiLAogICAgIm1haW5FbnRpdHkiID0+IFsKICAgICAgICBbIkB0eXBlIiA9PiAiUXVlc3Rpb24iLCAibmFtZSIgPT4gInt7RkFRMVF9fSIsCiAgICAgICAgICJhY2NlcHRlZEFuc3dlciIgPT4gWyJAdHlwZSIgPT4gIkFuc3dlciIsICJ0ZXh0IiA9PiAie3tGQVExQX19Il1dLAogICAgICAgIFsiQHR5cGUiID0+ICJRdWVzdGlvbiIsICJuYW1lIiA9PiAie3tGQVEyUX19IiwKICAgICAgICAgImFjY2VwdGVkQW5zd2VyIiA9PiBbIkB0eXBlIiA9PiAiQW5zd2VyIiwgInRleHQiID0+ICJ7e0ZBUTJBfX0iXV0sCiAgICAgICAgWyJAdHlwZSIgPT4gIlF1ZXN0aW9uIiwgIm5hbWUiID0+ICJ7e0ZBUTNRfX0iLAogICAgICAgICAiYWNjZXB0ZWRBbnN3ZXIiID0+IFsiQHR5cGUiID0+ICJBbnN3ZXIiLCAidGV4dCIgPT4gInt7RkFRM0F9fSJdXSwKICAgIF0sCl0pIC4gJzwvc2NyaXB0Pic7CnJlcXVpcmUgX19ESVJfXyAuICcvLi4vLi4vaW5jbHVkZXMvaGVhZGVyLnBocCc7Cj8+CjxzZWN0aW9uIGNsYXNzPSJzZWN0aW9uIj4KICA8ZGl2IGNsYXNzPSJ3cmFwIiBzdHlsZT0ibWF4LXdpZHRoOjg2MHB4Ij4KICAgIDxkaXYgY2xhc3M9ImtpY2tlciI+U2FsYXJ5IGd1aWRlIMK3IHt7WUVBUn19PC9kaXY+CiAgICA8aDEgY2xhc3M9ImgyIj57e0gxfX08L2gxPgogICAgPGRpdiBjbGFzcz0iYW5zd2VyLWJveCI+PHN0cm9uZz5TaG9ydCBhbnN3ZXI6PC9zdHJvbmc+IHt7U0hPUlR9fTwvZGl2PgogICAgPHA+e3tJTlRST319PC9wPgogICAgPHAgY2xhc3M9ImRpc2NsYWltZXIiPnt7RkFDVH19PC9wPgogICAgPCEtLSBBRFNFTlNFOiBwYXN0ZSBpbi1hcnRpY2xlIGFkIHVuaXQgaGVyZSAoc2FsYXJ5IGd1aWRlIHBhZ2VzKSAtLT4KICAgIDxoMj5Nb250aGx5IGJyZWFrZG93bjwvaDI+CiAgICA8dGFibGUgY2xhc3M9InJlZi10YWJsZSI+CiAgICAgIDx0Ym9keT4KICAgICAgICA8dHI+PHRkPkdyb3NzIG1vbnRobHkgc2FsYXJ5PC90ZD48dGQgY2xhc3M9Im51bSBtb25vIj57e0dST1NTX019fTwvdGQ+PC90cj4KICAgICAgICA8dHI+PHRkPlBBWUUgKGluY29tZSB0YXgpPC90ZD48dGQgY2xhc3M9Im51bSBtb25vIj7iiJIge3tQQVlFX019fTwvdGQ+PC90cj4KICAgICAgICA8dHI+PHRkPlVJRiAoMSV7e1VJRl9OT1RFfX0pPC90ZD48dGQgY2xhc3M9Im51bSBtb25vIj7iiJIge3tVSUZfTX19PC90ZD48L3RyPgogICAgICAgIDx0ciBjbGFzcz0idG90YWwiPjx0ZD5UYWtlLWhvbWUgcGF5IChtb250aGx5KTwvdGQ+PHRkIGNsYXNzPSJudW0gbW9ubyI+e3tORVRfTX19PC90ZD48L3RyPgogICAgICA8L3Rib2R5PgogICAgPC90YWJsZT4KICAgIDxoMj5Bbm51YWwgYnJlYWtkb3duPC9oMj4KICAgIDx0YWJsZSBjbGFzcz0icmVmLXRhYmxlIj4KICAgICAgPHRib2R5PgogICAgICAgIDx0cj48dGQ+R3Jvc3MgYW5udWFsIHNhbGFyeTwvdGQ+PHRkIGNsYXNzPSJudW0gbW9ubyI+e3tHUk9TU19BfX08L3RkPjwvdHI+CiAgICAgICAgPHRyPjx0ZD5QQVlFIChpbmNvbWUgdGF4KTwvdGQ+PHRkIGNsYXNzPSJudW0gbW9ubyI+4oiSIHt7UEFZRV9BfX08L3RkPjwvdHI+CiAgICAgICAgPHRyPjx0ZD5VSUY8L3RkPjx0ZCBjbGFzcz0ibnVtIG1vbm8iPuKIkiB7e1VJRl9BfX08L3RkPjwvdHI+CiAgICAgICAgPHRyIGNsYXNzPSJ0b3RhbCI+PHRkPlRha2UtaG9tZSBwYXkgKGFubnVhbCk8L3RkPjx0ZCBjbGFzcz0ibnVtIG1vbm8iPnt7TkVUX0F9fTwvdGQ+PC90cj4KICAgICAgICA8dHI+PHRkPlRha2UtaG9tZSBwZXIgd2VlazwvdGQ+PHRkIGNsYXNzPSJudW0gbW9ubyI+e3tORVRfV319PC90ZD48L3RyPgogICAgICAgIDx0cj48dGQ+VGFrZS1ob21lIHBlciBkYXk8L3RkPjx0ZCBjbGFzcz0ibnVtIG1vbm8iPnt7TkVUX0R9fTwvdGQ+PC90cj4KICAgICAgPC90Ym9keT4KICAgIDwvdGFibGU+CiAgICA8ZGl2IGNsYXNzPSJncmlkMiIgc3R5bGU9Im1hcmdpbi10b3A6MjBweCI+CiAgICAgIDxkaXYgY2xhc3M9ImNhcmQiPjxoMyBzdHlsZT0ibWFyZ2luLXRvcDowIj5FZmZlY3RpdmUgcmF0ZTwvaDM+PHAgY2xhc3M9Im1vbm8iIHN0eWxlPSJmb250LXNpemU6MS42cmVtO2ZvbnQtd2VpZ2h0OjgwMDttYXJnaW46MCI+e3tFRkZ9fTwvcD48cCBjbGFzcz0iZGlzY2xhaW1lciI+U2hhcmUgb2Ygc2FsYXJ5IGxvc3QgdG8gUEFZRSArIFVJRi48L3A+PC9kaXY+CiAgICAgIDxkaXYgY2xhc3M9ImNhcmQiPjxoMyBzdHlsZT0ibWFyZ2luLXRvcDowIj5NYXJnaW5hbCBicmFja2V0PC9oMz48cCBjbGFzcz0ibW9ubyIgc3R5bGU9ImZvbnQtc2l6ZToxLjZyZW07Zm9udC13ZWlnaHQ6ODAwO21hcmdpbjowIj57e01BUkdJTkFMfX08L3A+PHAgY2xhc3M9ImRpc2NsYWltZXIiPlRheCByYXRlIG9uIHlvdXIgbmV4dCByYW5kIGVhcm5lZC48L3A+PC9kaXY+CiAgICA8L2Rpdj4KICAgIDxkaXYgY2xhc3M9ImZhcSIgc3R5bGU9Im1hcmdpbi10b3A6MzJweCI+CiAgICAgIDxoMiBjbGFzcz0iaDIiPlF1ZXN0aW9ucyBhYm91dCBhIHt7R1JPU1NfTX19IHNhbGFyeTwvaDI+CiAgICAgIDxkZXRhaWxzPjxzdW1tYXJ5Pnt7RkFRMVF9fTwvc3VtbWFyeT48cD57e0ZBUTFBfX08L3A+PC9kZXRhaWxzPgogICAgICA8ZGV0YWlscz48c3VtbWFyeT57e0ZBUTJRfX08L3N1bW1hcnk+PHA+e3tGQVEyQX19PC9wPjwvZGV0YWlscz4KICAgICAgPGRldGFpbHM+PHN1bW1hcnk+e3tGQVEzUX19PC9zdW1tYXJ5PjxwPnt7RkFRM0F9fTwvcD48L2RldGFpbHM+CiAgICA8L2Rpdj4KICAgIDxwIGNsYXNzPSJkaXNjbGFpbWVyIiBzdHlsZT0ibWFyZ2luLXRvcDoyNHB4Ij5Bc3N1bWVzIHVuZGVyIDY1LCBubyBwZW5zaW9uIGRlZHVjdGlvbiBhbmQgbm8gbWVkaWNhbCBhaWQuIEFkZCB5b3VyIG93biBkZXRhaWxzIGluIHRoZSA8YSBocmVmPSIvY2FsY3VsYXRvci8iPmZ1bGwgY2FsY3VsYXRvcjwvYT4uIEZpZ3VyZXMgdXNlIFNBUlMge3tZRUFSfX0gdGFibGVzIOKAlCBlc3RpbWF0ZSBvbmx5LCBub3QgdGF4IGFkdmljZS48L3A+CiAgICA8ZGl2IGNsYXNzPSJwYWdlciI+CiAgICAgIDxkaXY+e3tQUkVWX0xJTkt9fTwvZGl2PgogICAgICA8ZGl2Pnt7TkVYVF9MSU5LfX08L2Rpdj4KICAgIDwvZGl2PgogICAgPHAgc3R5bGU9Im1hcmdpbi10b3A6MTZweCI+PGEgaHJlZj0iL3NhbGFyeS8iPkFsbCBzYWxhcnkgZ3VpZGVzIOKGkjwvYT4gwrcgPGEgaHJlZj0iL3RheC1icmFja2V0cy8iPlNBUlMge3tZRUFSfX0gdGF4IHRhYmxlcyDihpI8L2E+PC9wPgogIDwvZGl2Pgo8L3NlY3Rpb24+Cjw/cGhwIHJlcXVpcmUgX19ESVJfXyAuICcvLi4vLi4vaW5jbHVkZXMvZm9vdGVyLnBocCc7ID8+ClRQTDsKCiRjb3VudCA9IDA7CiRsZXZlbHMgPSAkR0xPQkFMU1snU0FMQVJZX0xFVkVMUyddOwpmb3JlYWNoICgkbGV2ZWxzIGFzICRpID0+ICRsdmwpIHsKICAgICRiID0gc2FwY19icmVha2Rvd24oJGx2bCk7CiAgICAkc2x1ZyA9IHNhcGNfc2FsYXJ5X3NsdWcoJGx2bCk7CiAgICAkZ3Jvc3NGbXQgPSAnUicgLiBudW1iZXJfZm9ybWF0KCRsdmwsIDAsICcuJywgJyAnKTsKICAgICR0aWVyID0gdGllcl9vZigkbHZsKTsKICAgICRpbnRyb1RwbCA9ICRpbnRyb3NbJHRpZXJdWyRpICUgMl07CiAgICAkdG9rZW5zID0gWwogICAgICAgICd7e1RJVExFfX0nID0+ICIkZ3Jvc3NGbXQgU2FsYXJ5IEFmdGVyIFRheCBpbiBTb3V0aCBBZnJpY2EgKCRUQVhfWUVBUl9MQUJFTCkgfCBTQSBQYXljaGVjayIsCiAgICAgICAgJ3t7REVTQ319JyAgPT4gIldoYXQgaXMgdGFrZS1ob21lIHBheSBvbiBhICRncm9zc0ZtdCBzYWxhcnkgaW4gU291dGggQWZyaWNhPyAiIC4gc2FwY19yMCgkYlsnbmV0X21vbnRobHknXSkgLiAiIHBlciBtb250aCBhZnRlciBQQVlFIGFuZCBVSUYg4oCUIGZ1bGwgJFRBWF9ZRUFSX0xBQkVMIGJyZWFrZG93bi4iLAogICAgICAgICd7e0tFWVdPUkRTfX0nID0+IHN0cnRvbG93ZXIoIiRncm9zc0ZtdCBzYWxhcnkgYWZ0ZXIgdGF4LCB0YWtlIGhvbWUgcGF5ICRncm9zc0ZtdCBzb3V0aCBhZnJpY2EiKSwKICAgICAgICAne3tDQU5PTklDQUx9fScgPT4gIi9zYWxhcnkvJHNsdWcvIiwKICAgICAgICAne3tZRUFSfX0nID0+ICRUQVhfWUVBUl9MQUJFTCwKICAgICAgICAne3tIMX19JyA9PiAiJGdyb3NzRm10IHNhbGFyeSBhZnRlciB0YXgg4oCUIFNvdXRoIEFmcmljYSAkVEFYX1lFQVJfTEFCRUwiLAogICAgICAgICd7e1NIT1JUfX0nID0+ICJPbiAkZ3Jvc3NGbXQgYSBtb250aCB5b3UgdGFrZSBob21lICIgLiBzYXBjX3IwKCRiWyduZXRfbW9udGhseSddKSAuICIgYWZ0ZXIgIiAuIHNhcGNfcjAoJGJbJ3BheWVfbW9udGhseSddKSAuICIgUEFZRSBhbmQgIiAuIHNhcGNfcigkYlsndWlmX21vbnRobHknXSkgLiAiIFVJRi4iLAogICAgICAgICd7e0lOVFJPfX0nID0+IHN0cl9yZXBsYWNlKAogICAgICAgICAgICBbJ3tncm9zc30nLCd7bmV0X219Jywne25ldF9hfScsJ3twYXllX219Jywne3VpZl9tfScsJ3tlZmZ9Jywne21hcmdpbmFsfScsJ3t5ZWFyfScsJ3trZWVwfSddLAogICAgICAgICAgICBbJGdyb3NzRm10LCBzYXBjX3IwKCRiWyduZXRfbW9udGhseSddKSwgc2FwY19yMCgkYlsnbmV0X2FubnVhbCddKSwgc2FwY19yMCgkYlsncGF5ZV9tb250aGx5J10pLAogICAgICAgICAgICAgc2FwY19yKCRiWyd1aWZfbW9udGhseSddKSwgbnVtYmVyX2Zvcm1hdCgkYlsnZWZmZWN0aXZlX3JhdGUnXSoxMDAsMSkuJyUnLAogICAgICAgICAgICAgJGJbJ21hcmdpbmFsJ10sICRUQVhfWUVBUl9MQUJFTCwgbnVtYmVyX2Zvcm1hdCgoMS0kYlsnZWZmZWN0aXZlX3JhdGUnXSkqMTAwLDEpLiclJ10sCiAgICAgICAgICAgICRpbnRyb1RwbCksCiAgICAgICAgJ3t7RkFDVH19JyA9PiAkZmFjdHNbJGkgJSBjb3VudCgkZmFjdHMpXSwKICAgICAgICAne3tHUk9TU19NfX0nID0+IHNhcGNfcjAoJGJbJ2dyb3NzX21vbnRobHknXSksCiAgICAgICAgJ3t7UEFZRV9NfX0nID0+IHNhcGNfcigkYlsncGF5ZV9tb250aGx5J10pLAogICAgICAgICd7e1VJRl9NfX0nID0+IHNhcGNfcigkYlsndWlmX21vbnRobHknXSksCiAgICAgICAgJ3t7VUlGX05PVEV9fScgPT4gJGJbJ3VpZl9tb250aGx5J10gPj0gJFVJRl9DQVBfTU9OVEggLSAwLjAwNSA/ICcsIGNhcHBlZCcgOiAnJywKICAgICAgICAne3tORVRfTX19JyA9PiBzYXBjX3IoJGJbJ25ldF9tb250aGx5J10pLAogICAgICAgICd7e0dST1NTX0F9fScgPT4gc2FwY19yMCgkYlsnZ3Jvc3NfYW5udWFsJ10pLAogICAgICAgICd7e1BBWUVfQX19JyA9PiBzYXBjX3IoJGJbJ3BheWVfYW5udWFsJ10pLAogICAgICAgICd7e1VJRl9BfX0nID0+IHNhcGNfcigkYlsndWlmX2FubnVhbCddKSwKICAgICAgICAne3tORVRfQX19JyA9PiBzYXBjX3IoJGJbJ25ldF9hbm51YWwnXSksCiAgICAgICAgJ3t7TkVUX1d9fScgPT4gc2FwY19yKCRiWyduZXRfd2Vla2x5J10pLAogICAgICAgICd7e05FVF9EfX0nID0+IHNhcGNfcigkYlsnbmV0X2RhaWx5J10pLAogICAgICAgICd7e0VGRn19JyA9PiBudW1iZXJfZm9ybWF0KCRiWydlZmZlY3RpdmVfcmF0ZSddKjEwMCwxKS4nJScsCiAgICAgICAgJ3t7TUFSR0lOQUx9fScgPT4gJGJbJ21hcmdpbmFsJ10sCiAgICAgICAgJ3t7RkFRMVF9fScgPT4gIkhvdyBtdWNoIGlzIHRha2UtaG9tZSBwYXkgb24gJGdyb3NzRm10IGluIFNvdXRoIEFmcmljYT8iLAogICAgICAgICd7e0ZBUTFBfX0nID0+ICJGb3IgJFRBWF9ZRUFSX0xBQkVMOiAiIC4gc2FwY19yMCgkYlsnbmV0X21vbnRobHknXSkgLiAiIHBlciBtb250aCAoIiAuIHNhcGNfcjAoJGJbJ25ldF9hbm51YWwnXSkgLiAiIHBlciB5ZWFyKSBhZnRlciBQQVlFIGFuZCBVSUYuIiwKICAgICAgICAne3tGQVEyUX19JyA9PiAiSG93IG11Y2ggdGF4IGRvIEkgcGF5IG9uIGEgJGdyb3NzRm10IHNhbGFyeT8iLAogICAgICAgICd7e0ZBUTJBfX0nID0+ICJQQVlFIG9mICIgLiBzYXBjX3IoJGJbJ3BheWVfbW9udGhseSddKSAuICIgcGVyIG1vbnRoICgiIC4gc2FwY19yKCRiWydwYXllX2FubnVhbCddKSAuICIveWVhcikgcGx1cyBVSUYgb2YgIiAuIHNhcGNfcigkYlsndWlmX21vbnRobHknXSkgLiAiIHBlciBtb250aCDigJQgYW4gZWZmZWN0aXZlIHJhdGUgb2YgIiAuIG51bWJlcl9mb3JtYXQoJGJbJ2VmZmVjdGl2ZV9yYXRlJ10qMTAwLDEpIC4gIiUuIiwKICAgICAgICAne3tGQVEzUX19JyA9PiAiV2hhdCB0YXggYnJhY2tldCBpcyAkZ3Jvc3NGbXQgYSBtb250aD8iLAogICAgICAgICd7e0ZBUTNBfX0nID0+ICJZb3VyIG1hcmdpbmFsIGJyYWNrZXQgaXMgIiAuICRiWydtYXJnaW5hbCddIC4gIiBmb3IgJFRBWF9ZRUFSX0xBQkVMLCBidXQgeW91ciBlZmZlY3RpdmUgZGVkdWN0aW9uIHJhdGUgaXMgb25seSAiIC4gbnVtYmVyX2Zvcm1hdCgkYlsnZWZmZWN0aXZlX3JhdGUnXSoxMDAsMSkgLiAiJSB0aGFua3MgdG8gdGhlIHByb2dyZXNzaXZlIGJyYWNrZXRzIGFuZCB0aGUgUjE3LDgyMCBwcmltYXJ5IHJlYmF0ZS4iLAogICAgICAgICd7e1BSRVZfTElOS319JyA9PiAkaSA+IDAKICAgICAgICAgICAgPyAnPGEgaHJlZj0iL3NhbGFyeS8nIC4gc2FwY19zYWxhcnlfc2x1ZygkbGV2ZWxzWyRpLTFdKSAuICcvIj7ihpAgUicgLiBudW1iZXJfZm9ybWF0KCRsZXZlbHNbJGktMV0sMCwnLicsJyAnKSAuICcgc2FsYXJ5PC9hPicgOiAnJywKICAgICAgICAne3tORVhUX0xJTkt9fScgPT4gJGkgPCBjb3VudCgkbGV2ZWxzKS0xCiAgICAgICAgICAgID8gJzxhIGhyZWY9Ii9zYWxhcnkvJyAuIHNhcGNfc2FsYXJ5X3NsdWcoJGxldmVsc1skaSsxXSkgLiAnLyI+UicgLiBudW1iZXJfZm9ybWF0KCRsZXZlbHNbJGkrMV0sMCwnLicsJyAnKSAuICcgc2FsYXJ5IOKGkjwvYT4nIDogJycsCiAgICBdOwogICAgJG91dCA9IHN0cl9yZXBsYWNlKGFycmF5X2tleXMoJHRva2VucyksIGFycmF5X3ZhbHVlcygkdG9rZW5zKSwgJHRwbCk7CiAgICBpZiAoc3RycG9zKCRvdXQsICd7eycpICE9PSBmYWxzZSkgeyBmd3JpdGUoU1RERVJSLCAiVU5SRVBMQUNFRCBUT0tFTiBpbiAkc2x1Z1xuIik7IGV4aXQoMSk7IH0KICAgICRkaXIgPSAiJGJhc2Uvc2FsYXJ5LyRzbHVnIjsKICAgIGlmICghaXNfZGlyKCRkaXIpKSBta2RpcigkZGlyLCAwNzU1LCB0cnVlKTsKICAgIGZpbGVfcHV0X2NvbnRlbnRzKCIkZGlyL2luZGV4LnBocCIsICRvdXQpOwogICAgJGNvdW50Kys7Cn0KZWNobyAiR2VuZXJhdGVkICRjb3VudCBzYWxhcnkgcGFnZXMuXG4iOwoKLy8gLS0tLSBzaXRlbWFwLnhtbCAtLS0tCiR1cmxzID0gWwogICAgWycvJywgJ3dlZWtseScsICcxLjAnXSwKICAgIFsnL2NhbGN1bGF0b3IvJywgJ3dlZWtseScsICcwLjknXSwKICAgIFsnL3NhbGFyeS8nLCAnd2Vla2x5JywgJzAuOCddLAogICAgWycvdGF4LWJyYWNrZXRzLycsICd5ZWFybHknLCAnMC43J10sCiAgICBbJy91aWYtY2FsY3VsYXRvci8nLCAnbW9udGhseScsICcwLjcnXSwKICAgIFsnL2ZhcS8nLCAnbW9udGhseScsICcwLjYnXSwKICAgIFsnL2Fib3V0LycsICd5ZWFybHknLCAnMC40J10sCiAgICBbJy9jb250YWN0LycsICd5ZWFybHknLCAnMC40J10sCiAgICBbJy9wcml2YWN5LycsICd5ZWFybHknLCAnMC4zJ10sCl07CmZvcmVhY2ggKCRsZXZlbHMgYXMgJGx2bCkgJHVybHNbXSA9IFsiL3NhbGFyeS8iIC4gc2FwY19zYWxhcnlfc2x1ZygkbHZsKSAuICIvIiwgJ21vbnRobHknLCAnMC44J107CiR4bWwgPSAnPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4nIC4gIlxuIiAuICc8dXJsc2V0IHhtbG5zPSJodHRwOi8vd3d3LnNpdGVtYXBzLm9yZy9zY2hlbWFzL3NpdGVtYXAvMC45Ij4nIC4gIlxuIjsKZm9yZWFjaCAoJHVybHMgYXMgWyRwYXRoLCAkZnJlcSwgJHByaW9dKSB7CiAgICAkeG1sIC49ICIgIDx1cmw+PGxvYz5odHRwczovL3NhcGF5Y2hlY2suY28uemEkcGF0aDwvbG9jPjxsYXN0bW9kPiRkYXRlPC9sYXN0bW9kPjxjaGFuZ2VmcmVxPiRmcmVxPC9jaGFuZ2VmcmVxPjxwcmlvcml0eT4kcHJpbzwvcHJpb3JpdHk+PC91cmw+XG4iOwp9CiR4bWwgLj0gIjwvdXJsc2V0PlxuIjsKZmlsZV9wdXRfY29udGVudHMoIiRiYXNlL3NpdGVtYXAueG1sIiwgJHhtbCk7CmVjaG8gIldyb3RlIHNpdGVtYXAueG1sIHdpdGggIiAuIGNvdW50KCR1cmxzKSAuICIgVVJMcy5cbiI7Cg==
+<?php
+// CLI generator: builds /salary/{slug}/index.php pages + sitemap.xml from config.php.
+// Numbers are COMPUTED via sapc_breakdown() — never hand-typed.
+// Usage: php tools/generate-salary-pages.php
+require __DIR__ . '/../includes/config.php';
+
+$base = dirname(__DIR__);
+$date = '2026-10-10';
+
+$intros = [
+    'entry' => [
+        "A {gross} monthly salary puts you in South Africa's {marginal} marginal tax bracket for the {year} tax year. After PAYE of {paye_m} a month and UIF of {uif_m}, your take-home pay is {net_m} — {net_a} a year. Your effective deduction rate is {eff}, meaning you keep about {keep} of every rand you earn.",
+        "Earning {gross} a month in South Africa? Here's the {year} breakdown: PAYE takes {paye_m} monthly, UIF takes {uif_m}, and you keep {net_m} — an effective rate of {eff}. Your marginal bracket is {marginal}, so each extra rand you earn is taxed at {marginal}."
+    ],
+    'mid' => [
+        "On {gross} a month, the {year} SARS tables put your marginal tax rate at {marginal}. PAYE comes to {paye_m} monthly and UIF is capped at {uif_m}, leaving take-home pay of {net_m} ({net_a} a year) — an effective deduction rate of {eff}.",
+        "A {gross} monthly salary in South Africa means {paye_m} in PAYE and {uif_m} in UIF every month for {year}, for take-home pay of {net_m}. That's {net_a} annually at an effective rate of {eff}; your top slice of income is taxed at {marginal}."
+    ],
+    'senior' => [
+        "At {gross} a month you're well into the {marginal} bracket for {year}. Monthly PAYE of {paye_m} plus capped UIF of {uif_m} leaves {net_m} take-home — {net_a} a year, an effective deduction rate of {eff}.",
+        "{gross} a month in South Africa for {year}: SARS takes {paye_m} in PAYE, UIF takes its maximum of {uif_m}, and your take-home pay is {net_m} monthly ({net_a} yearly). Effective rate: {eff}; marginal bracket: {marginal}."
+    ],
+    'exec' => [
+        "A {gross} monthly salary lands you in South Africa's {marginal} top bracket for {year}. After {paye_m} in monthly PAYE and the capped {uif_m} UIF, take-home pay is {net_m} — {net_a} a year — at an effective deduction rate of {eff}.",
+        "Earning {gross} a month? For {year}, PAYE of {paye_m} and UIF of {uif_m} come off first, leaving {net_m} take-home pay ({net_a} annually). Your effective rate is {eff}, but every additional rand is taxed at {marginal}."
+    ],
+];
+
+$facts = [
+    "The R17,820 primary rebate wipes out the tax on your first R99,000 of annual income — everyone under 65 gets it.",
+    "UIF stops growing once your salary passes R17,712 a month; above that it's always R177.12.",
+    "South Africa's tax year runs 1 March to the end of February — these figures cover 2026/2027.",
+    "Pension or RA contributions up to 27.5% of your salary reduce your taxable income — model it in the full calculator.",
+    "On medical aid? You get R376 a month off your tax bill, plus R376 for your first dependant.",
+];
+
+function tier_of(int $lvl): string {
+    if ($lvl <= 15000) return 'entry';
+    if ($lvl <= 40000) return 'mid';
+    if ($lvl <= 75000) return 'senior';
+    return 'exec';
+}
+
+$tpl = <<<'TPL'
+<?php
+$pageTitle = "{{TITLE}}";
+$pageDesc = "{{DESC}}";
+$pageKeywords = "{{KEYWORDS}}";
+$canonical = "{{CANONICAL}}";
+$extraHead = '<script type="application/ld+json">' . json_encode([
+    "@context" => "https://schema.org", "@type" => "FAQPage",
+    "mainEntity" => [
+        ["@type" => "Question", "name" => "{{FAQ1Q}}",
+         "acceptedAnswer" => ["@type" => "Answer", "text" => "{{FAQ1A}}"]],
+        ["@type" => "Question", "name" => "{{FAQ2Q}}",
+         "acceptedAnswer" => ["@type" => "Answer", "text" => "{{FAQ2A}}"]],
+        ["@type" => "Question", "name" => "{{FAQ3Q}}",
+         "acceptedAnswer" => ["@type" => "Answer", "text" => "{{FAQ3A}}"]],
+    ],
+]) . '</script>';
+require __DIR__ . '/../../includes/header.php';
+?>
+<section class="section">
+  <div class="wrap" style="max-width:860px">
+    <div class="kicker">Salary guide · {{YEAR}}</div>
+    <h1 class="h2">{{H1}}</h1>
+    <div class="answer-box"><strong>Short answer:</strong> {{SHORT}}</div>
+    <p>{{INTRO}}</p>
+    <p class="disclaimer">{{FACT}}</p>
+    <!-- ADSENSE: paste in-article ad unit here (salary guide pages) -->
+    <h2>Monthly breakdown</h2>
+    <table class="ref-table">
+      <tbody>
+        <tr><td>Gross monthly salary</td><td class="num mono">{{GROSS_M}}</td></tr>
+        <tr><td>PAYE (income tax)</td><td class="num mono">− {{PAYE_M}}</td></tr>
+        <tr><td>UIF (1%{{UIF_NOTE}})</td><td class="num mono">− {{UIF_M}}</td></tr>
+        <tr class="total"><td>Take-home pay (monthly)</td><td class="num mono">{{NET_M}}</td></tr>
+      </tbody>
+    </table>
+    <h2>Annual breakdown</h2>
+    <table class="ref-table">
+      <tbody>
+        <tr><td>Gross annual salary</td><td class="num mono">{{GROSS_A}}</td></tr>
+        <tr><td>PAYE (income tax)</td><td class="num mono">− {{PAYE_A}}</td></tr>
+        <tr><td>UIF</td><td class="num mono">− {{UIF_A}}</td></tr>
+        <tr class="total"><td>Take-home pay (annual)</td><td class="num mono">{{NET_A}}</td></tr>
+        <tr><td>Take-home per week</td><td class="num mono">{{NET_W}}</td></tr>
+        <tr><td>Take-home per day</td><td class="num mono">{{NET_D}}</td></tr>
+      </tbody>
+    </table>
+    <div class="grid2" style="margin-top:20px">
+      <div class="card"><h3 style="margin-top:0">Effective rate</h3><p class="mono" style="font-size:1.6rem;font-weight:800;margin:0">{{EFF}}</p><p class="disclaimer">Share of salary lost to PAYE + UIF.</p></div>
+      <div class="card"><h3 style="margin-top:0">Marginal bracket</h3><p class="mono" style="font-size:1.6rem;font-weight:800;margin:0">{{MARGINAL}}</p><p class="disclaimer">Tax rate on your next rand earned.</p></div>
+    </div>
+    <div class="faq" style="margin-top:32px">
+      <h2 class="h2">Questions about a {{GROSS_M}} salary</h2>
+      <details><summary>{{FAQ1Q}}</summary><p>{{FAQ1A}}</p></details>
+      <details><summary>{{FAQ2Q}}</summary><p>{{FAQ2A}}</p></details>
+      <details><summary>{{FAQ3Q}}</summary><p>{{FAQ3A}}</p></details>
+    </div>
+    <p class="disclaimer" style="margin-top:24px">Assumes under 65, no pension deduction and no medical aid. Add your own details in the <a href="/calculator/">full calculator</a>. Figures use SARS {{YEAR}} tables — estimate only, not tax advice.</p>
+    <div class="pager">
+      <div>{{PREV_LINK}}</div>
+      <div>{{NEXT_LINK}}</div>
+    </div>
+    <p style="margin-top:16px"><a href="/salary/">All salary guides →</a> · <a href="/tax-brackets/">SARS {{YEAR}} tax tables →</a></p>
+  </div>
+</section>
+<?php require __DIR__ . '/../../includes/footer.php'; ?>
+TPL;
+
+$count = 0;
+$levels = $GLOBALS['SALARY_LEVELS'];
+foreach ($levels as $i => $lvl) {
+    $b = sapc_breakdown($lvl);
+    $slug = sapc_salary_slug($lvl);
+    $grossFmt = 'R' . number_format($lvl, 0, '.', ' ');
+    $tier = tier_of($lvl);
+    $introTpl = $intros[$tier][$i % 2];
+    $tokens = [
+        '{{TITLE}}' => "$grossFmt Salary After Tax in South Africa ($TAX_YEAR_LABEL) | SA Paycheck",
+        '{{DESC}}'  => "What is take-home pay on a $grossFmt salary in South Africa? " . sapc_r0($b['net_monthly']) . " per month after PAYE and UIF — full $TAX_YEAR_LABEL breakdown.",
+        '{{KEYWORDS}}' => strtolower("$grossFmt salary after tax, take home pay $grossFmt south africa"),
+        '{{CANONICAL}}' => "/salary/$slug/",
+        '{{YEAR}}' => $TAX_YEAR_LABEL,
+        '{{H1}}' => "$grossFmt salary after tax — South Africa $TAX_YEAR_LABEL",
+        '{{SHORT}}' => "On $grossFmt a month you take home " . sapc_r0($b['net_monthly']) . " after " . sapc_r0($b['paye_monthly']) . " PAYE and " . sapc_r($b['uif_monthly']) . " UIF.",
+        '{{INTRO}}' => str_replace(
+            ['{gross}','{net_m}','{net_a}','{paye_m}','{uif_m}','{eff}','{marginal}','{year}','{keep}'],
+            [$grossFmt, sapc_r0($b['net_monthly']), sapc_r0($b['net_annual']), sapc_r0($b['paye_monthly']),
+             sapc_r($b['uif_monthly']), number_format($b['effective_rate']*100,1).'%',
+             $b['marginal'], $TAX_YEAR_LABEL, number_format((1-$b['effective_rate'])*100,1).'%'],
+            $introTpl),
+        '{{FACT}}' => $facts[$i % count($facts)],
+        '{{GROSS_M}}' => sapc_r0($b['gross_monthly']),
+        '{{PAYE_M}}' => sapc_r($b['paye_monthly']),
+        '{{UIF_M}}' => sapc_r($b['uif_monthly']),
+        '{{UIF_NOTE}}' => $b['uif_monthly'] >= $UIF_CAP_MONTH - 0.005 ? ', capped' : '',
+        '{{NET_M}}' => sapc_r($b['net_monthly']),
+        '{{GROSS_A}}' => sapc_r0($b['gross_annual']),
+        '{{PAYE_A}}' => sapc_r($b['paye_annual']),
+        '{{UIF_A}}' => sapc_r($b['uif_annual']),
+        '{{NET_A}}' => sapc_r($b['net_annual']),
+        '{{NET_W}}' => sapc_r($b['net_weekly']),
+        '{{NET_D}}' => sapc_r($b['net_daily']),
+        '{{EFF}}' => number_format($b['effective_rate']*100,1).'%',
+        '{{MARGINAL}}' => $b['marginal'],
+        '{{FAQ1Q}}' => "How much is take-home pay on $grossFmt in South Africa?",
+        '{{FAQ1A}}' => "For $TAX_YEAR_LABEL: " . sapc_r0($b['net_monthly']) . " per month (" . sapc_r0($b['net_annual']) . " per year) after PAYE and UIF.",
+        '{{FAQ2Q}}' => "How much tax do I pay on a $grossFmt salary?",
+        '{{FAQ2A}}' => "PAYE of " . sapc_r($b['paye_monthly']) . " per month (" . sapc_r($b['paye_annual']) . "/year) plus UIF of " . sapc_r($b['uif_monthly']) . " per month — an effective rate of " . number_format($b['effective_rate']*100,1) . "%.",
+        '{{FAQ3Q}}' => "What tax bracket is $grossFmt a month?",
+        '{{FAQ3A}}' => "Your marginal bracket is " . $b['marginal'] . " for $TAX_YEAR_LABEL, but your effective deduction rate is only " . number_format($b['effective_rate']*100,1) . "% thanks to the progressive brackets and the R17,820 primary rebate.",
+        '{{PREV_LINK}}' => $i > 0
+            ? '<a href="/salary/' . sapc_salary_slug($levels[$i-1]) . '/">← R' . number_format($levels[$i-1],0,'.',' ') . ' salary</a>' : '',
+        '{{NEXT_LINK}}' => $i < count($levels)-1
+            ? '<a href="/salary/' . sapc_salary_slug($levels[$i+1]) . '/">R' . number_format($levels[$i+1],0,'.',' ') . ' salary →</a>' : '',
+    ];
+    $out = str_replace(array_keys($tokens), array_values($tokens), $tpl);
+    if (strpos($out, '{{') !== false) { fwrite(STDERR, "UNREPLACED TOKEN in $slug\n"); exit(1); }
+    $dir = "$base/salary/$slug";
+    if (!is_dir($dir)) mkdir($dir, 0755, true);
+    file_put_contents("$dir/index.php", $out);
+    $count++;
+}
+echo "Generated $count salary pages.\n";
+
+// ---- sitemap.xml ----
+$urls = [
+    ['/', 'weekly', '1.0'],
+    ['/calculator/', 'weekly', '0.9'],
+    ['/salary/', 'weekly', '0.8'],
+    ['/tax-brackets/', 'yearly', '0.7'],
+    ['/uif-calculator/', 'monthly', '0.7'],
+    ['/faq/', 'monthly', '0.6'],
+    ['/about/', 'yearly', '0.4'],
+    ['/contact/', 'yearly', '0.4'],
+    ['/privacy/', 'yearly', '0.3'],
+];
+foreach ($levels as $lvl) $urls[] = ["/salary/" . sapc_salary_slug($lvl) . "/", 'monthly', '0.8'];
+$xml = '<?xml version="1.0" encoding="UTF-8"?>' . "\n" . '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' . "\n";
+foreach ($urls as [$path, $freq, $prio]) {
+    $xml .= "  <url><loc>https://sapaycheck.co.za$path</loc><lastmod>$date</lastmod><changefreq>$freq</changefreq><priority>$prio</priority></url>\n";
+}
+$xml .= "</urlset>\n";
+file_put_contents("$base/sitemap.xml", $xml);
+echo "Wrote sitemap.xml with " . count($urls) . " URLs.\n";
