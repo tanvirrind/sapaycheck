@@ -1,1 +1,160 @@
-LyogU0EgUGF5Y2hlY2sg4oCUIHZhbmlsbGEgSlMuIENhbGN1bGF0b3IgbWF0aCBtaXJyb3JzIGluY2x1ZGVzL2NvbmZpZy5waHAgZXhhY3RseS4gKi8KKGZ1bmN0aW9uICgpIHsKICAidXNlIHN0cmljdCI7CgogIC8vIE1vYmlsZSBuYXYKICB2YXIgdG9nZ2xlID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoIm5hdlRvZ2dsZSIpLCBtZW51ID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoIm5hdk1lbnUiKTsKICBpZiAodG9nZ2xlICYmIG1lbnUpIHsKICAgIHRvZ2dsZS5hZGRFdmVudExpc3RlbmVyKCJjbGljayIsIGZ1bmN0aW9uICgpIHsKICAgICAgdmFyIG9wZW4gPSBtZW51LmNsYXNzTGlzdC50b2dnbGUoIm9wZW4iKTsKICAgICAgdG9nZ2xlLnNldEF0dHJpYnV0ZSgiYXJpYS1leHBhbmRlZCIsIG9wZW4gPyAidHJ1ZSIgOiAiZmFsc2UiKTsKICAgIH0pOwogIH0KCiAgZnVuY3Rpb24gZm10UihuKSB7CiAgICB2YXIgbmVnID0gbiA8IDA7IG4gPSBNYXRoLmFicyhNYXRoLnJvdW5kKG4pKTsKICAgIHZhciBzID0gbi50b1N0cmluZygpLnJlcGxhY2UoL1xCKD89KFxkezN9KSsoPyFcZCkpL2csICIgIik7CiAgICByZXR1cm4gKG5lZyA/ICItUiIgOiAiUiIpICsgczsKICB9CiAgZnVuY3Rpb24gZm10UjIobikgewogICAgdmFyIG5lZyA9IG4gPCAwOyBuID0gTWF0aC5hYnMobik7CiAgICB2YXIgcyA9IG4udG9GaXhlZCgyKS5yZXBsYWNlKC9cQig/PShcZHszfSkrKD8hXGQpKS9nLCAiICIpOwogICAgcmV0dXJuIChuZWcgPyAiLVIiIDogIlIiKSArIHM7CiAgfQoKICAvLyAtLS0tIG1haW4gUEFZRSBjYWxjdWxhdG9yIC0tLS0KICB2YXIgZm9ybSA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJwYXllQ2FsYyIpOwogIGlmIChmb3JtICYmIHR5cGVvZiBTQVBDX1RBWCAhPT0gInVuZGVmaW5lZCIpIHsKICAgIHZhciBUID0gU0FQQ19UQVg7CiAgICB2YXIgZ3Jvc3NFbCA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJncm9zcyIpLAogICAgICAgIHBlcmlvZEJ0bnMgPSBmb3JtLnF1ZXJ5U2VsZWN0b3JBbGwoIltkYXRhLXBlcmlvZF0iKSwKICAgICAgICBhZ2VFbCA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJhZ2UiKSwKICAgICAgICBwZW5zaW9uRWwgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgicGVuc2lvbiIpLAogICAgICAgIG1lZEVsID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoIm1lZGljYWwiKSwKICAgICAgICBwZXJpb2QgPSAibW9udGhseSI7CgogICAgcGVyaW9kQnRucy5mb3JFYWNoKGZ1bmN0aW9uIChiKSB7CiAgICAgIGIuYWRkRXZlbnRMaXN0ZW5lcigiY2xpY2siLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgcGVyaW9kQnRucy5mb3JFYWNoKGZ1bmN0aW9uICh4KSB7IHguY2xhc3NMaXN0LnJlbW92ZSgiYWN0aXZlIik7IH0pOwogICAgICAgIGIuY2xhc3NMaXN0LmFkZCgiYWN0aXZlIik7CiAgICAgICAgcGVyaW9kID0gYi5nZXRBdHRyaWJ1dGUoImRhdGEtcGVyaW9kIik7CiAgICAgICAgZ3Jvc3NFbC5zZXRBdHRyaWJ1dGUoImFyaWEtbGFiZWwiLCBwZXJpb2QgPT09ICJtb250aGx5IiA/ICJHcm9zcyBtb250aGx5IHNhbGFyeSBpbiBSYW5kIiA6ICJHcm9zcyBhbm51YWwgc2FsYXJ5IGluIFJhbmQiKTsKICAgICAgICBjYWxjKCk7CiAgICAgIH0pOwogICAgfSk7CgogICAgZnVuY3Rpb24gcGF5ZU9uVGF4YWJsZShhbm51YWwpIHsKICAgICAgdmFyIHRheCA9IDAsIHByZXYgPSAwOwogICAgICBmb3IgKHZhciBpID0gMDsgaSA8IFQuYnJhY2tldHMubGVuZ3RoOyBpKyspIHsKICAgICAgICB2YXIgbGltaXQgPSBULmJyYWNrZXRzW2ldWzBdLCByYXRlID0gVC5icmFja2V0c1tpXVsxXTsKICAgICAgICBpZiAoYW5udWFsIDw9IHByZXYpIGJyZWFrOwogICAgICAgIHRheCArPSAoTWF0aC5taW4oYW5udWFsLCBsaW1pdCkgLSBwcmV2KSAqIHJhdGU7CiAgICAgICAgcHJldiA9IGxpbWl0OwogICAgICB9CiAgICAgIHJldHVybiB0YXg7CiAgICB9CgogICAgZnVuY3Rpb24gY2FsYygpIHsKICAgICAgdmFyIGdyb3NzID0gcGFyc2VGbG9hdChncm9zc0VsLnZhbHVlKSB8fCAwOwogICAgICBpZiAoZ3Jvc3MgPCAwKSBncm9zcyA9IDA7CiAgICAgIHZhciBncm9zc0FubnVhbCA9IHBlcmlvZCA9PT0gIm1vbnRobHkiID8gZ3Jvc3MgKiAxMiA6IGdyb3NzOwogICAgICB2YXIgZ3Jvc3NNb250aGx5ID0gcGVyaW9kID09PSAibW9udGhseSIgPyBncm9zcyA6IGdyb3NzIC8gMTI7CgogICAgICB2YXIgYWdlID0gYWdlRWwudmFsdWU7CiAgICAgIHZhciByZWJhdGUgPSBhZ2UgPT09ICI2NS03NCIgPyBULnJlYmF0ZV9zZWNvbmRhcnkgOiBhZ2UgPT09ICI3NSsiID8gVC5yZWJhdGVfdGVydGlhcnkgOiBULnJlYmF0ZV9wcmltYXJ5OwoKICAgICAgdmFyIHBlbnNpb25QY3QgPSBNYXRoLm1pbigyNy41LCBNYXRoLm1heCgwLCBwYXJzZUZsb2F0KHBlbnNpb25FbC52YWx1ZSkgfHwgMCkpOwogICAgICB2YXIgcGVuc2lvbkRlZCA9IE1hdGgubWluKGdyb3NzQW5udWFsICogcGVuc2lvblBjdCAvIDEwMCwgZ3Jvc3NBbm51YWwgKiBULnBlbnNpb25fcGN0X2NhcCwgVC5wZW5zaW9uX3JhbmRfY2FwKTsKCiAgICAgIHZhciBtZWQgPSBNYXRoLm1heCgwLCBNYXRoLm1pbigxMiwgcGFyc2VJbnQobWVkRWwudmFsdWUsIDEwKSB8fCAwKSk7CiAgICAgIHZhciBtdGNNb250aGx5ID0gMDsKICAgICAgaWYgKG1lZCA+PSAxKSBtdGNNb250aGx5ICs9IFQubXRjX21haW47CiAgICAgIGlmIChtZWQgPj0gMikgbXRjTW9udGhseSArPSBULm10Y19maXJzdF9kZXA7CiAgICAgIGlmIChtZWQgPj0gMykgbXRjTW9udGhseSArPSAobWVkIC0gMikgKiBULm10Y19hZGRsX2RlcDsKICAgICAgdmFyIG10Y0FubnVhbCA9IG10Y01vbnRobHkgKiAxMjsKCiAgICAgIHZhciB0YXhhYmxlID0gTWF0aC5tYXgoMCwgZ3Jvc3NBbm51YWwgLSBwZW5zaW9uRGVkKTsKICAgICAgdmFyIHBheWVBbm51YWwgPSBNYXRoLm1heCgwLCBwYXllT25UYXhhYmxlKHRheGFibGUpIC0gcmViYXRlIC0gbXRjQW5udWFsKTsKICAgICAgdmFyIHVpZk1vbnRobHkgPSBNYXRoLm1pbihncm9zc01vbnRobHkgKiBULnVpZl9yYXRlLCBULnVpZl9jYXApOwogICAgICB2YXIgdWlmQW5udWFsID0gdWlmTW9udGhseSAqIDEyOwoKICAgICAgdmFyIG5ldEFubnVhbCA9IGdyb3NzQW5udWFsIC0gcGF5ZUFubnVhbCAtIHVpZkFubnVhbDsKCiAgICAgIHZhciBtYXJnaW5hbCA9ICIwJSI7CiAgICAgIHZhciBwcmV2ID0gMDsKICAgICAgZm9yICh2YXIgaSA9IDA7IGkgPCBULmJyYWNrZXRzLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgaWYgKHRheGFibGUgPiBwcmV2KSBtYXJnaW5hbCA9IE1hdGgucm91bmQoVC5icmFja2V0c1tpXVsxXSAqIDEwMCkgKyAiJSI7CiAgICAgICAgcHJldiA9IFQuYnJhY2tldHNbaV1bMF07CiAgICAgIH0KCiAgICAgIHZhciBlZmYgPSBncm9zc0FubnVhbCA+IDAgPyAocGF5ZUFubnVhbCArIHVpZkFubnVhbCkgLyBncm9zc0FubnVhbCAqIDEwMCA6IDA7CgogICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgici1uZXQtbW9udGhseSIpLnRleHRDb250ZW50ID0gZm10UjIobmV0QW5udWFsIC8gMTIpOwogICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgici1wYXllIikudGV4dENvbnRlbnQgPSBmbXRSMihwYXllQW5udWFsIC8gMTIpICsgIiAvIG1vIjsKICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoInItdWlmIikudGV4dENvbnRlbnQgPSBmbXRSMih1aWZNb250aGx5KSArICIgLyBtbyI7CiAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJyLW5ldC1hbm51YWwiKS50ZXh0Q29udGVudCA9IGZtdFIyKG5ldEFubnVhbCk7CiAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJyLW5ldC13ZWVrbHkiKS50ZXh0Q29udGVudCA9IGZtdFIyKG5ldEFubnVhbCAvIDUyKTsKICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoInItbmV0LWRhaWx5IikudGV4dENvbnRlbnQgPSBmbXRSMihuZXRBbm51YWwgLyAzNjUpOwogICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgici1lZmZlY3RpdmUiKS50ZXh0Q29udGVudCA9IGVmZi50b0ZpeGVkKDEpICsgIiUiOwogICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgici1tYXJnaW5hbCIpLnRleHRDb250ZW50ID0gbWFyZ2luYWw7CiAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJyLXBlbnNpb24tbm90ZSIpLnRleHRDb250ZW50ID0gcGVuc2lvbkRlZCA+IDAgPyAiUGVuc2lvbiBkZWR1Y3Rpb24gYXBwbGllZDogIiArIGZtdFIyKHBlbnNpb25EZWQpICsgIiAvIHlyIiA6ICIiOwogICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgici1tZWRpY2FsLW5vdGUiKS50ZXh0Q29udGVudCA9IG10Y01vbnRobHkgPiAwID8gIk1lZGljYWwgdGF4IGNyZWRpdCBhcHBsaWVkOiAiICsgZm10UjIobXRjTW9udGhseSkgKyAiIC8gbW8iIDogIiI7CgogICAgICB2YXIgZ20gPSBncm9zc01vbnRobHkgPiAwID8gZ3Jvc3NNb250aGx5IDogMTsKICAgICAgdmFyIHBQYXllID0gTWF0aC5taW4oMTAwLCBwYXllQW5udWFsIC8gMTIgLyBnbSAqIDEwMCksCiAgICAgICAgICBwVWlmID0gTWF0aC5taW4oMTAwIC0gcFBheWUsIHVpZk1vbnRobHkgLyBnbSAqIDEwMCksCiAgICAgICAgICBwTmV0ID0gTWF0aC5tYXgoMCwgMTAwIC0gcFBheWUgLSBwVWlmKTsKICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoImJhci1wYXllIikuc3R5bGUud2lkdGggPSBwUGF5ZSArICIlIjsKICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoImJhci11aWYiKS5zdHlsZS53aWR0aCA9IHBVaWYgKyAiJSI7CiAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJiYXItbmV0Iikuc3R5bGUud2lkdGggPSBwTmV0ICsgIiUiOwogICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgiYmFyLWxlZ2VuZCIpLmlubmVySFRNTCA9CiAgICAgICAgJzxzcGFuPjxzcGFuIGNsYXNzPSJkb3QgYmFyLXBheWUiPjwvc3Bhbj5QQVlFICcgKyBwUGF5ZS50b0ZpeGVkKDEpICsgJyU8L3NwYW4+JyArCiAgICAgICAgJzxzcGFuPjxzcGFuIGNsYXNzPSJkb3QgYmFyLXVpZiI+PC9zcGFuPlVJRiAnICsgcFVpZi50b0ZpeGVkKDEpICsgJyU8L3NwYW4+JyArCiAgICAgICAgJzxzcGFuPjxzcGFuIGNsYXNzPSJkb3QgYmFyLW5ldCI+PC9zcGFuPlRha2UtaG9tZSAnICsgcE5ldC50b0ZpeGVkKDEpICsgJyU8L3NwYW4+JzsKICAgIH0KCiAgICBbImlucHV0IiwgImNoYW5nZSJdLmZvckVhY2goZnVuY3Rpb24gKGV2KSB7CiAgICAgIGdyb3NzRWwuYWRkRXZlbnRMaXN0ZW5lcihldiwgY2FsYyk7CiAgICAgIGFnZUVsLmFkZEV2ZW50TGlzdGVuZXIoZXYsIGNhbGMpOwogICAgICBwZW5zaW9uRWwuYWRkRXZlbnRMaXN0ZW5lcihldiwgY2FsYyk7CiAgICAgIG1lZEVsLmFkZEV2ZW50TGlzdGVuZXIoZXYsIGNhbGMpOwogICAgfSk7CiAgICBjYWxjKCk7CiAgfQoKICAvLyAtLS0tIFVJRiBtaW5pIGNhbGN1bGF0b3IgLS0tLQogIHZhciB1aWZGb3JtID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoInVpZkNhbGMiKTsKICBpZiAodWlmRm9ybSAmJiB0eXBlb2YgU0FQQ19UQVggIT09ICJ1bmRlZmluZWQiKSB7CiAgICB2YXIgVDIgPSBTQVBDX1RBWDsKICAgIHZhciBzYWwgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgidWlmLXNhbGFyeSIpOwogICAgZnVuY3Rpb24gdWNhbGMoKSB7CiAgICAgIHZhciBzID0gTWF0aC5tYXgoMCwgcGFyc2VGbG9hdChzYWwudmFsdWUpIHx8IDApOwogICAgICB2YXIgbSA9IE1hdGgubWluKHMgKiBUMi51aWZfcmF0ZSwgVDIudWlmX2NhcCk7CiAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJ1aWYtb3V0IikuaW5uZXJIVE1MID0KICAgICAgICAiPHN0cm9uZz4iICsgZm10UjIobSkgKyAiPC9zdHJvbmc+IHBlciBtb250aCAmbmJzcDvCtyZuYnNwOyAiICsgZm10UjIobSAqIDEyKSArICIgcGVyIHllYXIiICsKICAgICAgICAocyAqIFQyLnVpZl9yYXRlID4gVDIudWlmX2NhcCA/ICc8ZGl2IGNsYXNzPSJoaW50Ij5DYXBwZWQ6IDElIG9mIHRoZSBSMTcsNzEyIG1vbnRobHkgY2VpbGluZyBhcHBsaWVzLjwvZGl2PicgOiAiIik7CiAgICB9CiAgICBzYWwuYWRkRXZlbnRMaXN0ZW5lcigiaW5wdXQiLCB1Y2FsYyk7CiAgICB1Y2FsYygpOwogIH0KCiAgLy8gLS0tLSBjb250YWN0IGZvcm0gY2xpZW50LXNpZGUgdmFsaWRhdGlvbiAoc2VydmVyIHZhbGlkYXRlcyBmb3IgcmVhbCkgLS0tLQogIHZhciBjZiA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJjb250YWN0Rm9ybSIpOwogIGlmIChjZikgewogICAgY2YuYWRkRXZlbnRMaXN0ZW5lcigic3VibWl0IiwgZnVuY3Rpb24gKGUpIHsKICAgICAgdmFyIG5hbWUgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgiY2YtbmFtZSIpLnZhbHVlLnRyaW0oKSwKICAgICAgICAgIGVtYWlsID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoImNmLWVtYWlsIikudmFsdWUudHJpbSgpLAogICAgICAgICAgbXNnID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoImNmLW1lc3NhZ2UiKS52YWx1ZS50cmltKCksCiAgICAgICAgICBlcnIgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgiY2YtZXJyb3IiKTsKICAgICAgdmFyIG9rID0gdHJ1ZSwgcHJvYmxlbXMgPSBbXTsKICAgICAgaWYgKG5hbWUubGVuZ3RoIDwgMikgeyBvayA9IGZhbHNlOyBwcm9ibGVtcy5wdXNoKCJ5b3VyIG5hbWUiKTsgfQogICAgICBpZiAoIS9eW15cc0BdK0BbXlxzQF0rXC5bXlxzQF17Mix9JC8udGVzdChlbWFpbCkpIHsgb2sgPSBmYWxzZTsgcHJvYmxlbXMucHVzaCgiYSB2YWxpZCBlbWFpbCIpOyB9CiAgICAgIGlmIChtc2cubGVuZ3RoIDwgMTApIHsgb2sgPSBmYWxzZTsgcHJvYmxlbXMucHVzaCgiYSBtZXNzYWdlICgxMCsgY2hhcmFjdGVycykiKTsgfQogICAgICBpZiAoIW9rKSB7CiAgICAgICAgZS5wcmV2ZW50RGVmYXVsdCgpOwogICAgICAgIGVyci50ZXh0Q29udGVudCA9ICJQbGVhc2UgYWRkICIgKyBwcm9ibGVtcy5qb2luKCIsICIpICsgIi4iOwogICAgICAgIGVyci5zdHlsZS5kaXNwbGF5ID0gImJsb2NrIjsKICAgICAgfQogICAgfSk7CiAgfQp9KSgpOwo=
+/* SA Paycheck — vanilla JS. Calculator math mirrors includes/config.php exactly. */
+(function () {
+  "use strict";
+
+  // Mobile nav
+  var toggle = document.getElementById("navToggle"), menu = document.getElementById("navMenu");
+  if (toggle && menu) {
+    toggle.addEventListener("click", function () {
+      var open = menu.classList.toggle("open");
+      toggle.setAttribute("aria-expanded", open ? "true" : "false");
+    });
+  }
+
+  function fmtR(n) {
+    var neg = n < 0; n = Math.abs(Math.round(n));
+    var s = n.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ");
+    return (neg ? "-R" : "R") + s;
+  }
+  function fmtR2(n) {
+    var neg = n < 0; n = Math.abs(n);
+    var s = n.toFixed(2).replace(/\B(?=(\d{3})+(?!\d))/g, " ");
+    return (neg ? "-R" : "R") + s;
+  }
+
+  // ---- main PAYE calculator ----
+  var form = document.getElementById("payeCalc");
+  if (form && typeof SAPC_TAX !== "undefined") {
+    var T = SAPC_TAX;
+    var grossEl = document.getElementById("gross"),
+        periodBtns = form.querySelectorAll("[data-period]"),
+        ageEl = document.getElementById("age"),
+        pensionEl = document.getElementById("pension"),
+        medEl = document.getElementById("medical"),
+        period = "monthly";
+
+    periodBtns.forEach(function (b) {
+      b.addEventListener("click", function () {
+        periodBtns.forEach(function (x) { x.classList.remove("active"); });
+        b.classList.add("active");
+        period = b.getAttribute("data-period");
+        grossEl.setAttribute("aria-label", period === "monthly" ? "Gross monthly salary in Rand" : "Gross annual salary in Rand");
+        calc();
+      });
+    });
+
+    function payeOnTaxable(annual) {
+      var tax = 0, prev = 0;
+      for (var i = 0; i < T.brackets.length; i++) {
+        var limit = T.brackets[i][0], rate = T.brackets[i][1];
+        if (annual <= prev) break;
+        tax += (Math.min(annual, limit) - prev) * rate;
+        prev = limit;
+      }
+      return tax;
+    }
+
+    function calc() {
+      var gross = parseFloat(grossEl.value) || 0;
+      if (gross < 0) gross = 0;
+      var grossAnnual = period === "monthly" ? gross * 12 : gross;
+      var grossMonthly = period === "monthly" ? gross : gross / 12;
+
+      var age = ageEl.value;
+      var rebate = age === "65-74" ? T.rebate_secondary : age === "75+" ? T.rebate_tertiary : T.rebate_primary;
+
+      var pensionPct = Math.min(27.5, Math.max(0, parseFloat(pensionEl.value) || 0));
+      var pensionDed = Math.min(grossAnnual * pensionPct / 100, grossAnnual * T.pension_pct_cap, T.pension_rand_cap);
+
+      var med = Math.max(0, Math.min(12, parseInt(medEl.value, 10) || 0));
+      var mtcMonthly = 0;
+      if (med >= 1) mtcMonthly += T.mtc_main;
+      if (med >= 2) mtcMonthly += T.mtc_first_dep;
+      if (med >= 3) mtcMonthly += (med - 2) * T.mtc_addl_dep;
+      var mtcAnnual = mtcMonthly * 12;
+
+      var taxable = Math.max(0, grossAnnual - pensionDed);
+      var payeAnnual = Math.max(0, payeOnTaxable(taxable) - rebate - mtcAnnual);
+      var uifMonthly = Math.min(grossMonthly * T.uif_rate, T.uif_cap);
+      var uifAnnual = uifMonthly * 12;
+
+      var netAnnual = grossAnnual - payeAnnual - uifAnnual;
+
+      var marginal = "0%";
+      var prev = 0;
+      for (var i = 0; i < T.brackets.length; i++) {
+        if (taxable > prev) marginal = Math.round(T.brackets[i][1] * 100) + "%";
+        prev = T.brackets[i][0];
+      }
+
+      var eff = grossAnnual > 0 ? (payeAnnual + uifAnnual) / grossAnnual * 100 : 0;
+
+      document.getElementById("r-net-monthly").textContent = fmtR2(netAnnual / 12);
+      document.getElementById("r-paye").textContent = fmtR2(payeAnnual / 12) + " / mo";
+      document.getElementById("r-uif").textContent = fmtR2(uifMonthly) + " / mo";
+      document.getElementById("r-net-annual").textContent = fmtR2(netAnnual);
+      document.getElementById("r-net-weekly").textContent = fmtR2(netAnnual / 52);
+      document.getElementById("r-net-daily").textContent = fmtR2(netAnnual / 365);
+      document.getElementById("r-effective").textContent = eff.toFixed(1) + "%";
+      document.getElementById("r-marginal").textContent = marginal;
+      document.getElementById("r-pension-note").textContent = pensionDed > 0 ? "Pension deduction applied: " + fmtR2(pensionDed) + " / yr" : "";
+      document.getElementById("r-medical-note").textContent = mtcMonthly > 0 ? "Medical tax credit applied: " + fmtR2(mtcMonthly) + " / mo" : "";
+
+      var gm = grossMonthly > 0 ? grossMonthly : 1;
+      var pPaye = Math.min(100, payeAnnual / 12 / gm * 100),
+          pUif = Math.min(100 - pPaye, uifMonthly / gm * 100),
+          pNet = Math.max(0, 100 - pPaye - pUif);
+      document.getElementById("bar-paye").style.width = pPaye + "%";
+      document.getElementById("bar-uif").style.width = pUif + "%";
+      document.getElementById("bar-net").style.width = pNet + "%";
+      document.getElementById("bar-legend").innerHTML =
+        '<span><span class="dot bar-paye"></span>PAYE ' + pPaye.toFixed(1) + '%</span>' +
+        '<span><span class="dot bar-uif"></span>UIF ' + pUif.toFixed(1) + '%</span>' +
+        '<span><span class="dot bar-net"></span>Take-home ' + pNet.toFixed(1) + '%</span>';
+    }
+
+    ["input", "change"].forEach(function (ev) {
+      grossEl.addEventListener(ev, calc);
+      ageEl.addEventListener(ev, calc);
+      pensionEl.addEventListener(ev, calc);
+      medEl.addEventListener(ev, calc);
+    });
+    calc();
+  }
+
+  // ---- UIF mini calculator ----
+  var uifForm = document.getElementById("uifCalc");
+  if (uifForm && typeof SAPC_TAX !== "undefined") {
+    var T2 = SAPC_TAX;
+    var sal = document.getElementById("uif-salary");
+    function ucalc() {
+      var s = Math.max(0, parseFloat(sal.value) || 0);
+      var m = Math.min(s * T2.uif_rate, T2.uif_cap);
+      document.getElementById("uif-out").innerHTML =
+        "<strong>" + fmtR2(m) + "</strong> per month &nbsp;·&nbsp; " + fmtR2(m * 12) + " per year" +
+        (s * T2.uif_rate > T2.uif_cap ? '<div class="hint">Capped: 1% of the R17,712 monthly ceiling applies.</div>' : "");
+    }
+    sal.addEventListener("input", ucalc);
+    ucalc();
+  }
+
+  // ---- contact form client-side validation (server validates for real) ----
+  var cf = document.getElementById("contactForm");
+  if (cf) {
+    cf.addEventListener("submit", function (e) {
+      var name = document.getElementById("cf-name").value.trim(),
+          email = document.getElementById("cf-email").value.trim(),
+          msg = document.getElementById("cf-message").value.trim(),
+          err = document.getElementById("cf-error");
+      var ok = true, problems = [];
+      if (name.length < 2) { ok = false; problems.push("your name"); }
+      if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email)) { ok = false; problems.push("a valid email"); }
+      if (msg.length < 10) { ok = false; problems.push("a message (10+ characters)"); }
+      if (!ok) {
+        e.preventDefault();
+        err.textContent = "Please add " + problems.join(", ") + ".";
+        err.style.display = "block";
+      }
+    });
+  }
+})();
