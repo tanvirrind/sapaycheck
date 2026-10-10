@@ -1,1 +1,27 @@
-PC9tYWluPgo8IS0tIEFEU0VOU0U6IHBhc3RlIHJlc3BvbnNpdmUgYWQgdW5pdCBhYm92ZSB0aGUgZm9vdGVyIChhbGwgcGFnZXMpIC0tPgo8Zm9vdGVyIGNsYXNzPSJmb290ZXIiPgogIDxkaXYgY2xhc3M9IndyYXAgZm9vdGVyLWlubmVyIj4KICAgIDxkaXY+CiAgICAgIDxzdHJvbmcgc3R5bGU9ImNvbG9yOnZhcigtLWluaykiPlNBIFBheWNoZWNrPC9zdHJvbmc+CiAgICAgIDxkaXY+S25vdyB5b3VyIHRha2UtaG9tZSBwYXkuPC9kaXY+CiAgICAgIDxwIGNsYXNzPSJmaW5lcHJpbnQiPkZpZ3VyZXMgdXNlIHRoZSBTQVJTIDIwMjYvMjAyNyB0YXggdGFibGVzICgxIE1hciAyMDI2IOKAkyAyOCBGZWIgMjAyNykuIEVzdGltYXRlcyBvbmx5IOKAlCBub3QgdGF4IGFkdmljZS48L3A+CiAgICA8L2Rpdj4KICAgIDxkaXYgY2xhc3M9ImZvb3Rlci1saW5rcyI+CiAgICAgIDxhIGhyZWY9Ii9jYWxjdWxhdG9yLyIgc3R5bGU9ImNvbG9yOmluaGVyaXQiPkNhbGN1bGF0b3I8L2E+CiAgICAgIDxhIGhyZWY9Ii9zYWxhcnkvIiBzdHlsZT0iY29sb3I6aW5oZXJpdCI+U2FsYXJ5IEd1aWRlczwvYT4KICAgICAgPGEgaHJlZj0iL3RheC1icmFja2V0cy8iIHN0eWxlPSJjb2xvcjppbmhlcml0Ij5UYXggQnJhY2tldHM8L2E+CiAgICAgIDxhIGhyZWY9Ii91aWYtY2FsY3VsYXRvci8iIHN0eWxlPSJjb2xvcjppbmhlcml0Ij5VSUYgQ2FsY3VsYXRvcjwvYT4KICAgICAgPGEgaHJlZj0iL2ZhcS8iIHN0eWxlPSJjb2xvcjppbmhlcml0Ij5GQVE8L2E+CiAgICA8L2Rpdj4KICAgIDxkaXYgY2xhc3M9ImZvb3Rlci1saW5rcyI+CiAgICAgIDxhIGhyZWY9Ii9hYm91dC8iIHN0eWxlPSJjb2xvcjppbmhlcml0Ij5BYm91dDwvYT4KICAgICAgPGEgaHJlZj0iL2NvbnRhY3QvIiBzdHlsZT0iY29sb3I6aW5oZXJpdCI+Q29udGFjdDwvYT4KICAgICAgPGEgaHJlZj0iL3ByaXZhY3kvIiBzdHlsZT0iY29sb3I6aW5oZXJpdCI+UHJpdmFjeTwvYT4KICAgIDwvZGl2PgogICAgPGRpdj4mY29weTsgPD9waHAgZWNobyBkYXRlKCdZJyk7ID8+IFNBIFBheWNoZWNrLiBBbGwgcmlnaHRzIHJlc2VydmVkLjwvZGl2PgogIDwvZGl2Pgo8L2Zvb3Rlcj4KPHNjcmlwdCBzcmM9Ii9hc3NldHMvanMvYXBwLmpzIiBkZWZlcj48L3NjcmlwdD4KPC9ib2R5Pgo8L2h0bWw+Cg==
+</main>
+<!-- ADSENSE: paste responsive ad unit above the footer (all pages) -->
+<footer class="footer">
+  <div class="wrap footer-inner">
+    <div>
+      <strong style="color:var(--ink)">SA Paycheck</strong>
+      <div>Know your take-home pay.</div>
+      <p class="fineprint">Figures use the SARS 2026/2027 tax tables (1 Mar 2026 – 28 Feb 2027). Estimates only — not tax advice.</p>
+    </div>
+    <div class="footer-links">
+      <a href="/calculator/" style="color:inherit">Calculator</a>
+      <a href="/salary/" style="color:inherit">Salary Guides</a>
+      <a href="/tax-brackets/" style="color:inherit">Tax Brackets</a>
+      <a href="/uif-calculator/" style="color:inherit">UIF Calculator</a>
+      <a href="/faq/" style="color:inherit">FAQ</a>
+    </div>
+    <div class="footer-links">
+      <a href="/about/" style="color:inherit">About</a>
+      <a href="/contact/" style="color:inherit">Contact</a>
+      <a href="/privacy/" style="color:inherit">Privacy</a>
+    </div>
+    <div>&copy; <?php echo date('Y'); ?> SA Paycheck. All rights reserved.</div>
+  </div>
+</footer>
+<script src="/assets/js/app.js" defer></script>
+</body>
+</html>
