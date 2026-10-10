@@ -1,1 +1,51 @@
-PD9waHAKJHBhZ2VUaXRsZSA9ICJGQVEg4oCUIFNvdXRoIEFmcmljYW4gVGFrZS1Ib21lIFBheSwgUEFZRSAmIFVJRiB8IFNBIFBheWNoZWNrIjsKJHBhZ2VEZXNjID0gIkFuc3dlcnMgdG8gY29tbW9uIHF1ZXN0aW9ucyBhYm91dCBTb3V0aCBBZnJpY2FuIHRha2UtaG9tZSBwYXk6IFBBWUUgYnJhY2tldHMsIFVJRiwgcmViYXRlcywgcGVuc2lvbiBkZWR1Y3Rpb25zIGFuZCBtZWRpY2FsIHRheCBjcmVkaXRzIGZvciAyMDI2LzIwMjcuIjsKJGNhbm9uaWNhbCA9ICIvZmFxLyI7CiRmYXFzID0gWwogICAgWyJIb3cgaXMgdGFrZS1ob21lIHBheSBjYWxjdWxhdGVkIGluIFNvdXRoIEFmcmljYT8iLAogICAgICJHcm9zcyBzYWxhcnkgbWludXMgUEFZRSAoaW5jb21lIHRheCkgbWludXMgVUlGLiBQQVlFIHVzZXMgU0FSUyBwcm9ncmVzc2l2ZSBicmFja2V0cyAoMTgl4oCTNDUlIGZvciAyMDI2LzIwMjcpIG1pbnVzIHlvdXIgcmViYXRlOyBVSUYgaXMgMSUgY2FwcGVkIGF0IFIxNzcuMTIvbW9udGguIl0sCiAgICBbIldoYXQgaXMgUEFZRT8iLAogICAgICJQYXktQXMtWW91LUVhcm46IHRoZSBpbmNvbWUgdGF4IHlvdXIgZW1wbG95ZXIgd2l0aGhvbGRzIG1vbnRobHkgYW5kIHBheXMgdG8gU0FSUyBvbiB5b3VyIGJlaGFsZiwgYmFzZWQgb24gdGhlIGFubnVhbCB0YXggdGFibGVzLiJdLAogICAgWyJIb3cgbXVjaCBpcyBVSUYgcGVyIG1vbnRoPyIsCiAgICAgIjElIG9mIHlvdXIgZ3Jvc3MgbW9udGhseSBzYWxhcnksIGNhcHBlZCBhdCBSMTc3LjEyLiBFYXJuIGFib3ZlIFIxNyw3MTIvbW9udGggYW5kIHRoZSBkZWR1Y3Rpb24gc3RheXMgZmxhdCBhdCB0aGUgY2FwLiJdLAogICAgWyJXaGF0IGFyZSB0aGUgU0FSUyB0YXggYnJhY2tldHMgZm9yIDIwMjYvMjAyNz8iLAogICAgICIxOCUgdG8gUjI0NSwxMDA7IDI2JSB0byBSMzgzLDEwMDsgMzElIHRvIFI1MzAsMjAwOyAzNiUgdG8gUjY5NSw4MDA7IDM5JSB0byBSODg3LDAwMDsgNDElIHRvIFIxLDg3OCw2MDA7IDQ1JSBhYm92ZS4gU2VlIHRoZSBmdWxsIHRhYmxlcyBvbiBvdXIgdGF4IGJyYWNrZXRzIHBhZ2UuIl0sCiAgICBbIldoYXQgaXMgdGhlIHByaW1hcnkgcmViYXRlPyIsCiAgICAgIlIxNyw4MjAgZm9yIHRheHBheWVycyB1bmRlciA2NSAoMjAyNi8yMDI3KS4gSXQgaXMgc3VidHJhY3RlZCBmcm9tIHRoZSB0YXggY29tcHV0ZWQgb24gdGhlIGJyYWNrZXRzLiBPdmVyLTY1cyBnZXQgYW4gYWRkaXRpb25hbCBSOSw3NjUgKHRvdGFsIFIyNyw1ODUpOyBvdmVyLTc1cyBhIGZ1cnRoZXIgUjMsMjQ5ICh0b3RhbCBSMzAsODM0KS4iXSwKICAgIFsiRG8gcGVuc2lvbiBjb250cmlidXRpb25zIHJlZHVjZSBteSBQQVlFPyIsCiAgICAgIlllcy4gUmV0aXJlbWVudCBmdW5kIGNvbnRyaWJ1dGlvbnMgcmVkdWNlIHRheGFibGUgaW5jb21lLCB1cCB0byAyNy41JSBvZiByZW11bmVyYXRpb24gKG1heCBSMzUwLDAwMC95ZWFyKS4gQWRkIHlvdXIgY29udHJpYnV0aW9uIHBlcmNlbnRhZ2UgaW4gdGhlIGNhbGN1bGF0b3IuIl0sCiAgICBbIkhvdyBkbyBtZWRpY2FsIGFpZCB0YXggY3JlZGl0cyB3b3JrPyIsCiAgICAgIlIzNzYvbW9udGggZm9yIHlvdXJzZWxmLCBSMzc2IGZvciB5b3VyIGZpcnN0IGRlcGVuZGFudCwgUjI1NCBmb3IgZWFjaCBhZGRpdGlvbmFsIGRlcGVuZGFudC4gQ3JlZGl0cyByZWR1Y2UgdGhlIHRheCB5b3UgcGF5LCBub3QgeW91ciB0YXhhYmxlIGluY29tZS4iXSwKICAgIFsiV2hhdCBpcyB0aGUgZGlmZmVyZW5jZSBiZXR3ZWVuIG1hcmdpbmFsIGFuZCBlZmZlY3RpdmUgdGF4IHJhdGU/IiwKICAgICAiWW91ciBtYXJnaW5hbCByYXRlIGlzIHRoZSB0YXggb24geW91ciBuZXh0IHJhbmQgZWFybmVkICh5b3VyIHRvcCBicmFja2V0KS4gWW91ciBlZmZlY3RpdmUgcmF0ZSBpcyB0b3RhbCBQQVlFK1VJRiBkaXZpZGVkIGJ5IGdyb3NzIHNhbGFyeSDigJQgYWx3YXlzIGxvd2VyLiJdLAogICAgWyJJcyBvdmVydGltZSB0YXhlZCBkaWZmZXJlbnRseT8iLAogICAgICJObyDigJQgYnV0IGEgYmlnIG92ZXJ0aW1lIG1vbnRoIGNhbiBwdXNoIHRoYXQgbW9udGgncyBQQVlFIGludG8gYSBoaWdoZXIgYnJhY2tldC4gU0FSUyByZWNvbmNpbGVzIGl0IGF0IHllYXIgZW5kIHZpYSB5b3VyIHRheCByZXR1cm4uIl0sCiAgICBbIkFyZSBib251c2VzIHRheGVkIGF0IGEgaGlnaGVyIHJhdGU/IiwKICAgICAiQm9udXNlcyBhcmUgdGF4ZWQgYXQgeW91ciBtYXJnaW5hbCByYXRlLiBFbXBsb3llcnMgb2Z0ZW4gd2l0aGhvbGQgUEFZRSBvbiBib251c2VzIHVzaW5nIHlvdXIgYXZlcmFnZSByYXRlLCByZWNvbmNpbGVkIGF0IGFzc2Vzc21lbnQuIl0sCiAgICBbIkRvIEkgcGF5IFNETCBhcyBhbiBlbXBsb3llZT8iLAogICAgICJOby4gVGhlIDElIFNraWxscyBEZXZlbG9wbWVudCBMZXZ5IGlzIHBhaWQgYnkgeW91ciBlbXBsb3llciBhbmQgbmV2ZXIgZGVkdWN0ZWQgZnJvbSB5b3VyIHNhbGFyeS4iXSwKICAgIFsiSXMgdGhpcyBjYWxjdWxhdG9yIHRheCBhZHZpY2U/IiwKICAgICAiTm8uIEl0J3MgYW4gZXN0aW1hdGUgYmFzZWQgb24gdGhlIHB1Ymxpc2hlZCBTQVJTIDIwMjYvMjAyNyB0YWJsZXMuIEZvciBwZXJzb25hbCBhZHZpY2UsIGNvbnN1bHQgYSByZWdpc3RlcmVkIHRheCBwcmFjdGl0aW9uZXIuIl0sCl07CiRleHRyYUhlYWQgPSAnPHNjcmlwdCB0eXBlPSJhcHBsaWNhdGlvbi9sZCtqc29uIj4nIC4ganNvbl9lbmNvZGUoWwogICAgIkBjb250ZXh0IiA9PiAiaHR0cHM6Ly9zY2hlbWEub3JnIiwgIkB0eXBlIiA9PiAiRkFRUGFnZSIsCiAgICAibWFpbkVudGl0eSIgPT4gYXJyYXlfbWFwKGZuKCRmKSA9PiBbIkB0eXBlIiA9PiAiUXVlc3Rpb24iLCAibmFtZSIgPT4gJGZbMF0sCiAgICAgICAgImFjY2VwdGVkQW5zd2VyIiA9PiBbIkB0eXBlIiA9PiAiQW5zd2VyIiwgInRleHQiID0+ICRmWzFdXV0sICRmYXFzKSwKXSkgLiAnPC9zY3JpcHQ+JzsKcmVxdWlyZSBfX0RJUl9fIC4gJy8uLi9pbmNsdWRlcy9oZWFkZXIucGhwJzsKPz4KPHNlY3Rpb24gY2xhc3M9InNlY3Rpb24iPgogIDxkaXYgY2xhc3M9IndyYXAiIHN0eWxlPSJtYXgtd2lkdGg6ODAwcHgiPgogICAgPGRpdiBjbGFzcz0ia2lja2VyIj5IZWxwPC9kaXY+CiAgICA8aDEgY2xhc3M9ImgyIj5GcmVxdWVudGx5IGFza2VkIHF1ZXN0aW9uczwvaDE+CiAgICA8cCBjbGFzcz0ic3ViIj5TdHJhaWdodCBhbnN3ZXJzIGFib3V0IFNvdXRoIEFmcmljYW4gdGFrZS1ob21lIHBheSwgUEFZRSwgVUlGIGFuZCByZWJhdGVzIOKAlCA8P3BocCBlY2hvICRUQVhfWUVBUl9MQUJFTDsgPz4gdGF4IHllYXIuPC9wPgogICAgPGRpdiBjbGFzcz0iZmFxIiBzdHlsZT0ibWFyZ2luLXRvcDoyNHB4Ij4KICAgICAgPD9waHAgZm9yZWFjaCAoJGZhcXMgYXMgWyRxLCAkYV0pOiA/PgogICAgICAgIDxkZXRhaWxzPjxzdW1tYXJ5Pjw/cGhwIGVjaG8gaHRtbHNwZWNpYWxjaGFycygkcSk7ID8+PC9zdW1tYXJ5PjxwPjw/cGhwIGVjaG8gaHRtbHNwZWNpYWxjaGFycygkYSk7ID8+PC9wPjwvZGV0YWlscz4KICAgICAgPD9waHAgZW5kZm9yZWFjaDsgPz4KICAgIDwvZGl2PgogICAgPHAgc3R5bGU9Im1hcmdpbi10b3A6MjhweCI+PGEgaHJlZj0iL2NhbGN1bGF0b3IvIiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5Ij5DYWxjdWxhdGUgbXkgdGFrZS1ob21lIHBheTwvYT48L3A+CiAgPC9kaXY+Cjwvc2VjdGlvbj4KPD9waHAgcmVxdWlyZSBfX0RJUl9fIC4gJy8uLi9pbmNsdWRlcy9mb290ZXIucGhwJzsgPz4K
+<?php
+$pageTitle = "FAQ — South African Take-Home Pay, PAYE & UIF | SA Paycheck";
+$pageDesc = "Answers to common questions about South African take-home pay: PAYE brackets, UIF, rebates, pension deductions and medical tax credits for 2026/2027.";
+$canonical = "/faq/";
+$faqs = [
+    ["How is take-home pay calculated in South Africa?",
+     "Gross salary minus PAYE (income tax) minus UIF. PAYE uses SARS progressive brackets (18%–45% for 2026/2027) minus your rebate; UIF is 1% capped at R177.12/month."],
+    ["What is PAYE?",
+     "Pay-As-You-Earn: the income tax your employer withholds monthly and pays to SARS on your behalf, based on the annual tax tables."],
+    ["How much is UIF per month?",
+     "1% of your gross monthly salary, capped at R177.12. Earn above R17,712/month and the deduction stays flat at the cap."],
+    ["What are the SARS tax brackets for 2026/2027?",
+     "18% to R245,100; 26% to R383,100; 31% to R530,200; 36% to R695,800; 39% to R887,000; 41% to R1,878,600; 45% above. See the full tables on our tax brackets page."],
+    ["What is the primary rebate?",
+     "R17,820 for taxpayers under 65 (2026/2027). It is subtracted from the tax computed on the brackets. Over-65s get an additional R9,765 (total R27,585); over-75s a further R3,249 (total R30,834)."],
+    ["Do pension contributions reduce my PAYE?",
+     "Yes. Retirement fund contributions reduce taxable income, up to 27.5% of remuneration (max R350,000/year). Add your contribution percentage in the calculator."],
+    ["How do medical aid tax credits work?",
+     "R376/month for yourself, R376 for your first dependant, R254 for each additional dependant. Credits reduce the tax you pay, not your taxable income."],
+    ["What is the difference between marginal and effective tax rate?",
+     "Your marginal rate is the tax on your next rand earned (your top bracket). Your effective rate is total PAYE+UIF divided by gross salary — always lower."],
+    ["Is overtime taxed differently?",
+     "No — but a big overtime month can push that month's PAYE into a higher bracket. SARS reconciles it at year end via your tax return."],
+    ["Are bonuses taxed at a higher rate?",
+     "Bonuses are taxed at your marginal rate. Employers often withhold PAYE on bonuses using your average rate, reconciled at assessment."],
+    ["Do I pay SDL as an employee?",
+     "No. The 1% Skills Development Levy is paid by your employer and never deducted from your salary."],
+    ["Is this calculator tax advice?",
+     "No. It's an estimate based on the published SARS 2026/2027 tables. For personal advice, consult a registered tax practitioner."],
+];
+$extraHead = '<script type="application/ld+json">' . json_encode([
+    "@context" => "https://schema.org", "@type" => "FAQPage",
+    "mainEntity" => array_map(fn($f) => ["@type" => "Question", "name" => $f[0],
+        "acceptedAnswer" => ["@type" => "Answer", "text" => $f[1]]], $faqs),
+]) . '</script>';
+require __DIR__ . '/../includes/header.php';
+?>
+<section class="section">
+  <div class="wrap" style="max-width:800px">
+    <div class="kicker">Help</div>
+    <h1 class="h2">Frequently asked questions</h1>
+    <p class="sub">Straight answers about South African take-home pay, PAYE, UIF and rebates — <?php echo $TAX_YEAR_LABEL; ?> tax year.</p>
+    <div class="faq" style="margin-top:24px">
+      <?php foreach ($faqs as [$q, $a]): ?>
+        <details><summary><?php echo htmlspecialchars($q); ?></summary><p><?php echo htmlspecialchars($a); ?></p></details>
+      <?php endforeach; ?>
+    </div>
+    <p style="margin-top:28px"><a href="/calculator/" class="btn btn-primary">Calculate my take-home pay</a></p>
+  </div>
+</section>
+<?php require __DIR__ . '/../includes/footer.php'; ?>
