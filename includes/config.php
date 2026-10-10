@@ -1,1 +1,116 @@
-PD9waHAKLy8gU0EgUGF5Y2hlY2sg4oCUIHNpbmdsZSBzb3VyY2Ugb2YgdHJ1dGggZm9yIHNpdGUgY29uZmlnIGFuZCAyMDI2LzIwMjcgU0FSUyB0YXggZGF0YS4KLy8gVGF4IHllYXI6IDEgTWFyY2ggMjAyNiDigJMgMjggRmVicnVhcnkgMjAyNy4KLy8gISEgQWxsIGZpZ3VyZXMgYmVsb3cgd2VyZSB2ZXJpZmllZCBhZ2FpbnN0IFNBUlMgLyByZXB1dGFibGUgU0Egc291cmNlcyDigJQKLy8gICAgc2VlIFRBWF9TT1VSQ0VTLm1kIGZvciB0aGUgc291cmNlIGxpc3QgYW5kIGNyb3NzLWNoZWNrIHRlc3QgY2FzZXMuCi8vICAgICJMYXN0IHZlcmlmaWVkIiBkYXRlIGlzIHNob3duIG9uIC90YXgtYnJhY2tldHMvLgoKJFNJVEVfTkFNRSAgID0gIlNBIFBheWNoZWNrIjsKJFNJVEVfVEFHTElORSA9ICJLbm93IHlvdXIgdGFrZS1ob21lIHBheS4iOwokU0lURV9VUkwgICAgPSAiaHR0cHM6Ly9zYXBheWNoZWNrLmNvLnphIjsgICAvLyBwcm9kdWN0aW9uIGNhbm9uaWNhbDsgdGVtcCBkb21haW4gdXNlZCBvbiBIb3N0aW5nZXIgdW50aWwgRE5TIGN1dG92ZXIKJENPTlRBQ1RfRU1BSUwgPSAiY29udGFjdEBzYXBheWNoZWNrLmNvLnphIjsKCiRUQVhfWUVBUl9MQUJFTCA9ICIyMDI2LzIwMjciOyAgICAgICAgICAgICAgIC8vIFNBUlMgbmFtaW5nOiB5ZWFyIGVuZGluZyAyOCBGZWIgMjAyNwokVEFYX1lFQVJfUkFOR0UgPSAiMSBNYXJjaCAyMDI2IOKAkyAyOCBGZWJydWFyeSAyMDI3IjsKJFRBWF9MQVNUX1ZFUklGSUVEID0gIjIwMjYtMTAtMTAiOwoKLy8gUEFZRSBicmFja2V0czogW3VwcGVyX2xpbWl0IChhbm51YWwsIGluY2x1c2l2ZSksIHJhdGVdLiBMYXN0IGJyYWNrZXQgaGFzIG5vIHVwcGVyIGxpbWl0LgokVEFYX0JSQUNLRVRTID0gWwogICAgWzI0NTEwMCwgICAwLjE4XSwKICAgIFszODMxMDAsICAgMC4yNl0sCiAgICBbNTMwMjAwLCAgIDAuMzFdLAogICAgWzY5NTgwMCwgICAwLjM2XSwKICAgIFs4ODcwMDAsICAgMC4zOV0sCiAgICBbMTg3ODYwMCwgIDAuNDFdLAogICAgW1BIUF9JTlRfTUFYLCAwLjQ1XSwKXTsKCi8vIFJlYmF0ZXMgKGFubnVhbCwgVE9UQUwgc3VidHJhY3RlZCBmcm9tIGNvbXB1dGVkIHRheCkuCi8vIFNBUlMgcXVvdGVzIHNlY29uZGFyeS90ZXJ0aWFyeSBhcyBhZGRpdGlvbmFsIGFtb3VudHM7IHRvdGFscyBiZWxvdzoKLy8gICB1bmRlciA2NTogMTcsODIwIHwgNjUtNzQ6IDE3LDgyMCs5LDc2NT0yNyw1ODUgfCA3NSs6IDI3LDU4NSszLDI0OT0zMCw4MzQKJFJFQkFURV9QUklNQVJZICAgPSAxNzgyMDsgIC8vIHVuZGVyIDY1CiRSRUJBVEVfU0VDT05EQVJZID0gMjc1ODU7ICAvLyA2NSB0byA3NCAodG90YWwpCiRSRUJBVEVfVEVSVElBUlkgID0gMzA4MzQ7ICAvLyA3NSBhbmQgb3ZlciAodG90YWwpCgovLyBUYXggdGhyZXNob2xkcyAoYW5udWFsIGluY29tZSBiZWxvdyB3aGljaCBubyBQQVlFIGlzIHBheWFibGUpIOKAlCByZWJhdGUgLyAwLjE4CiRUSFJFU0hPTERfVU5ERVI2NSA9IDk5MDAwOwokVEhSRVNIT0xEXzY1Xzc0ICAgPSAxNTMyNTA7CiRUSFJFU0hPTERfNzVQTFVTICA9IDE3MTMwMDsKCi8vIFVJRiDigJQgZW1wbG95ZWUgY29udHJpYnV0aW9uCiRVSUZfUkFURSAgICAgID0gMC4wMTsKJFVJRl9DQVBfTU9OVEggPSAxNzcuMTI7ICAgIC8vIDElIG9mIHRoZSBSMTcsNzEyIG1vbnRobHkgcmVtdW5lcmF0aW9uIGNlaWxpbmcKCi8vIE1lZGljYWwgc2NoZW1lIGZlZXMgdGF4IGNyZWRpdHMgKG1vbnRobHkpCiRNVENfTUFJTl9NRU1CRVIgICAgICA9IDM3NjsKJE1UQ19GSVJTVF9ERVBFTkRBTlQgID0gMzc2OwokTVRDX0FERExfREVQRU5EQU5UICAgPSAyNTQ7CgovLyBSZXRpcmVtZW50IGZ1bmRpbmcgZGVkdWN0aW9uIGNhcDogMjcuNSUgb2YgcmVtdW5lcmF0aW9uLCBtYXggUjM1MCwwMDAgcGVyIHllYXIKJFBFTlNJT05fUENUX0NBUCA9IDAuMjc1OwokUEVOU0lPTl9SQU5EX0NBUCA9IDM1MDAwMDsKCi8vIC0tLS0gc2hhcmVkIGNhbGN1bGF0aW9uIGhlbHBlcnMgKHVzZWQgYnkgZ2VuZXJhdGVkIHNhbGFyeSBwYWdlcykgLS0tLQpmdW5jdGlvbiBzYXBjX3BheWVfYW5udWFsKGZsb2F0ICR0YXhhYmxlQW5udWFsKTogZmxvYXQgewogICAgZ2xvYmFsICRUQVhfQlJBQ0tFVFM7CiAgICAkdGF4ID0gMC4wOyAkcHJldiA9IDA7CiAgICBmb3JlYWNoICgkVEFYX0JSQUNLRVRTIGFzIFskbGltaXQsICRyYXRlXSkgewogICAgICAgIGlmICgkdGF4YWJsZUFubnVhbCA8PSAkcHJldikgYnJlYWs7CiAgICAgICAgJGluQmFuZCA9IG1pbigkdGF4YWJsZUFubnVhbCwgJGxpbWl0KSAtICRwcmV2OwogICAgICAgICR0YXggKz0gJGluQmFuZCAqICRyYXRlOwogICAgICAgICRwcmV2ID0gJGxpbWl0OwogICAgfQogICAgcmV0dXJuICR0YXg7Cn0KCmZ1bmN0aW9uIHNhcGNfcmViYXRlKHN0cmluZyAkYWdlR3JvdXApOiBpbnQgewogICAgZ2xvYmFsICRSRUJBVEVfUFJJTUFSWSwgJFJFQkFURV9TRUNPTkRBUlksICRSRUJBVEVfVEVSVElBUlk7CiAgICByZXR1cm4gbWF0Y2ggKCRhZ2VHcm91cCkgewogICAgICAgICc2NS03NCcgPT4gJFJFQkFURV9TRUNPTkRBUlksCiAgICAgICAgJzc1KycgICA9PiAkUkVCQVRFX1RFUlRJQVJZLAogICAgICAgIGRlZmF1bHQgPT4gJFJFQkFURV9QUklNQVJZLAogICAgfTsKfQoKLy8gRnVsbCBicmVha2Rvd24gZm9yIGEgZ3Jvc3MgTU9OVEhMWSBzYWxhcnksIHVuZGVyLTY1LCBubyBkZWR1Y3Rpb25zIChzYWxhcnkgcGFnZXMpLgpmdW5jdGlvbiBzYXBjX2JyZWFrZG93bihmbG9hdCAkZ3Jvc3NNb250aGx5KTogYXJyYXkgewogICAgJGFubnVhbCA9ICRncm9zc01vbnRobHkgKiAxMjsKICAgICRwYXllQW5udWFsID0gbWF4KDAuMCwgc2FwY19wYXllX2FubnVhbCgkYW5udWFsKSAtIHNhcGNfcmViYXRlKCd1bmRlcjY1JykpOwogICAgJHVpZk1vbnRobHkgPSBtaW4oJGdyb3NzTW9udGhseSAqICRHTE9CQUxTWydVSUZfUkFURSddLCAkR0xPQkFMU1snVUlGX0NBUF9NT05USCddKTsKICAgICR1aWZBbm51YWwgPSAkdWlmTW9udGhseSAqIDEyOwogICAgJG5ldEFubnVhbCA9ICRhbm51YWwgLSAkcGF5ZUFubnVhbCAtICR1aWZBbm51YWw7CiAgICAvLyBtYXJnaW5hbCBicmFja2V0CiAgICAkYnJhY2tldCA9ICcnOwogICAgJHByZXYgPSAwOwogICAgZm9yZWFjaCAoJEdMT0JBTFNbJ1RBWF9CUkFDS0VUUyddIGFzIFskbGltaXQsICRyYXRlXSkgewogICAgICAgIGlmICgkYW5udWFsID4gJHByZXYpIHsgJGJyYWNrZXQgPSAoaW50KSgkcmF0ZSAqIDEwMCkgLiAnJSc7IH0KICAgICAgICAkcHJldiA9ICRsaW1pdDsKICAgIH0KICAgIHJldHVybiBbCiAgICAgICAgJ2dyb3NzX21vbnRobHknID0+ICRncm9zc01vbnRobHksCiAgICAgICAgJ2dyb3NzX2FubnVhbCcgID0+ICRhbm51YWwsCiAgICAgICAgJ3BheWVfYW5udWFsJyAgID0+ICRwYXllQW5udWFsLAogICAgICAgICdwYXllX21vbnRobHknICA9PiAkcGF5ZUFubnVhbCAvIDEyLAogICAgICAgICd1aWZfbW9udGhseScgICA9PiAkdWlmTW9udGhseSwKICAgICAgICAndWlmX2FubnVhbCcgICAgPT4gJHVpZkFubnVhbCwKICAgICAgICAnbmV0X2FubnVhbCcgICAgPT4gJG5ldEFubnVhbCwKICAgICAgICAnbmV0X21vbnRobHknICAgPT4gJG5ldEFubnVhbCAvIDEyLAogICAgICAgICduZXRfd2Vla2x5JyAgICA9PiAkbmV0QW5udWFsIC8gNTIsCiAgICAgICAgJ25ldF9kYWlseScgICAgID0+ICRuZXRBbm51YWwgLyAzNjUsCiAgICAgICAgJ2VmZmVjdGl2ZV9yYXRlJz0+ICRhbm51YWwgPiAwID8gKCRwYXllQW5udWFsICsgJHVpZkFubnVhbCkgLyAkYW5udWFsIDogMCwKICAgICAgICAnbWFyZ2luYWwnICAgICAgPT4gJGJyYWNrZXQsCiAgICBdOwp9CgpmdW5jdGlvbiBzYXBjX3IoZmxvYXQgJG4pOiBzdHJpbmcgewogICAgcmV0dXJuICdSJyAuIG51bWJlcl9mb3JtYXQoJG4sIDIsICcuJywgJyAnKTsKfQpmdW5jdGlvbiBzYXBjX3IwKGZsb2F0ICRuKTogc3RyaW5nIHsKICAgIHJldHVybiAnUicgLiBudW1iZXJfZm9ybWF0KHJvdW5kKCRuKSwgMCwgJy4nLCAnICcpOwp9CgovLyBQcm9ncmFtbWF0aWMgc2FsYXJ5IHBhZ2VzIChtb250aGx5IGdyb3NzIGFtb3VudHMpCiRTQUxBUllfTEVWRUxTID0gWzEwMDAwLCAxMjUwMCwgMTUwMDAsIDIwMDAwLCAyNTAwMCwgMzAwMDAsIDM1MDAwLCA0MDAwMCwgNDUwMDAsIDUwMDAwLCA2MDAwMCwgNzUwMDAsIDEwMDAwMCwgMTI1MDAwLCAxNTAwMDBdOwpmdW5jdGlvbiBzYXBjX3NhbGFyeV9zbHVnKGludCAkbik6IHN0cmluZyB7CiAgICByZXR1cm4gJ3InIC4gJG4gLiAnLWFmdGVyLXRheCc7Cn0K
+<?php
+// SA Paycheck — single source of truth for site config and 2026/2027 SARS tax data.
+// Tax year: 1 March 2026 – 28 February 2027.
+// !! All figures below were verified against SARS / reputable SA sources —
+//    see TAX_SOURCES.md for the source list and cross-check test cases.
+//    "Last verified" date is shown on /tax-brackets/.
+
+$SITE_NAME   = "SA Paycheck";
+$SITE_TAGLINE = "Know your take-home pay.";
+$SITE_URL    = "https://sapaycheck.co.za";   // production canonical; temp domain used on Hostinger until DNS cutover
+$CONTACT_EMAIL = "contact@sapaycheck.co.za";
+
+$TAX_YEAR_LABEL = "2026/2027";               // SARS naming: year ending 28 Feb 2027
+$TAX_YEAR_RANGE = "1 March 2026 – 28 February 2027";
+$TAX_LAST_VERIFIED = "2026-10-10";
+
+// PAYE brackets: [upper_limit (annual, inclusive), rate]. Last bracket has no upper limit.
+$TAX_BRACKETS = [
+    [245100,   0.18],
+    [383100,   0.26],
+    [530200,   0.31],
+    [695800,   0.36],
+    [887000,   0.39],
+    [1878600,  0.41],
+    [PHP_INT_MAX, 0.45],
+];
+
+// Rebates (annual, TOTAL subtracted from computed tax).
+// SARS quotes secondary/tertiary as additional amounts; totals below:
+//   under 65: 17,820 | 65-74: 17,820+9,765=27,585 | 75+: 27,585+3,249=30,834
+$REBATE_PRIMARY   = 17820;  // under 65
+$REBATE_SECONDARY = 27585;  // 65 to 74 (total)
+$REBATE_TERTIARY  = 30834;  // 75 and over (total)
+
+// Tax thresholds (annual income below which no PAYE is payable) — rebate / 0.18
+$THRESHOLD_UNDER65 = 99000;
+$THRESHOLD_65_74   = 153250;
+$THRESHOLD_75PLUS  = 171300;
+
+// UIF — employee contribution
+$UIF_RATE      = 0.01;
+$UIF_CAP_MONTH = 177.12;    // 1% of the R17,712 monthly remuneration ceiling
+
+// Medical scheme fees tax credits (monthly)
+$MTC_MAIN_MEMBER      = 376;
+$MTC_FIRST_DEPENDANT  = 376;
+$MTC_ADDL_DEPENDANT   = 254;
+
+// Retirement funding deduction cap: 27.5% of remuneration, max R350,000 per year
+$PENSION_PCT_CAP = 0.275;
+$PENSION_RAND_CAP = 350000;
+
+// ---- shared calculation helpers (used by generated salary pages) ----
+function sapc_paye_annual(float $taxableAnnual): float {
+    global $TAX_BRACKETS;
+    $tax = 0.0; $prev = 0;
+    foreach ($TAX_BRACKETS as [$limit, $rate]) {
+        if ($taxableAnnual <= $prev) break;
+        $inBand = min($taxableAnnual, $limit) - $prev;
+        $tax += $inBand * $rate;
+        $prev = $limit;
+    }
+    return $tax;
+}
+
+function sapc_rebate(string $ageGroup): int {
+    global $REBATE_PRIMARY, $REBATE_SECONDARY, $REBATE_TERTIARY;
+    return match ($ageGroup) {
+        '65-74' => $REBATE_SECONDARY,
+        '75+'   => $REBATE_TERTIARY,
+        default => $REBATE_PRIMARY,
+    };
+}
+
+// Full breakdown for a gross MONTHLY salary, under-65, no deductions (salary pages).
+function sapc_breakdown(float $grossMonthly): array {
+    $annual = $grossMonthly * 12;
+    $payeAnnual = max(0.0, sapc_paye_annual($annual) - sapc_rebate('under65'));
+    $uifMonthly = min($grossMonthly * $GLOBALS['UIF_RATE'], $GLOBALS['UIF_CAP_MONTH']);
+    $uifAnnual = $uifMonthly * 12;
+    $netAnnual = $annual - $payeAnnual - $uifAnnual;
+    // marginal bracket
+    $bracket = '';
+    $prev = 0;
+    foreach ($GLOBALS['TAX_BRACKETS'] as [$limit, $rate]) {
+        if ($annual > $prev) { $bracket = (int)($rate * 100) . '%'; }
+        $prev = $limit;
+    }
+    return [
+        'gross_monthly' => $grossMonthly,
+        'gross_annual'  => $annual,
+        'paye_annual'   => $payeAnnual,
+        'paye_monthly'  => $payeAnnual / 12,
+        'uif_monthly'   => $uifMonthly,
+        'uif_annual'    => $uifAnnual,
+        'net_annual'    => $netAnnual,
+        'net_monthly'   => $netAnnual / 12,
+        'net_weekly'    => $netAnnual / 52,
+        'net_daily'     => $netAnnual / 365,
+        'effective_rate'=> $annual > 0 ? ($payeAnnual + $uifAnnual) / $annual : 0,
+        'marginal'      => $bracket,
+    ];
+}
+
+function sapc_r(float $n): string {
+    return 'R' . number_format($n, 2, '.', ' ');
+}
+function sapc_r0(float $n): string {
+    return 'R' . number_format(round($n), 0, '.', ' ');
+}
+
+// Programmatic salary pages (monthly gross amounts)
+$SALARY_LEVELS = [10000, 12500, 15000, 20000, 25000, 30000, 35000, 40000, 45000, 50000, 60000, 75000, 100000, 125000, 150000];
+function sapc_salary_slug(int $n): string {
+    return 'r' . $n . '-after-tax';
+}
