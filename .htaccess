@@ -1,1 +1,37 @@
-IyBTQSBQYXljaGVjayDigJQgc3RhdGljIFBIUCBzaXRlCkRpcmVjdG9yeUluZGV4IGluZGV4LnBocAoKIyBDbGVhbiBVUkxzOiBzdHJpcCAucGhwIChpbiBjYXNlIGFueSBiYXJlIC5waHAgVVJMIGlzIGV2ZXIgaGl0KQpSZXdyaXRlRW5naW5lIE9uClJld3JpdGVDb25kICV7VEhFX1JFUVVFU1R9IFwucGhwW1xzP10gW05DXQpSZXdyaXRlUnVsZSBeKC4qKVwucGhwJCAvJDEvIFtSPTMwMSxMXQoKIyBTZWN1cml0eSBoZWFkZXJzCjxJZk1vZHVsZSBtb2RfaGVhZGVycy5jPgogIEhlYWRlciBhbHdheXMgc2V0IFgtQ29udGVudC1UeXBlLU9wdGlvbnMgIm5vc25pZmYiCiAgSGVhZGVyIGFsd2F5cyBzZXQgWC1GcmFtZS1PcHRpb25zICJTQU1FT1JJR0lOIgogIEhlYWRlciBhbHdheXMgc2V0IFJlZmVycmVyLVBvbGljeSAic3RyaWN0LW9yaWdpbi13aGVuLWNyb3NzLW9yaWdpbiIKICBIZWFkZXIgYWx3YXlzIHNldCBQZXJtaXNzaW9ucy1Qb2xpY3kgImNhbWVyYT0oKSwgbWljcm9waG9uZT0oKSwgZ2VvbG9jYXRpb249KCkiCiAgSGVhZGVyIGFsd2F5cyBzZXQgQ29udGVudC1TZWN1cml0eS1Qb2xpY3kgImRlZmF1bHQtc3JjICdzZWxmJzsgc2NyaXB0LXNyYyAnc2VsZicgJ3Vuc2FmZS1pbmxpbmUnOyBzdHlsZS1zcmMgJ3NlbGYnICd1bnNhZmUtaW5saW5lJzsgaW1nLXNyYyAnc2VsZicgZGF0YTo7IGZvbnQtc3JjICdzZWxmJzsgY29ubmVjdC1zcmMgJ3NlbGYnOyBmcmFtZS1hbmNlc3RvcnMgJ3NlbGYnOyBiYXNlLXVyaSAnc2VsZic7IGZvcm0tYWN0aW9uICdzZWxmJyIKPC9JZk1vZHVsZT4KCiMgR3ppcAo8SWZNb2R1bGUgbW9kX2RlZmxhdGUuYz4KICBBZGRPdXRwdXRGaWx0ZXJCeVR5cGUgREVGTEFURSB0ZXh0L2h0bWwgdGV4dC9wbGFpbiB0ZXh0L2NzcyBhcHBsaWNhdGlvbi9qYXZhc2NyaXB0IGFwcGxpY2F0aW9uL2pzb24gaW1hZ2Uvc3ZnK3htbAo8L0lmTW9kdWxlPgoKIyBMb25nIGNhY2hlIGZvciBzdGF0aWMgYXNzZXRzCjxJZk1vZHVsZSBtb2RfZXhwaXJlcy5jPgogIEV4cGlyZXNBY3RpdmUgT24KICBFeHBpcmVzQnlUeXBlIHRleHQvY3NzICJhY2Nlc3MgcGx1cyA3IGRheXMiCiAgRXhwaXJlc0J5VHlwZSBhcHBsaWNhdGlvbi9qYXZhc2NyaXB0ICJhY2Nlc3MgcGx1cyA3IGRheXMiCiAgRXhwaXJlc0J5VHlwZSBpbWFnZS9zdmcreG1sICJhY2Nlc3MgcGx1cyAzMCBkYXlzIgo8L0lmTW9kdWxlPgoKIyBDdXN0b20gNDA0CkVycm9yRG9jdW1lbnQgNDA0IC80MDQucGhwCgojIEhpZGUgLmh0YWNjZXNzIGl0c2VsZgo8RmlsZXMgIi5odGFjY2VzcyI+CiAgUmVxdWlyZSBhbGwgZGVuaWVkCjwvRmlsZXM+Cg==
+# SA Paycheck — static PHP site
+DirectoryIndex index.php
+
+# Clean URLs: strip .php (in case any bare .php URL is ever hit)
+RewriteEngine On
+RewriteCond %{THE_REQUEST} \.php[\s?] [NC]
+RewriteRule ^(.*)\.php$ /$1/ [R=301,L]
+
+# Security headers
+<IfModule mod_headers.c>
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set X-Frame-Options "SAMEORIGIN"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set Permissions-Policy "camera=(), microphone=(), geolocation=()"
+  Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; frame-ancestors 'self'; base-uri 'self'; form-action 'self'"
+</IfModule>
+
+# Gzip
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/plain text/css application/javascript application/json image/svg+xml
+</IfModule>
+
+# Long cache for static assets
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType text/css "access plus 7 days"
+  ExpiresByType application/javascript "access plus 7 days"
+  ExpiresByType image/svg+xml "access plus 30 days"
+</IfModule>
+
+# Custom 404
+ErrorDocument 404 /404.php
+
+# Hide .htaccess itself
+<Files ".htaccess">
+  Require all denied
+</Files>
