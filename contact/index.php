@@ -1,1 +1,81 @@
-PD9waHAKcmVxdWlyZV9vbmNlIF9fRElSX18gLiAnLy4uL2luY2x1ZGVzL2NvbmZpZy5waHAnOwoKJHBhZ2VUaXRsZSA9ICJDb250YWN0IFNBIFBheWNoZWNrIjsKJHBhZ2VEZXNjID0gIkNvbnRhY3QgU0EgUGF5Y2hlY2sgd2l0aCBjb3JyZWN0aW9ucywgZmVlZGJhY2sgb3Igc3VnZ2VzdGlvbnMgZm9yIHRoZSBmcmVlIFNvdXRoIEFmcmljYW4gdGFrZS1ob21lIHBheSBjYWxjdWxhdG9yLiI7CiRjYW5vbmljYWwgPSAiL2NvbnRhY3QvIjsKCiRlcnJvcnMgPSBbXTsKJHNlbnQgPSBmYWxzZTsKJG5hbWUgPSAkZW1haWwgPSAkbWVzc2FnZSA9ICIiOwoKaWYgKCRfU0VSVkVSWydSRVFVRVNUX01FVEhPRCddID09PSAnUE9TVCcpIHsKICAgIC8vIEhvbmV5cG90OiBib3RzIGZpbGwgdGhpcyBpbnZpc2libGUgZmllbGQ7IGh1bWFucyBuZXZlciBzZWUgaXQuCiAgICBpZiAoIWVtcHR5KCRfUE9TVFsnd2Vic2l0ZSddID8/ICcnKSkgewogICAgICAgICRzZW50ID0gdHJ1ZTsgLy8gcHJldGVuZCBzdWNjZXNzLCBkcm9wIHNpbGVudGx5CiAgICB9IGVsc2UgewogICAgICAgICRuYW1lICAgID0gdHJpbSgkX1BPU1RbJ25hbWUnXSA/PyAnJyk7CiAgICAgICAgJGVtYWlsICAgPSB0cmltKCRfUE9TVFsnZW1haWwnXSA/PyAnJyk7CiAgICAgICAgJG1lc3NhZ2UgPSB0cmltKCRfUE9TVFsnbWVzc2FnZSddID8/ICcnKTsKCiAgICAgICAgaWYgKHN0cmxlbigkbmFtZSkgPCAyKSAgICAgICAgICAgICAgICAgICAgICAgJGVycm9yc1tdID0gIlBsZWFzZSBlbnRlciB5b3VyIG5hbWUuIjsKICAgICAgICBpZiAoIWZpbHRlcl92YXIoJGVtYWlsLCBGSUxURVJfVkFMSURBVEVfRU1BSUwpKSAkZXJyb3JzW10gPSAiUGxlYXNlIGVudGVyIGEgdmFsaWQgZW1haWwgYWRkcmVzcy4iOwogICAgICAgIGlmIChzdHJsZW4oJG1lc3NhZ2UpIDwgMTApICAgICAgICAgICAgICAgICAgICRlcnJvcnNbXSA9ICJQbGVhc2Ugd3JpdGUgYSBtZXNzYWdlIG9mIGF0IGxlYXN0IDEwIGNoYXJhY3RlcnMuIjsKICAgICAgICBpZiAoc3RybGVuKCRtZXNzYWdlKSA+IDUwMDApICAgICAgICAgICAgICAgICAkZXJyb3JzW10gPSAiTWVzc2FnZSBpcyB0b28gbG9uZyAobWF4IDUsMDAwIGNoYXJhY3RlcnMpLiI7CgogICAgICAgIGlmICghJGVycm9ycykgewogICAgICAgICAgICAkc2FmZU5hbWUgPSBzdHJfcmVwbGFjZShbIlxyIiwgIlxuIl0sICIgIiwgJG5hbWUpOwogICAgICAgICAgICAvLyBtYnN0cmluZyBtYXkgbm90IGJlIGluc3RhbGxlZCDigJQgZmFsbCBiYWNrIHRvIHN0cmxlbi1zYWZlIHN1YnN0ci4KICAgICAgICAgICAgJHNob3J0TmFtZSA9IGZ1bmN0aW9uX2V4aXN0cygnbWJfc3Vic3RyJykgPyBtYl9zdWJzdHIoJHNhZmVOYW1lLCAwLCA2MCkgOiBzdWJzdHIoJHNhZmVOYW1lLCAwLCA2MCk7CiAgICAgICAgICAgICRzdWJqZWN0ID0gIlNBIFBheWNoZWNrIGNvbnRhY3Q6ICIgLiAkc2hvcnROYW1lOwogICAgICAgICAgICAkYm9keSA9ICJOYW1lOiAkc2FmZU5hbWVcbkVtYWlsOiAkZW1haWxcblxuJG1lc3NhZ2VcbiI7CiAgICAgICAgICAgICRoZWFkZXJzID0gIkZyb206IG5vcmVwbHlAc2FwYXljaGVjay5jby56YVxyXG4iIC4KICAgICAgICAgICAgICAgICAgICAgICAiUmVwbHktVG86ICIgLiBzdHJfcmVwbGFjZShbIlxyIiwgIlxuIl0sICIiLCAkZW1haWwpIC4gIlxyXG4iIC4KICAgICAgICAgICAgICAgICAgICAgICAiQ29udGVudC1UeXBlOiB0ZXh0L3BsYWluOyBjaGFyc2V0PVVURi04IjsKICAgICAgICAgICAgLy8gTm90ZTogcmVxdWlyZXMgdGhlIGhvc3QgdG8gcm91dGUgUEhQIG1haWwoKSAoc2VuZG1haWwpLiBPbiBIb3N0aW5nZXIgdGhpcyB3b3JrcyBvdXQgb2YgdGhlIGJveC4KICAgICAgICAgICAgaWYgKG1haWwoJENPTlRBQ1RfRU1BSUwsICRzdWJqZWN0LCAkYm9keSwgJGhlYWRlcnMpKSB7CiAgICAgICAgICAgICAgICAkc2VudCA9IHRydWU7CiAgICAgICAgICAgICAgICAkbmFtZSA9ICRlbWFpbCA9ICRtZXNzYWdlID0gIiI7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAkZXJyb3JzW10gPSAiU2VuZGluZyBmYWlsZWQg4oCUIHBsZWFzZSBlbWFpbCB1cyBkaXJlY3RseSBhdCAiIC4gJENPTlRBQ1RfRU1BSUwgLiAiLiI7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cn0KcmVxdWlyZSBfX0RJUl9fIC4gJy8uLi9pbmNsdWRlcy9oZWFkZXIucGhwJzsKPz4KPHNlY3Rpb24gY2xhc3M9InNlY3Rpb24iPgogIDxkaXYgY2xhc3M9IndyYXAiPgogICAgPGRpdiBjbGFzcz0ia2lja2VyIj5TZW5kIGEgbWVzc2FnZTwvZGl2PgogICAgPGgxIGNsYXNzPSJoMiI+Q29udGFjdCBTQSBQYXljaGVjazwvaDE+CiAgICA8cCBjbGFzcz0ic3ViIj5TcG90dGVkIGEgd3JvbmcgbnVtYmVyPyBTdWdnZXN0IGEgZmVhdHVyZT8gVGVsbCB1cyDigJQgY2FsY3VsYXRpb24gY29ycmVjdGlvbnMgZ2V0IHByaW9yaXR5LjwvcD4KICAgIDxkaXYgY2xhc3M9ImNhcmQiIHN0eWxlPSJtYXgtd2lkdGg6NjgwcHgiPgogICAgICA8P3BocCBpZiAoJHNlbnQpOiA/PgogICAgICAgIDxkaXYgY2xhc3M9InN1Y2Nlc3MiPjxzdHJvbmc+TWVzc2FnZSBzZW50Ljwvc3Ryb25nPiBUaGFuayB5b3Ug4oCUIHdlJ2xsIGdldCBiYWNrIHRvIHlvdSBpZiBhIHJlcGx5IGlzIG5lZWRlZC48L2Rpdj4KICAgICAgPD9waHAgZW5kaWY7ID8+CiAgICAgIDw/cGhwIGZvcmVhY2ggKCRlcnJvcnMgYXMgJGUpOiA/PgogICAgICAgIDxkaXYgY2xhc3M9ImVycm9yIj48P3BocCBlY2hvIGh0bWxzcGVjaWFsY2hhcnMoJGUpOyA/PjwvZGl2PgogICAgICA8P3BocCBlbmRmb3JlYWNoOyA/PgogICAgICA8ZGl2IGNsYXNzPSJlcnJvciIgaWQ9ImNmLWVycm9yIiBzdHlsZT0iZGlzcGxheTpub25lIj48L2Rpdj4KICAgICAgPGZvcm0gbWV0aG9kPSJwb3N0IiBhY3Rpb249Ii9jb250YWN0LyIgaWQ9ImNvbnRhY3RGb3JtIiBub3ZhbGlkYXRlPgogICAgICAgIDxkaXYgY2xhc3M9ImZpZWxkIj4KICAgICAgICAgIDxsYWJlbCBmb3I9ImNmLW5hbWUiPk5hbWU8L2xhYmVsPgogICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIGlkPSJjZi1uYW1lIiBuYW1lPSJuYW1lIiB2YWx1ZT0iPD9waHAgZWNobyBodG1sc3BlY2lhbGNoYXJzKCRuYW1lKTsgPz4iIGF1dG9jb21wbGV0ZT0ibmFtZSI+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBjbGFzcz0iZmllbGQiPgogICAgICAgICAgPGxhYmVsIGZvcj0iY2YtZW1haWwiPkVtYWlsPC9sYWJlbD4KICAgICAgICAgIDxpbnB1dCB0eXBlPSJlbWFpbCIgaWQ9ImNmLWVtYWlsIiBuYW1lPSJlbWFpbCIgdmFsdWU9Ijw/cGhwIGVjaG8gaHRtbHNwZWNpYWxjaGFycygkZW1haWwpOyA/PiIgYXV0b2NvbXBsZXRlPSJlbWFpbCI+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBjbGFzcz0iZmllbGQiPgogICAgICAgICAgPGxhYmVsIGZvcj0iY2YtbWVzc2FnZSI+TWVzc2FnZTwvbGFiZWw+CiAgICAgICAgICA8dGV4dGFyZWEgaWQ9ImNmLW1lc3NhZ2UiIG5hbWU9Im1lc3NhZ2UiIHJvd3M9IjYiIHBsYWNlaG9sZGVyPSJXaGljaCBwYWdlPyBXaGF0IGxvb2tzIG9mZj8iPjw/cGhwIGVjaG8gaHRtbHNwZWNpYWxjaGFycygkbWVzc2FnZSk7ID8+PC90ZXh0YXJlYT4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzPSJocCIgYXJpYS1oaWRkZW49InRydWUiPgogICAgICAgICAgPGxhYmVsPldlYnNpdGUgPGlucHV0IHR5cGU9InRleHQiIG5hbWU9IndlYnNpdGUiIHRhYmluZGV4PSItMSIgYXV0b2NvbXBsZXRlPSJvZmYiPjwvbGFiZWw+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGJ1dHRvbiB0eXBlPSJzdWJtaXQiIGNsYXNzPSJidG4gYnRuLXByaW1hcnkiPlNlbmQgbWVzc2FnZTwvYnV0dG9uPgogICAgICA8L2Zvcm0+CiAgICA8L2Rpdj4KICA8L2Rpdj4KPC9zZWN0aW9uPgo8P3BocCByZXF1aXJlIF9fRElSX18gLiAnLy4uL2luY2x1ZGVzL2Zvb3Rlci5waHAnOyA/Pgo=
+<?php
+require_once __DIR__ . '/../includes/config.php';
+
+$pageTitle = "Contact SA Paycheck";
+$pageDesc = "Contact SA Paycheck with corrections, feedback or suggestions for the free South African take-home pay calculator.";
+$canonical = "/contact/";
+
+$errors = [];
+$sent = false;
+$name = $email = $message = "";
+
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+    // Honeypot: bots fill this invisible field; humans never see it.
+    if (!empty($_POST['website'] ?? '')) {
+        $sent = true; // pretend success, drop silently
+    } else {
+        $name    = trim($_POST['name'] ?? '');
+        $email   = trim($_POST['email'] ?? '');
+        $message = trim($_POST['message'] ?? '');
+
+        if (strlen($name) < 2)                       $errors[] = "Please enter your name.";
+        if (!filter_var($email, FILTER_VALIDATE_EMAIL)) $errors[] = "Please enter a valid email address.";
+        if (strlen($message) < 10)                   $errors[] = "Please write a message of at least 10 characters.";
+        if (strlen($message) > 5000)                 $errors[] = "Message is too long (max 5,000 characters).";
+
+        if (!$errors) {
+            $safeName = str_replace(["\r", "\n"], " ", $name);
+            // mbstring may not be installed — fall back to strlen-safe substr.
+            $shortName = function_exists('mb_substr') ? mb_substr($safeName, 0, 60) : substr($safeName, 0, 60);
+            $subject = "SA Paycheck contact: " . $shortName;
+            $body = "Name: $safeName\nEmail: $email\n\n$message\n";
+            $headers = "From: noreply@sapaycheck.co.za\r\n" .
+                       "Reply-To: " . str_replace(["\r", "\n"], "", $email) . "\r\n" .
+                       "Content-Type: text/plain; charset=UTF-8";
+            // Note: requires the host to route PHP mail() (sendmail). On Hostinger this works out of the box.
+            if (mail($CONTACT_EMAIL, $subject, $body, $headers)) {
+                $sent = true;
+                $name = $email = $message = "";
+            } else {
+                $errors[] = "Sending failed — please email us directly at " . $CONTACT_EMAIL . ".";
+            }
+        }
+    }
+}
+require __DIR__ . '/../includes/header.php';
+?>
+<section class="section">
+  <div class="wrap">
+    <div class="kicker">Send a message</div>
+    <h1 class="h2">Contact SA Paycheck</h1>
+    <p class="sub">Spotted a wrong number? Suggest a feature? Tell us — calculation corrections get priority.</p>
+    <div class="card" style="max-width:680px">
+      <?php if ($sent): ?>
+        <div class="success"><strong>Message sent.</strong> Thank you — we'll get back to you if a reply is needed.</div>
+      <?php endif; ?>
+      <?php foreach ($errors as $e): ?>
+        <div class="error"><?php echo htmlspecialchars($e); ?></div>
+      <?php endforeach; ?>
+      <div class="error" id="cf-error" style="display:none"></div>
+      <form method="post" action="/contact/" id="contactForm" novalidate>
+        <div class="field">
+          <label for="cf-name">Name</label>
+          <input type="text" id="cf-name" name="name" value="<?php echo htmlspecialchars($name); ?>" autocomplete="name">
+        </div>
+        <div class="field">
+          <label for="cf-email">Email</label>
+          <input type="email" id="cf-email" name="email" value="<?php echo htmlspecialchars($email); ?>" autocomplete="email">
+        </div>
+        <div class="field">
+          <label for="cf-message">Message</label>
+          <textarea id="cf-message" name="message" rows="6" placeholder="Which page? What looks off?"><?php echo htmlspecialchars($message); ?></textarea>
+        </div>
+        <div class="hp" aria-hidden="true">
+          <label>Website <input type="text" name="website" tabindex="-1" autocomplete="off"></label>
+        </div>
+        <button type="submit" class="btn btn-primary">Send message</button>
+      </form>
+    </div>
+  </div>
+</section>
+<?php require __DIR__ . '/../includes/footer.php'; ?>
